@@ -1,0 +1,100 @@
+{
+  "generator": "Built-in image generation",
+  "entries": [
+    {
+      "id": "hello",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Two Vietnamese chibi students, boy with short blue hair and girl with pink braids, waving hello at the entrance of a cloud academy with a fluffy cream puppy.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-e04c27f3-43e4-45b4-ae10-ade9dd81160d.png"
+    },
+    {
+      "id": "school",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Vietnamese chibi boy and girl studying together at classroom desks, notebooks, pencil case and chalkboard, fluffy cream puppy with schoolbag.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-51b7b346-c070-4b10-87a0-0666785d4dc5.png"
+    },
+    {
+      "id": "family",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Warm family living room, chibi parents and two children cuddling a cream puppy and kitten on a sofa.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-b5bbcabc-fef0-4850-bec0-24cb94093b8b.png"
+    },
+    {
+      "id": "food",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy customer ordering a strawberry drink and croissant from a girl barista at a cozy cafe counter.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-b5a1809f-f4fa-45a4-8529-92b569fae744.png"
+    },
+    {
+      "id": "hobby",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi girl painting at an easel and boy playing a small guitar in a flower garden, puppy listening.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-95da7aa5-85ab-4160-b687-18cf2ea02b0c.png"
+    },
+    {
+      "id": "day",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy stretching beside his bed at sunrise, girl packing a schoolbag, large bedside alarm clock.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-d57e33c1-26d9-40f3-8bc0-f44778e34ce6.png"
+    },
+    {
+      "id": "travel",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl with rolling suitcases and passports at an airport window overlooking a passenger airplane.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-6d64690f-1045-4e8a-b87a-50b7c5e8e92f.png"
+    },
+    {
+      "id": "hotel",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi travelers at a hotel reception desk receiving a room key from a friendly receptionist, luggage and bell.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-ce020e9a-e142-4c39-b622-db82a1f3ec09.png"
+    },
+    {
+      "id": "shopping",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl choosing clothes and shoes in a pastel boutique with shopping bags.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-eccab7f4-dc68-40f8-954b-d209fa8beed8.png"
+    },
+    {
+      "id": "directions",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy holding a city map asking a girl for directions at a charming street intersection with signposts.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-f1374921-753f-410f-a44a-2a7d0d2066c2.png"
+    },
+    {
+      "id": "weather",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi girl with umbrella in gentle rain and boy in a sunhat beneath a rainbow, clouds and sunshine.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-4f8556ea-eab0-4a0a-aea5-7d06f327e83b.png"
+    },
+    {
+      "id": "health",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Friendly chibi doctor with stethoscope checking a young patient in a bright clinic, first aid kit and thermometer.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-802c7449-115c-470f-ab76-565da60fce6d.png"
+    },
+    {
+      "id": "work",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi adult man and woman collaborating at an office desk with laptop, documents and a cup of tea.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-d54fcb7c-4691-4c6d-bf3b-7118b30f6bd9.png"
+    },
+    {
+      "id": "technology",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl exploring a tablet and a tiny friendly robot in a pastel computer lab.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-e12f4b84-0e28-404e-b538-72cc24df1ed5.png"
+    },
+    {
+      "id": "environment",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl planting a sapling and sorting recycling in a green garden, puppy beside a watering can.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-7dbe71e5-5648-42c9-a797-cf23757ab58f.png"
+    },
+    {
+      "id": "transport",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl boarding a blue city bus at a flower-lined bus stop, tickets in hand.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-2716e2aa-22a1-4d42-9293-9852133df80f.png"
+    },
+    {
+      "id": "cooking",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi boy and girl wearing aprons cooking vegetable soup in a bright home kitchen, cutting board and vegetables.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-dfcce83b-f391-4ecf-8a03-d58d2aab5e5d.png"
+    },
+    {
+      "id": "weekend",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi friends having a picnic by a lake, camera, basket, cream puppy playing with a ball.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-5048ba5a-aef8-4dc7-94e6-c427be33c292.png"
+    },
+    {
+      "id": "bank",
+      "prompt": "Wide landscape 3:2 illustration, high quality soft watercolor anime chibi storybook art for English Quest. Delicate warm thin outlines, detailed soft fabric, pastel cream, sky blue, peach pink, subtle gold star accents. Expressive large blue violet eyes. Distinct fully illustrated environment, clear storytelling at thumbnail size. Original characters, both male and female. No text, no labels, no logos, no collage, no frames. Chibi adult customer opening an account at a friendly bank service desk, bank card, documents and small coin jar.",
+      "path": "C:\\Users\\PC\\.codex\\generated_images\\01a17743-7d77-70b3-a633-6daba77b0f01\\exec-daf8af1d-63db-447d-9a7c-bc0aa5f007e9.png"
+    }
+  ]
+}

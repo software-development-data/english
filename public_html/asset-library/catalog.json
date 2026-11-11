@@ -1,0 +1,170 @@
+[
+  {
+    "asset": "culture-personas-01.webp",
+    "source": "image(20261027-062540).png",
+    "category": "Trang phục & nhân vật",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "culture-personas-02.webp",
+    "source": "image(20261027-062540-1).png",
+    "category": "Trang phục & nhân vật",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "culture-outfits-01.webp",
+    "source": "image(20261027-062540-2).png",
+    "category": "Tủ đồ Hán phục",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "culture-accessories-01.webp",
+    "source": "image(20261027-062544).png",
+    "category": "Tủ đồ Hán phục",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "culture-accessories-02.webp",
+    "source": "image(20261027-062550).png",
+    "category": "Tủ đồ Hán phục",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-egg-stages.webp",
+    "source": "image(20261027-062556).png",
+    "category": "Trứng thú cưng",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-wardrobe.webp",
+    "source": "image(20261027-062603).png",
+    "category": "Phụ kiện thú cưng",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "lesson-controls.webp",
+    "source": "image(20261027-062620).png",
+    "category": "Tiện ích học tập",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "frames-01.webp",
+    "source": "image(20261027-062621).png",
+    "category": "Khung thành tích",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "pet-pair.webp",
+    "source": "image(20261027-062622).png",
+    "category": "Thú cưng",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-emotes-01.webp",
+    "source": "image(20261027-062624).png",
+    "category": "Biểu cảm Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-idle.webp",
+    "source": "image(20261027-062630).png",
+    "category": "Mascot Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-reading-group.webp",
+    "source": "image(20261027-062637).png",
+    "category": "Học cùng Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-expressions.webp",
+    "source": "image(20261027-062642).png",
+    "category": "Biểu cảm Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "frames-02.webp",
+    "source": "image(20261027-062659).png",
+    "category": "Khung thành tích",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "learning-rewards.webp",
+    "source": "image(20261027-062659-1).png",
+    "category": "Quà học tập",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "achievement-icons.webp",
+    "source": "image(20261027-062704).png",
+    "category": "Huy hiệu",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "frames-03.webp",
+    "source": "image(20261027-062710).png",
+    "category": "Khung thành tích",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "pet-rewards.webp",
+    "source": "image(20261027-062715).png",
+    "category": "Quà thú cưng",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "study-world.webp",
+    "source": "image(20261027-062720).png",
+    "category": "Trang trí học viện",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-thinking.webp",
+    "source": "image(20261027-062804).png",
+    "category": "Biểu cảm Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-cheer.webp",
+    "source": "image(20261027-062817).png",
+    "category": "Mascot Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-reading-01.webp",
+    "source": "image(20261027-062823).png",
+    "category": "Mascot Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  },
+  {
+    "asset": "mochi-reading-02.webp",
+    "source": "image(20261027-062827).png",
+    "category": "Mascot Mochi",
+    "format": "WebP, alpha preserved",
+    "used_in": "Tủ đồ / đường học / thú cưng / huy hiệu"
+  }
+]

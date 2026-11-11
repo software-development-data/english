@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vn-ao-dai-male",
+    "gender": "male",
+    "image": "/fashion/cultural/vn-ao-dai-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "vn-ao-dai-female",
+    "gender": "female",
+    "image": "/fashion/cultural/vn-ao-dai-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "cn-changshan-male",
+    "gender": "male",
+    "image": "/fashion/cultural/cn-changshan-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "cn-ruqun-female",
+    "gender": "female",
+    "image": "/fashion/cultural/cn-ruqun-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "vn-ngu-than-male",
+    "gender": "male",
+    "image": "/fashion/cultural/vn-ngu-than-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "vn-ngu-than-female",
+    "gender": "female",
+    "image": "/fashion/cultural/vn-ngu-than-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "cn-hanfu-male",
+    "gender": "male",
+    "image": "/fashion/cultural/cn-hanfu-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "cn-hanfu-female",
+    "gender": "female",
+    "image": "/fashion/cultural/cn-hanfu-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "vn-ba-ba-male",
+    "gender": "male",
+    "image": "/fashion/cultural/vn-ba-ba-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "vn-ba-ba-female",
+    "gender": "female",
+    "image": "/fashion/cultural/vn-ba-ba-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "fantasy-scholar-male",
+    "gender": "male",
+    "image": "/fashion/cultural/fantasy-scholar-male.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  },
+  {
+    "id": "fantasy-scholar-female",
+    "gender": "female",
+    "image": "/fashion/cultural/fantasy-scholar-female.webp",
+    "style": "Trang phục game lấy cảm hứng truyền thống; không phải phục dựng lịch sử"
+  }
+]

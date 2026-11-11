@@ -1,0 +1,6398 @@
+[
+  {
+    "id": "travel",
+    "title": "Du lịch và sân bay",
+    "subtitle": "Du lịch và sân bay · A2",
+    "emoji": "✈️",
+    "level": "A2",
+    "words": [
+      {
+        "en": "passport",
+        "vi": "Hộ chiếu",
+        "ipa": "",
+        "example": "Please show your passport.",
+        "translation": "Vui lòng xuất trình hộ chiếu."
+      },
+      {
+        "en": "ticket",
+        "vi": "Vé",
+        "ipa": "",
+        "example": "I have a return ticket.",
+        "translation": "Tôi có vé khứ hồi."
+      },
+      {
+        "en": "airport",
+        "vi": "Sân bay",
+        "ipa": "",
+        "example": "We arrived at the airport early.",
+        "translation": "Chúng tôi đến sân bay sớm."
+      },
+      {
+        "en": "luggage",
+        "vi": "Hành lý",
+        "ipa": "",
+        "example": "My luggage is heavy.",
+        "translation": "Hành lý của tôi nặng."
+      },
+      {
+        "en": "flight",
+        "vi": "Chuyến bay",
+        "ipa": "",
+        "example": "Our flight leaves at nine.",
+        "translation": "Chuyến bay của chúng tôi khởi hành lúc chín giờ."
+      },
+      {
+        "en": "boarding pass",
+        "vi": "Thẻ lên máy bay",
+        "ipa": "",
+        "example": "Here is my boarding pass.",
+        "translation": "Đây là thẻ lên máy bay của tôi."
+      },
+      {
+        "en": "gate",
+        "vi": "Cửa lên máy bay",
+        "ipa": "",
+        "example": "Please go to gate six.",
+        "translation": "Vui lòng đến cửa số sáu."
+      },
+      {
+        "en": "departure",
+        "vi": "Sự khởi hành",
+        "ipa": "",
+        "example": "Check the departure time.",
+        "translation": "Hãy kiểm tra giờ khởi hành."
+      },
+      {
+        "en": "arrival",
+        "vi": "Sự đến nơi",
+        "ipa": "",
+        "example": "The arrival time is ten.",
+        "translation": "Giờ đến là mười giờ."
+      },
+      {
+        "en": "delay",
+        "vi": "Sự chậm trễ",
+        "ipa": "",
+        "example": "There is a short delay.",
+        "translation": "Có một chút chậm trễ."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Where is gate six?",
+        "Cửa số sáu ở đâu?"
+      ],
+      [
+        "Luna",
+        "It is next to the cafe.",
+        "Nó ở cạnh quán cà phê."
+      ],
+      [
+        "Linh",
+        "When does the flight leave?",
+        "Chuyến bay khởi hành khi nào?"
+      ],
+      [
+        "Luna",
+        "It leaves at nine.",
+        "Chuyến bay khởi hành lúc chín giờ."
+      ]
+    ],
+    "grammar": {
+      "title": "Be going to — Dự định",
+      "rule": "Chủ ngữ + am/is/are + going to + động từ nguyên mẫu.",
+      "example": "I am going to travel. She is going to study.",
+      "note": "Chọn am/is/are theo chủ ngữ. Dùng cấu trúc này cho dự định đã có."
+    },
+    "grammarPractice": [
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ going to plant trees.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They đi với are."
+      },
+      {
+        "prompt": "___ you going to cook?",
+        "options": [
+          "Is",
+          "Are",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "You đi với are; đảo are lên đầu câu hỏi."
+      },
+      {
+        "prompt": "We are ___ to visit Hue.",
+        "options": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ],
+        "correct": 3,
+        "explanation": "Cấu trúc be going to + động từ."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "It leaves at nine.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Chuyến bay khởi hành lúc chín giờ."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“passport” có nghĩa là gì?",
+        "options": [
+          "Hộ chiếu",
+          "Vé",
+          "Sân bay",
+          "Hành lý"
+        ],
+        "correct": 0,
+        "explanation": "Please show your passport. — Vui lòng xuất trình hộ chiếu."
+      },
+      {
+        "prompt": "“ticket” có nghĩa là gì?",
+        "options": [
+          "Sân bay",
+          "Hành lý",
+          "Chuyến bay",
+          "Vé"
+        ],
+        "correct": 3,
+        "explanation": "I have a return ticket. — Tôi có vé khứ hồi."
+      },
+      {
+        "prompt": "“airport” có nghĩa là gì?",
+        "options": [
+          "Chuyến bay",
+          "Thẻ lên máy bay",
+          "Sân bay",
+          "Hành lý"
+        ],
+        "correct": 2,
+        "explanation": "We arrived at the airport early. — Chúng tôi đến sân bay sớm."
+      },
+      {
+        "prompt": "“luggage” có nghĩa là gì?",
+        "options": [
+          "Cửa lên máy bay",
+          "Hành lý",
+          "Chuyến bay",
+          "Thẻ lên máy bay"
+        ],
+        "correct": 1,
+        "explanation": "My luggage is heavy. — Hành lý của tôi nặng."
+      },
+      {
+        "prompt": "“flight” có nghĩa là gì?",
+        "options": [
+          "Chuyến bay",
+          "Thẻ lên máy bay",
+          "Cửa lên máy bay",
+          "Sự khởi hành"
+        ],
+        "correct": 0,
+        "explanation": "Our flight leaves at nine. — Chuyến bay của chúng tôi khởi hành lúc chín giờ."
+      },
+      {
+        "prompt": "“boarding pass” có nghĩa là gì?",
+        "options": [
+          "Cửa lên máy bay",
+          "Sự khởi hành",
+          "Sự đến nơi",
+          "Thẻ lên máy bay"
+        ],
+        "correct": 3,
+        "explanation": "Here is my boarding pass. — Đây là thẻ lên máy bay của tôi."
+      },
+      {
+        "prompt": "“gate” có nghĩa là gì?",
+        "options": [
+          "Sự đến nơi",
+          "Sự chậm trễ",
+          "Cửa lên máy bay",
+          "Sự khởi hành"
+        ],
+        "correct": 2,
+        "explanation": "Please go to gate six. — Vui lòng đến cửa số sáu."
+      },
+      {
+        "prompt": "“departure” có nghĩa là gì?",
+        "options": [
+          "Hộ chiếu",
+          "Sự khởi hành",
+          "Sự đến nơi",
+          "Sự chậm trễ"
+        ],
+        "correct": 1,
+        "explanation": "Check the departure time. — Hãy kiểm tra giờ khởi hành."
+      },
+      {
+        "prompt": "“arrival” có nghĩa là gì?",
+        "options": [
+          "Sự đến nơi",
+          "Sự chậm trễ",
+          "Hộ chiếu",
+          "Vé"
+        ],
+        "correct": 0,
+        "explanation": "The arrival time is ten. — Giờ đến là mười giờ."
+      },
+      {
+        "prompt": "“delay” có nghĩa là gì?",
+        "options": [
+          "Hộ chiếu",
+          "Vé",
+          "Sân bay",
+          "Sự chậm trễ"
+        ],
+        "correct": 3,
+        "explanation": "There is a short delay. — Có một chút chậm trễ."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hộ chiếu”.",
+        "options": [
+          "airport",
+          "passport",
+          "luggage",
+          "flight"
+        ],
+        "correct": 1,
+        "explanation": "Hộ chiếu = passport"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Vé”.",
+        "options": [
+          "luggage",
+          "ticket",
+          "flight",
+          "boarding pass"
+        ],
+        "correct": 1,
+        "explanation": "Vé = ticket"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sân bay”.",
+        "options": [
+          "flight",
+          "airport",
+          "boarding pass",
+          "gate"
+        ],
+        "correct": 1,
+        "explanation": "Sân bay = airport"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hành lý”.",
+        "options": [
+          "boarding pass",
+          "luggage",
+          "gate",
+          "departure"
+        ],
+        "correct": 1,
+        "explanation": "Hành lý = luggage"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Chuyến bay”.",
+        "options": [
+          "gate",
+          "flight",
+          "departure",
+          "arrival"
+        ],
+        "correct": 1,
+        "explanation": "Chuyến bay = flight"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“passport” có nghĩa là gì?",
+        "options": [
+          "Hộ chiếu",
+          "Vé",
+          "Sân bay",
+          "Hành lý"
+        ],
+        "correct": 0,
+        "explanation": "Please show your passport. — Vui lòng xuất trình hộ chiếu."
+      },
+      {
+        "prompt": "“ticket” có nghĩa là gì?",
+        "options": [
+          "Sân bay",
+          "Hành lý",
+          "Chuyến bay",
+          "Vé"
+        ],
+        "correct": 3,
+        "explanation": "I have a return ticket. — Tôi có vé khứ hồi."
+      },
+      {
+        "prompt": "“airport” có nghĩa là gì?",
+        "options": [
+          "Chuyến bay",
+          "Thẻ lên máy bay",
+          "Sân bay",
+          "Hành lý"
+        ],
+        "correct": 2,
+        "explanation": "We arrived at the airport early. — Chúng tôi đến sân bay sớm."
+      },
+      {
+        "prompt": "“luggage” có nghĩa là gì?",
+        "options": [
+          "Cửa lên máy bay",
+          "Hành lý",
+          "Chuyến bay",
+          "Thẻ lên máy bay"
+        ],
+        "correct": 1,
+        "explanation": "My luggage is heavy. — Hành lý của tôi nặng."
+      },
+      {
+        "prompt": "“flight” có nghĩa là gì?",
+        "options": [
+          "Chuyến bay",
+          "Thẻ lên máy bay",
+          "Cửa lên máy bay",
+          "Sự khởi hành"
+        ],
+        "correct": 0,
+        "explanation": "Our flight leaves at nine. — Chuyến bay của chúng tôi khởi hành lúc chín giờ."
+      },
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ going to plant trees.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They đi với are."
+      },
+      {
+        "prompt": "___ you going to cook?",
+        "options": [
+          "Is",
+          "Are",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "You đi với are; đảo are lên đầu câu hỏi."
+      },
+      {
+        "prompt": "We are ___ to visit Hue.",
+        "options": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ],
+        "correct": 3,
+        "explanation": "Cấu trúc be going to + động từ."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hộ chiếu”.",
+        "options": [
+          "airport",
+          "passport",
+          "luggage",
+          "flight"
+        ],
+        "correct": 1,
+        "explanation": "Hộ chiếu = passport"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Vé”.",
+        "options": [
+          "luggage",
+          "ticket",
+          "flight",
+          "boarding pass"
+        ],
+        "correct": 1,
+        "explanation": "Vé = ticket"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sân bay”.",
+        "options": [
+          "flight",
+          "airport",
+          "boarding pass",
+          "gate"
+        ],
+        "correct": 1,
+        "explanation": "Sân bay = airport"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hành lý”.",
+        "options": [
+          "boarding pass",
+          "luggage",
+          "gate",
+          "departure"
+        ],
+        "correct": 1,
+        "explanation": "Hành lý = luggage"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Chuyến bay”.",
+        "options": [
+          "gate",
+          "flight",
+          "departure",
+          "arrival"
+        ],
+        "correct": 1,
+        "explanation": "Chuyến bay = flight"
+      }
+    ]
+  },
+  {
+    "id": "hotel",
+    "title": "Đặt phòng khách sạn",
+    "subtitle": "Đặt phòng khách sạn · A2",
+    "emoji": "🏨",
+    "level": "A2",
+    "words": [
+      {
+        "en": "reservation",
+        "vi": "Việc đặt chỗ",
+        "ipa": "",
+        "example": "I have a reservation.",
+        "translation": "Tôi đã đặt chỗ."
+      },
+      {
+        "en": "reception",
+        "vi": "Quầy lễ tân",
+        "ipa": "",
+        "example": "Please ask at reception.",
+        "translation": "Vui lòng hỏi tại quầy lễ tân."
+      },
+      {
+        "en": "single room",
+        "vi": "Phòng đơn",
+        "ipa": "",
+        "example": "I would like a single room.",
+        "translation": "Tôi muốn một phòng đơn."
+      },
+      {
+        "en": "double room",
+        "vi": "Phòng có giường đôi",
+        "ipa": "",
+        "example": "We booked a double room.",
+        "translation": "Chúng tôi đã đặt phòng có giường đôi."
+      },
+      {
+        "en": "key card",
+        "vi": "Thẻ khóa",
+        "ipa": "",
+        "example": "I lost my key card.",
+        "translation": "Tôi làm mất thẻ khóa."
+      },
+      {
+        "en": "breakfast",
+        "vi": "Bữa sáng",
+        "ipa": "",
+        "example": "Breakfast starts at seven.",
+        "translation": "Bữa sáng bắt đầu lúc bảy giờ."
+      },
+      {
+        "en": "check in",
+        "vi": "Nhận phòng",
+        "ipa": "",
+        "example": "We can check in at two.",
+        "translation": "Chúng tôi có thể nhận phòng lúc hai giờ."
+      },
+      {
+        "en": "check out",
+        "vi": "Trả phòng",
+        "ipa": "",
+        "example": "Please check out before noon.",
+        "translation": "Vui lòng trả phòng trước buổi trưa."
+      },
+      {
+        "en": "towel",
+        "vi": "Khăn tắm",
+        "ipa": "",
+        "example": "Could I have a clean towel?",
+        "translation": "Tôi có thể xin một khăn tắm sạch không?"
+      },
+      {
+        "en": "lift",
+        "vi": "Thang máy",
+        "ipa": "",
+        "example": "The lift is on your left.",
+        "translation": "Thang máy ở bên trái bạn."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "I have a reservation for two nights.",
+        "Tôi đã đặt phòng hai đêm."
+      ],
+      [
+        "Luna",
+        "Welcome. May I see your passport?",
+        "Xin chào. Cho tôi xem hộ chiếu được không?"
+      ],
+      [
+        "Linh",
+        "Is breakfast included?",
+        "Giá phòng đã bao gồm bữa sáng chưa?"
+      ],
+      [
+        "Luna",
+        "Yes. It starts at seven.",
+        "Có. Bữa sáng bắt đầu lúc bảy giờ."
+      ]
+    ],
+    "grammar": {
+      "title": "Can — Khả năng và lời đề nghị",
+      "rule": "Chủ ngữ + can + động từ nguyên mẫu. Can không thêm -s.",
+      "example": "She can swim. Can you help me?",
+      "note": "Phủ định: cannot / can’t. Câu hỏi: Can + chủ ngữ + động từ?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Yes. It starts at seven.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Có. Bữa sáng bắt đầu lúc bảy giờ."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“reservation” có nghĩa là gì?",
+        "options": [
+          "Việc đặt chỗ",
+          "Quầy lễ tân",
+          "Phòng đơn",
+          "Phòng có giường đôi"
+        ],
+        "correct": 0,
+        "explanation": "I have a reservation. — Tôi đã đặt chỗ."
+      },
+      {
+        "prompt": "“reception” có nghĩa là gì?",
+        "options": [
+          "Phòng đơn",
+          "Phòng có giường đôi",
+          "Thẻ khóa",
+          "Quầy lễ tân"
+        ],
+        "correct": 3,
+        "explanation": "Please ask at reception. — Vui lòng hỏi tại quầy lễ tân."
+      },
+      {
+        "prompt": "“single room” có nghĩa là gì?",
+        "options": [
+          "Thẻ khóa",
+          "Bữa sáng",
+          "Phòng đơn",
+          "Phòng có giường đôi"
+        ],
+        "correct": 2,
+        "explanation": "I would like a single room. — Tôi muốn một phòng đơn."
+      },
+      {
+        "prompt": "“double room” có nghĩa là gì?",
+        "options": [
+          "Nhận phòng",
+          "Phòng có giường đôi",
+          "Thẻ khóa",
+          "Bữa sáng"
+        ],
+        "correct": 1,
+        "explanation": "We booked a double room. — Chúng tôi đã đặt phòng có giường đôi."
+      },
+      {
+        "prompt": "“key card” có nghĩa là gì?",
+        "options": [
+          "Thẻ khóa",
+          "Bữa sáng",
+          "Nhận phòng",
+          "Trả phòng"
+        ],
+        "correct": 0,
+        "explanation": "I lost my key card. — Tôi làm mất thẻ khóa."
+      },
+      {
+        "prompt": "“breakfast” có nghĩa là gì?",
+        "options": [
+          "Nhận phòng",
+          "Trả phòng",
+          "Khăn tắm",
+          "Bữa sáng"
+        ],
+        "correct": 3,
+        "explanation": "Breakfast starts at seven. — Bữa sáng bắt đầu lúc bảy giờ."
+      },
+      {
+        "prompt": "“check in” có nghĩa là gì?",
+        "options": [
+          "Khăn tắm",
+          "Thang máy",
+          "Nhận phòng",
+          "Trả phòng"
+        ],
+        "correct": 2,
+        "explanation": "We can check in at two. — Chúng tôi có thể nhận phòng lúc hai giờ."
+      },
+      {
+        "prompt": "“check out” có nghĩa là gì?",
+        "options": [
+          "Việc đặt chỗ",
+          "Trả phòng",
+          "Khăn tắm",
+          "Thang máy"
+        ],
+        "correct": 1,
+        "explanation": "Please check out before noon. — Vui lòng trả phòng trước buổi trưa."
+      },
+      {
+        "prompt": "“towel” có nghĩa là gì?",
+        "options": [
+          "Khăn tắm",
+          "Thang máy",
+          "Việc đặt chỗ",
+          "Quầy lễ tân"
+        ],
+        "correct": 0,
+        "explanation": "Could I have a clean towel? — Tôi có thể xin một khăn tắm sạch không?"
+      },
+      {
+        "prompt": "“lift” có nghĩa là gì?",
+        "options": [
+          "Việc đặt chỗ",
+          "Quầy lễ tân",
+          "Phòng đơn",
+          "Thang máy"
+        ],
+        "correct": 3,
+        "explanation": "The lift is on your left. — Thang máy ở bên trái bạn."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Việc đặt chỗ”.",
+        "options": [
+          "single room",
+          "reservation",
+          "double room",
+          "key card"
+        ],
+        "correct": 1,
+        "explanation": "Việc đặt chỗ = reservation"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Quầy lễ tân”.",
+        "options": [
+          "double room",
+          "reception",
+          "key card",
+          "breakfast"
+        ],
+        "correct": 1,
+        "explanation": "Quầy lễ tân = reception"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Phòng đơn”.",
+        "options": [
+          "key card",
+          "single room",
+          "breakfast",
+          "check in"
+        ],
+        "correct": 1,
+        "explanation": "Phòng đơn = single room"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Phòng có giường đôi”.",
+        "options": [
+          "breakfast",
+          "double room",
+          "check in",
+          "check out"
+        ],
+        "correct": 1,
+        "explanation": "Phòng có giường đôi = double room"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thẻ khóa”.",
+        "options": [
+          "check in",
+          "key card",
+          "check out",
+          "towel"
+        ],
+        "correct": 1,
+        "explanation": "Thẻ khóa = key card"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“reservation” có nghĩa là gì?",
+        "options": [
+          "Việc đặt chỗ",
+          "Quầy lễ tân",
+          "Phòng đơn",
+          "Phòng có giường đôi"
+        ],
+        "correct": 0,
+        "explanation": "I have a reservation. — Tôi đã đặt chỗ."
+      },
+      {
+        "prompt": "“reception” có nghĩa là gì?",
+        "options": [
+          "Phòng đơn",
+          "Phòng có giường đôi",
+          "Thẻ khóa",
+          "Quầy lễ tân"
+        ],
+        "correct": 3,
+        "explanation": "Please ask at reception. — Vui lòng hỏi tại quầy lễ tân."
+      },
+      {
+        "prompt": "“single room” có nghĩa là gì?",
+        "options": [
+          "Thẻ khóa",
+          "Bữa sáng",
+          "Phòng đơn",
+          "Phòng có giường đôi"
+        ],
+        "correct": 2,
+        "explanation": "I would like a single room. — Tôi muốn một phòng đơn."
+      },
+      {
+        "prompt": "“double room” có nghĩa là gì?",
+        "options": [
+          "Nhận phòng",
+          "Phòng có giường đôi",
+          "Thẻ khóa",
+          "Bữa sáng"
+        ],
+        "correct": 1,
+        "explanation": "We booked a double room. — Chúng tôi đã đặt phòng có giường đôi."
+      },
+      {
+        "prompt": "“key card” có nghĩa là gì?",
+        "options": [
+          "Thẻ khóa",
+          "Bữa sáng",
+          "Nhận phòng",
+          "Trả phòng"
+        ],
+        "correct": 0,
+        "explanation": "I lost my key card. — Tôi làm mất thẻ khóa."
+      },
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Việc đặt chỗ”.",
+        "options": [
+          "single room",
+          "reservation",
+          "double room",
+          "key card"
+        ],
+        "correct": 1,
+        "explanation": "Việc đặt chỗ = reservation"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Quầy lễ tân”.",
+        "options": [
+          "double room",
+          "reception",
+          "key card",
+          "breakfast"
+        ],
+        "correct": 1,
+        "explanation": "Quầy lễ tân = reception"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Phòng đơn”.",
+        "options": [
+          "key card",
+          "single room",
+          "breakfast",
+          "check in"
+        ],
+        "correct": 1,
+        "explanation": "Phòng đơn = single room"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Phòng có giường đôi”.",
+        "options": [
+          "breakfast",
+          "double room",
+          "check in",
+          "check out"
+        ],
+        "correct": 1,
+        "explanation": "Phòng có giường đôi = double room"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thẻ khóa”.",
+        "options": [
+          "check in",
+          "key card",
+          "check out",
+          "towel"
+        ],
+        "correct": 1,
+        "explanation": "Thẻ khóa = key card"
+      }
+    ]
+  },
+  {
+    "id": "shopping",
+    "title": "Mua sắm thông minh",
+    "subtitle": "Mua sắm thông minh · A1",
+    "emoji": "🛍️",
+    "level": "A1",
+    "words": [
+      {
+        "en": "price",
+        "vi": "Giá tiền",
+        "ipa": "",
+        "example": "What is the price?",
+        "translation": "Giá bao nhiêu?"
+      },
+      {
+        "en": "size",
+        "vi": "Kích cỡ",
+        "ipa": "",
+        "example": "Do you have a smaller size?",
+        "translation": "Bạn có cỡ nhỏ hơn không?"
+      },
+      {
+        "en": "receipt",
+        "vi": "Biên lai",
+        "ipa": "",
+        "example": "Please keep your receipt.",
+        "translation": "Vui lòng giữ biên lai."
+      },
+      {
+        "en": "cash",
+        "vi": "Tiền mặt",
+        "ipa": "",
+        "example": "Can I pay in cash?",
+        "translation": "Tôi có thể trả bằng tiền mặt không?"
+      },
+      {
+        "en": "card",
+        "vi": "Thẻ",
+        "ipa": "",
+        "example": "I would like to pay by card.",
+        "translation": "Tôi muốn thanh toán bằng thẻ."
+      },
+      {
+        "en": "discount",
+        "vi": "Khoản giảm giá",
+        "ipa": "",
+        "example": "There is a ten percent discount.",
+        "translation": "Có khoản giảm giá mười phần trăm."
+      },
+      {
+        "en": "customer",
+        "vi": "Khách hàng",
+        "ipa": "",
+        "example": "The customer needs help.",
+        "translation": "Khách hàng cần giúp đỡ."
+      },
+      {
+        "en": "shop assistant",
+        "vi": "Nhân viên bán hàng",
+        "ipa": "",
+        "example": "Ask the shop assistant.",
+        "translation": "Hãy hỏi nhân viên bán hàng."
+      },
+      {
+        "en": "try on",
+        "vi": "Thử quần áo",
+        "ipa": "",
+        "example": "Can I try on this jacket?",
+        "translation": "Tôi có thể thử chiếc áo khoác này không?"
+      },
+      {
+        "en": "expensive",
+        "vi": "Đắt",
+        "ipa": "",
+        "example": "This bag is too expensive.",
+        "translation": "Chiếc túi này quá đắt."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Can I try on this jacket?",
+        "Tôi có thể thử áo khoác này không?"
+      ],
+      [
+        "Luna",
+        "Of course. What size do you need?",
+        "Được chứ. Bạn cần cỡ nào?"
+      ],
+      [
+        "Linh",
+        "A medium, please.",
+        "Cho tôi cỡ vừa."
+      ],
+      [
+        "Luna",
+        "Here you are. It is twenty dollars.",
+        "Của bạn đây. Giá hai mươi đô la."
+      ]
+    ],
+    "grammar": {
+      "title": "Can — Khả năng và lời đề nghị",
+      "rule": "Chủ ngữ + can + động từ nguyên mẫu. Can không thêm -s.",
+      "example": "She can swim. Can you help me?",
+      "note": "Phủ định: cannot / can’t. Câu hỏi: Can + chủ ngữ + động từ?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Here you are. It is twenty dollars.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Của bạn đây. Giá hai mươi đô la."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“price” có nghĩa là gì?",
+        "options": [
+          "Giá tiền",
+          "Kích cỡ",
+          "Biên lai",
+          "Tiền mặt"
+        ],
+        "correct": 0,
+        "explanation": "What is the price? — Giá bao nhiêu?"
+      },
+      {
+        "prompt": "“size” có nghĩa là gì?",
+        "options": [
+          "Biên lai",
+          "Tiền mặt",
+          "Thẻ",
+          "Kích cỡ"
+        ],
+        "correct": 3,
+        "explanation": "Do you have a smaller size? — Bạn có cỡ nhỏ hơn không?"
+      },
+      {
+        "prompt": "“receipt” có nghĩa là gì?",
+        "options": [
+          "Thẻ",
+          "Khoản giảm giá",
+          "Biên lai",
+          "Tiền mặt"
+        ],
+        "correct": 2,
+        "explanation": "Please keep your receipt. — Vui lòng giữ biên lai."
+      },
+      {
+        "prompt": "“cash” có nghĩa là gì?",
+        "options": [
+          "Khách hàng",
+          "Tiền mặt",
+          "Thẻ",
+          "Khoản giảm giá"
+        ],
+        "correct": 1,
+        "explanation": "Can I pay in cash? — Tôi có thể trả bằng tiền mặt không?"
+      },
+      {
+        "prompt": "“card” có nghĩa là gì?",
+        "options": [
+          "Thẻ",
+          "Khoản giảm giá",
+          "Khách hàng",
+          "Nhân viên bán hàng"
+        ],
+        "correct": 0,
+        "explanation": "I would like to pay by card. — Tôi muốn thanh toán bằng thẻ."
+      },
+      {
+        "prompt": "“discount” có nghĩa là gì?",
+        "options": [
+          "Khách hàng",
+          "Nhân viên bán hàng",
+          "Thử quần áo",
+          "Khoản giảm giá"
+        ],
+        "correct": 3,
+        "explanation": "There is a ten percent discount. — Có khoản giảm giá mười phần trăm."
+      },
+      {
+        "prompt": "“customer” có nghĩa là gì?",
+        "options": [
+          "Thử quần áo",
+          "Đắt",
+          "Khách hàng",
+          "Nhân viên bán hàng"
+        ],
+        "correct": 2,
+        "explanation": "The customer needs help. — Khách hàng cần giúp đỡ."
+      },
+      {
+        "prompt": "“shop assistant” có nghĩa là gì?",
+        "options": [
+          "Giá tiền",
+          "Nhân viên bán hàng",
+          "Thử quần áo",
+          "Đắt"
+        ],
+        "correct": 1,
+        "explanation": "Ask the shop assistant. — Hãy hỏi nhân viên bán hàng."
+      },
+      {
+        "prompt": "“try on” có nghĩa là gì?",
+        "options": [
+          "Thử quần áo",
+          "Đắt",
+          "Giá tiền",
+          "Kích cỡ"
+        ],
+        "correct": 0,
+        "explanation": "Can I try on this jacket? — Tôi có thể thử chiếc áo khoác này không?"
+      },
+      {
+        "prompt": "“expensive” có nghĩa là gì?",
+        "options": [
+          "Giá tiền",
+          "Kích cỡ",
+          "Biên lai",
+          "Đắt"
+        ],
+        "correct": 3,
+        "explanation": "This bag is too expensive. — Chiếc túi này quá đắt."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Giá tiền”.",
+        "options": [
+          "receipt",
+          "price",
+          "cash",
+          "card"
+        ],
+        "correct": 1,
+        "explanation": "Giá tiền = price"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Kích cỡ”.",
+        "options": [
+          "cash",
+          "size",
+          "card",
+          "discount"
+        ],
+        "correct": 1,
+        "explanation": "Kích cỡ = size"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Biên lai”.",
+        "options": [
+          "card",
+          "receipt",
+          "discount",
+          "customer"
+        ],
+        "correct": 1,
+        "explanation": "Biên lai = receipt"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tiền mặt”.",
+        "options": [
+          "discount",
+          "cash",
+          "customer",
+          "shop assistant"
+        ],
+        "correct": 1,
+        "explanation": "Tiền mặt = cash"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thẻ”.",
+        "options": [
+          "customer",
+          "card",
+          "shop assistant",
+          "try on"
+        ],
+        "correct": 1,
+        "explanation": "Thẻ = card"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“price” có nghĩa là gì?",
+        "options": [
+          "Giá tiền",
+          "Kích cỡ",
+          "Biên lai",
+          "Tiền mặt"
+        ],
+        "correct": 0,
+        "explanation": "What is the price? — Giá bao nhiêu?"
+      },
+      {
+        "prompt": "“size” có nghĩa là gì?",
+        "options": [
+          "Biên lai",
+          "Tiền mặt",
+          "Thẻ",
+          "Kích cỡ"
+        ],
+        "correct": 3,
+        "explanation": "Do you have a smaller size? — Bạn có cỡ nhỏ hơn không?"
+      },
+      {
+        "prompt": "“receipt” có nghĩa là gì?",
+        "options": [
+          "Thẻ",
+          "Khoản giảm giá",
+          "Biên lai",
+          "Tiền mặt"
+        ],
+        "correct": 2,
+        "explanation": "Please keep your receipt. — Vui lòng giữ biên lai."
+      },
+      {
+        "prompt": "“cash” có nghĩa là gì?",
+        "options": [
+          "Khách hàng",
+          "Tiền mặt",
+          "Thẻ",
+          "Khoản giảm giá"
+        ],
+        "correct": 1,
+        "explanation": "Can I pay in cash? — Tôi có thể trả bằng tiền mặt không?"
+      },
+      {
+        "prompt": "“card” có nghĩa là gì?",
+        "options": [
+          "Thẻ",
+          "Khoản giảm giá",
+          "Khách hàng",
+          "Nhân viên bán hàng"
+        ],
+        "correct": 0,
+        "explanation": "I would like to pay by card. — Tôi muốn thanh toán bằng thẻ."
+      },
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Giá tiền”.",
+        "options": [
+          "receipt",
+          "price",
+          "cash",
+          "card"
+        ],
+        "correct": 1,
+        "explanation": "Giá tiền = price"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Kích cỡ”.",
+        "options": [
+          "cash",
+          "size",
+          "card",
+          "discount"
+        ],
+        "correct": 1,
+        "explanation": "Kích cỡ = size"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Biên lai”.",
+        "options": [
+          "card",
+          "receipt",
+          "discount",
+          "customer"
+        ],
+        "correct": 1,
+        "explanation": "Biên lai = receipt"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tiền mặt”.",
+        "options": [
+          "discount",
+          "cash",
+          "customer",
+          "shop assistant"
+        ],
+        "correct": 1,
+        "explanation": "Tiền mặt = cash"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thẻ”.",
+        "options": [
+          "customer",
+          "card",
+          "shop assistant",
+          "try on"
+        ],
+        "correct": 1,
+        "explanation": "Thẻ = card"
+      }
+    ]
+  },
+  {
+    "id": "directions",
+    "title": "Hỏi đường trong thành phố",
+    "subtitle": "Hỏi đường trong thành phố · A1",
+    "emoji": "🗺️",
+    "level": "A1",
+    "words": [
+      {
+        "en": "turn left",
+        "vi": "Rẽ trái",
+        "ipa": "",
+        "example": "Turn left at the bank.",
+        "translation": "Rẽ trái ở ngân hàng."
+      },
+      {
+        "en": "turn right",
+        "vi": "Rẽ phải",
+        "ipa": "",
+        "example": "Turn right at the next street.",
+        "translation": "Rẽ phải ở phố tiếp theo."
+      },
+      {
+        "en": "go straight",
+        "vi": "Đi thẳng",
+        "ipa": "",
+        "example": "Go straight for two minutes.",
+        "translation": "Đi thẳng trong hai phút."
+      },
+      {
+        "en": "opposite",
+        "vi": "Đối diện",
+        "ipa": "",
+        "example": "The bank is opposite the park.",
+        "translation": "Ngân hàng đối diện công viên."
+      },
+      {
+        "en": "next to",
+        "vi": "Bên cạnh",
+        "ipa": "",
+        "example": "The cafe is next to the shop.",
+        "translation": "Quán cà phê ở cạnh cửa hàng."
+      },
+      {
+        "en": "between",
+        "vi": "Ở giữa",
+        "ipa": "",
+        "example": "The school is between two shops.",
+        "translation": "Trường học ở giữa hai cửa hàng."
+      },
+      {
+        "en": "crossroads",
+        "vi": "Ngã tư",
+        "ipa": "",
+        "example": "Stop at the crossroads.",
+        "translation": "Dừng lại ở ngã tư."
+      },
+      {
+        "en": "bridge",
+        "vi": "Cầu",
+        "ipa": "",
+        "example": "Walk across the bridge.",
+        "translation": "Đi bộ qua cầu."
+      },
+      {
+        "en": "corner",
+        "vi": "Góc đường",
+        "ipa": "",
+        "example": "The shop is on the corner.",
+        "translation": "Cửa hàng ở góc đường."
+      },
+      {
+        "en": "traffic lights",
+        "vi": "Đèn giao thông",
+        "ipa": "",
+        "example": "Wait at the traffic lights.",
+        "translation": "Chờ ở chỗ đèn giao thông."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Excuse me. Is there a bank near here?",
+        "Xin lỗi. Có ngân hàng nào gần đây không?"
+      ],
+      [
+        "Luna",
+        "Yes. Go straight and turn left.",
+        "Có. Đi thẳng rồi rẽ trái."
+      ],
+      [
+        "Linh",
+        "Is it next to the park?",
+        "Nó ở cạnh công viên à?"
+      ],
+      [
+        "Luna",
+        "No. It is opposite the park.",
+        "Không. Nó đối diện công viên."
+      ]
+    ],
+    "grammar": {
+      "title": "There is / There are",
+      "rule": "There is + danh từ số ít hoặc không đếm được. There are + danh từ số nhiều.",
+      "example": "There is a park. There are two shops.",
+      "note": "Câu hỏi: Is there a park? / Are there any shops?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "___ there a bank?",
+        "options": [
+          "Are",
+          "Is",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "Đảo is lên trước there để hỏi về một ngân hàng."
+      },
+      {
+        "prompt": "There is ___ water in the bottle.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "an"
+        ],
+        "correct": 0,
+        "explanation": "Water không đếm được, có thể dùng some."
+      },
+      {
+        "prompt": "There are three ___.",
+        "options": [
+          "bus",
+          "buses",
+          "a bus",
+          "an bus"
+        ],
+        "correct": 1,
+        "explanation": "Sau three dùng danh từ số nhiều buses."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "No. It is opposite the park.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Không. Nó đối diện công viên."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“turn left” có nghĩa là gì?",
+        "options": [
+          "Rẽ trái",
+          "Rẽ phải",
+          "Đi thẳng",
+          "Đối diện"
+        ],
+        "correct": 0,
+        "explanation": "Turn left at the bank. — Rẽ trái ở ngân hàng."
+      },
+      {
+        "prompt": "“turn right” có nghĩa là gì?",
+        "options": [
+          "Đi thẳng",
+          "Đối diện",
+          "Bên cạnh",
+          "Rẽ phải"
+        ],
+        "correct": 3,
+        "explanation": "Turn right at the next street. — Rẽ phải ở phố tiếp theo."
+      },
+      {
+        "prompt": "“go straight” có nghĩa là gì?",
+        "options": [
+          "Bên cạnh",
+          "Ở giữa",
+          "Đi thẳng",
+          "Đối diện"
+        ],
+        "correct": 2,
+        "explanation": "Go straight for two minutes. — Đi thẳng trong hai phút."
+      },
+      {
+        "prompt": "“opposite” có nghĩa là gì?",
+        "options": [
+          "Ngã tư",
+          "Đối diện",
+          "Bên cạnh",
+          "Ở giữa"
+        ],
+        "correct": 1,
+        "explanation": "The bank is opposite the park. — Ngân hàng đối diện công viên."
+      },
+      {
+        "prompt": "“next to” có nghĩa là gì?",
+        "options": [
+          "Bên cạnh",
+          "Ở giữa",
+          "Ngã tư",
+          "Cầu"
+        ],
+        "correct": 0,
+        "explanation": "The cafe is next to the shop. — Quán cà phê ở cạnh cửa hàng."
+      },
+      {
+        "prompt": "“between” có nghĩa là gì?",
+        "options": [
+          "Ngã tư",
+          "Cầu",
+          "Góc đường",
+          "Ở giữa"
+        ],
+        "correct": 3,
+        "explanation": "The school is between two shops. — Trường học ở giữa hai cửa hàng."
+      },
+      {
+        "prompt": "“crossroads” có nghĩa là gì?",
+        "options": [
+          "Góc đường",
+          "Đèn giao thông",
+          "Ngã tư",
+          "Cầu"
+        ],
+        "correct": 2,
+        "explanation": "Stop at the crossroads. — Dừng lại ở ngã tư."
+      },
+      {
+        "prompt": "“bridge” có nghĩa là gì?",
+        "options": [
+          "Rẽ trái",
+          "Cầu",
+          "Góc đường",
+          "Đèn giao thông"
+        ],
+        "correct": 1,
+        "explanation": "Walk across the bridge. — Đi bộ qua cầu."
+      },
+      {
+        "prompt": "“corner” có nghĩa là gì?",
+        "options": [
+          "Góc đường",
+          "Đèn giao thông",
+          "Rẽ trái",
+          "Rẽ phải"
+        ],
+        "correct": 0,
+        "explanation": "The shop is on the corner. — Cửa hàng ở góc đường."
+      },
+      {
+        "prompt": "“traffic lights” có nghĩa là gì?",
+        "options": [
+          "Rẽ trái",
+          "Rẽ phải",
+          "Đi thẳng",
+          "Đèn giao thông"
+        ],
+        "correct": 3,
+        "explanation": "Wait at the traffic lights. — Chờ ở chỗ đèn giao thông."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rẽ trái”.",
+        "options": [
+          "go straight",
+          "turn left",
+          "opposite",
+          "next to"
+        ],
+        "correct": 1,
+        "explanation": "Rẽ trái = turn left"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rẽ phải”.",
+        "options": [
+          "opposite",
+          "turn right",
+          "next to",
+          "between"
+        ],
+        "correct": 1,
+        "explanation": "Rẽ phải = turn right"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đi thẳng”.",
+        "options": [
+          "next to",
+          "go straight",
+          "between",
+          "crossroads"
+        ],
+        "correct": 1,
+        "explanation": "Đi thẳng = go straight"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đối diện”.",
+        "options": [
+          "between",
+          "opposite",
+          "crossroads",
+          "bridge"
+        ],
+        "correct": 1,
+        "explanation": "Đối diện = opposite"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bên cạnh”.",
+        "options": [
+          "crossroads",
+          "next to",
+          "bridge",
+          "corner"
+        ],
+        "correct": 1,
+        "explanation": "Bên cạnh = next to"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“turn left” có nghĩa là gì?",
+        "options": [
+          "Rẽ trái",
+          "Rẽ phải",
+          "Đi thẳng",
+          "Đối diện"
+        ],
+        "correct": 0,
+        "explanation": "Turn left at the bank. — Rẽ trái ở ngân hàng."
+      },
+      {
+        "prompt": "“turn right” có nghĩa là gì?",
+        "options": [
+          "Đi thẳng",
+          "Đối diện",
+          "Bên cạnh",
+          "Rẽ phải"
+        ],
+        "correct": 3,
+        "explanation": "Turn right at the next street. — Rẽ phải ở phố tiếp theo."
+      },
+      {
+        "prompt": "“go straight” có nghĩa là gì?",
+        "options": [
+          "Bên cạnh",
+          "Ở giữa",
+          "Đi thẳng",
+          "Đối diện"
+        ],
+        "correct": 2,
+        "explanation": "Go straight for two minutes. — Đi thẳng trong hai phút."
+      },
+      {
+        "prompt": "“opposite” có nghĩa là gì?",
+        "options": [
+          "Ngã tư",
+          "Đối diện",
+          "Bên cạnh",
+          "Ở giữa"
+        ],
+        "correct": 1,
+        "explanation": "The bank is opposite the park. — Ngân hàng đối diện công viên."
+      },
+      {
+        "prompt": "“next to” có nghĩa là gì?",
+        "options": [
+          "Bên cạnh",
+          "Ở giữa",
+          "Ngã tư",
+          "Cầu"
+        ],
+        "correct": 0,
+        "explanation": "The cafe is next to the shop. — Quán cà phê ở cạnh cửa hàng."
+      },
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "___ there a bank?",
+        "options": [
+          "Are",
+          "Is",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "Đảo is lên trước there để hỏi về một ngân hàng."
+      },
+      {
+        "prompt": "There is ___ water in the bottle.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "an"
+        ],
+        "correct": 0,
+        "explanation": "Water không đếm được, có thể dùng some."
+      },
+      {
+        "prompt": "There are three ___.",
+        "options": [
+          "bus",
+          "buses",
+          "a bus",
+          "an bus"
+        ],
+        "correct": 1,
+        "explanation": "Sau three dùng danh từ số nhiều buses."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rẽ trái”.",
+        "options": [
+          "go straight",
+          "turn left",
+          "opposite",
+          "next to"
+        ],
+        "correct": 1,
+        "explanation": "Rẽ trái = turn left"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rẽ phải”.",
+        "options": [
+          "opposite",
+          "turn right",
+          "next to",
+          "between"
+        ],
+        "correct": 1,
+        "explanation": "Rẽ phải = turn right"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đi thẳng”.",
+        "options": [
+          "next to",
+          "go straight",
+          "between",
+          "crossroads"
+        ],
+        "correct": 1,
+        "explanation": "Đi thẳng = go straight"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đối diện”.",
+        "options": [
+          "between",
+          "opposite",
+          "crossroads",
+          "bridge"
+        ],
+        "correct": 1,
+        "explanation": "Đối diện = opposite"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bên cạnh”.",
+        "options": [
+          "crossroads",
+          "next to",
+          "bridge",
+          "corner"
+        ],
+        "correct": 1,
+        "explanation": "Bên cạnh = next to"
+      }
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "Thời tiết và mùa trong năm",
+    "subtitle": "Thời tiết và mùa trong năm · A1",
+    "emoji": "🌦️",
+    "level": "A1",
+    "words": [
+      {
+        "en": "sunny",
+        "vi": "Có nắng",
+        "ipa": "",
+        "example": "It is sunny today.",
+        "translation": "Hôm nay trời có nắng."
+      },
+      {
+        "en": "rainy",
+        "vi": "Có mưa",
+        "ipa": "",
+        "example": "It is rainy in July.",
+        "translation": "Tháng bảy trời có mưa."
+      },
+      {
+        "en": "cloudy",
+        "vi": "Nhiều mây",
+        "ipa": "",
+        "example": "The sky is cloudy.",
+        "translation": "Bầu trời nhiều mây."
+      },
+      {
+        "en": "windy",
+        "vi": "Có gió",
+        "ipa": "",
+        "example": "It is windy by the sea.",
+        "translation": "Ở gần biển trời có gió."
+      },
+      {
+        "en": "snow",
+        "vi": "Tuyết",
+        "ipa": "",
+        "example": "There is snow on the mountain.",
+        "translation": "Có tuyết trên núi."
+      },
+      {
+        "en": "spring",
+        "vi": "Mùa xuân",
+        "ipa": "",
+        "example": "Flowers grow in spring.",
+        "translation": "Hoa mọc vào mùa xuân."
+      },
+      {
+        "en": "summer",
+        "vi": "Mùa hè",
+        "ipa": "",
+        "example": "We swim in summer.",
+        "translation": "Chúng tôi bơi vào mùa hè."
+      },
+      {
+        "en": "autumn",
+        "vi": "Mùa thu",
+        "ipa": "",
+        "example": "Leaves fall in autumn.",
+        "translation": "Lá rụng vào mùa thu."
+      },
+      {
+        "en": "winter",
+        "vi": "Mùa đông",
+        "ipa": "",
+        "example": "Winter is cold here.",
+        "translation": "Mùa đông ở đây lạnh."
+      },
+      {
+        "en": "umbrella",
+        "vi": "Ô / dù",
+        "ipa": "",
+        "example": "Take an umbrella with you.",
+        "translation": "Hãy mang theo một chiếc ô."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "What is the weather like today?",
+        "Hôm nay thời tiết thế nào?"
+      ],
+      [
+        "Luna",
+        "It is cloudy and windy.",
+        "Trời nhiều mây và có gió."
+      ],
+      [
+        "Linh",
+        "Should I take an umbrella?",
+        "Tôi có nên mang ô không?"
+      ],
+      [
+        "Luna",
+        "Yes. It may rain later.",
+        "Có. Lát nữa trời có thể mưa."
+      ]
+    ],
+    "grammar": {
+      "title": "Hiện tại đơn",
+      "rule": "I/you/we/they + động từ nguyên mẫu. He/she/it + động từ thêm -s/-es.",
+      "example": "I work at home. She works in an office.",
+      "note": "Câu hỏi dùng do/does; sau does dùng động từ nguyên mẫu."
+    },
+    "grammarPractice": [
+      {
+        "prompt": "She ___ in Hanoi.",
+        "options": [
+          "live",
+          "lives",
+          "living",
+          "to live"
+        ],
+        "correct": 1,
+        "explanation": "She là ngôi thứ ba số ít, live thêm -s."
+      },
+      {
+        "prompt": "We ___ English every day.",
+        "options": [
+          "studies",
+          "study",
+          "studying",
+          "is study"
+        ],
+        "correct": 1,
+        "explanation": "We đi với động từ nguyên mẫu study."
+      },
+      {
+        "prompt": "Does he ___ here?",
+        "options": [
+          "work",
+          "works",
+          "worked",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau does dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "I ___ not like cold weather.",
+        "options": [
+          "does",
+          "am",
+          "do",
+          "is"
+        ],
+        "correct": 2,
+        "explanation": "Phủ định hiện tại đơn với I dùng do not."
+      },
+      {
+        "prompt": "The sun ___ in the east.",
+        "options": [
+          "rise",
+          "rising",
+          "rises",
+          "to rise"
+        ],
+        "correct": 2,
+        "explanation": "The sun là số ít, dùng rises."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "She ___ in Hanoi.",
+        "options": [
+          "live",
+          "lives",
+          "living",
+          "to live"
+        ],
+        "correct": 1,
+        "explanation": "She là ngôi thứ ba số ít, live thêm -s."
+      },
+      {
+        "prompt": "We ___ English every day.",
+        "options": [
+          "studies",
+          "study",
+          "studying",
+          "is study"
+        ],
+        "correct": 1,
+        "explanation": "We đi với động từ nguyên mẫu study."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Yes. It may rain later.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Có. Lát nữa trời có thể mưa."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“sunny” có nghĩa là gì?",
+        "options": [
+          "Có nắng",
+          "Có mưa",
+          "Nhiều mây",
+          "Có gió"
+        ],
+        "correct": 0,
+        "explanation": "It is sunny today. — Hôm nay trời có nắng."
+      },
+      {
+        "prompt": "“rainy” có nghĩa là gì?",
+        "options": [
+          "Nhiều mây",
+          "Có gió",
+          "Tuyết",
+          "Có mưa"
+        ],
+        "correct": 3,
+        "explanation": "It is rainy in July. — Tháng bảy trời có mưa."
+      },
+      {
+        "prompt": "“cloudy” có nghĩa là gì?",
+        "options": [
+          "Tuyết",
+          "Mùa xuân",
+          "Nhiều mây",
+          "Có gió"
+        ],
+        "correct": 2,
+        "explanation": "The sky is cloudy. — Bầu trời nhiều mây."
+      },
+      {
+        "prompt": "“windy” có nghĩa là gì?",
+        "options": [
+          "Mùa hè",
+          "Có gió",
+          "Tuyết",
+          "Mùa xuân"
+        ],
+        "correct": 1,
+        "explanation": "It is windy by the sea. — Ở gần biển trời có gió."
+      },
+      {
+        "prompt": "“snow” có nghĩa là gì?",
+        "options": [
+          "Tuyết",
+          "Mùa xuân",
+          "Mùa hè",
+          "Mùa thu"
+        ],
+        "correct": 0,
+        "explanation": "There is snow on the mountain. — Có tuyết trên núi."
+      },
+      {
+        "prompt": "“spring” có nghĩa là gì?",
+        "options": [
+          "Mùa hè",
+          "Mùa thu",
+          "Mùa đông",
+          "Mùa xuân"
+        ],
+        "correct": 3,
+        "explanation": "Flowers grow in spring. — Hoa mọc vào mùa xuân."
+      },
+      {
+        "prompt": "“summer” có nghĩa là gì?",
+        "options": [
+          "Mùa đông",
+          "Ô / dù",
+          "Mùa hè",
+          "Mùa thu"
+        ],
+        "correct": 2,
+        "explanation": "We swim in summer. — Chúng tôi bơi vào mùa hè."
+      },
+      {
+        "prompt": "“autumn” có nghĩa là gì?",
+        "options": [
+          "Có nắng",
+          "Mùa thu",
+          "Mùa đông",
+          "Ô / dù"
+        ],
+        "correct": 1,
+        "explanation": "Leaves fall in autumn. — Lá rụng vào mùa thu."
+      },
+      {
+        "prompt": "“winter” có nghĩa là gì?",
+        "options": [
+          "Mùa đông",
+          "Ô / dù",
+          "Có nắng",
+          "Có mưa"
+        ],
+        "correct": 0,
+        "explanation": "Winter is cold here. — Mùa đông ở đây lạnh."
+      },
+      {
+        "prompt": "“umbrella” có nghĩa là gì?",
+        "options": [
+          "Có nắng",
+          "Có mưa",
+          "Nhiều mây",
+          "Ô / dù"
+        ],
+        "correct": 3,
+        "explanation": "Take an umbrella with you. — Hãy mang theo một chiếc ô."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có nắng”.",
+        "options": [
+          "cloudy",
+          "sunny",
+          "windy",
+          "snow"
+        ],
+        "correct": 1,
+        "explanation": "Có nắng = sunny"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có mưa”.",
+        "options": [
+          "windy",
+          "rainy",
+          "snow",
+          "spring"
+        ],
+        "correct": 1,
+        "explanation": "Có mưa = rainy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nhiều mây”.",
+        "options": [
+          "snow",
+          "cloudy",
+          "spring",
+          "summer"
+        ],
+        "correct": 1,
+        "explanation": "Nhiều mây = cloudy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có gió”.",
+        "options": [
+          "spring",
+          "windy",
+          "summer",
+          "autumn"
+        ],
+        "correct": 1,
+        "explanation": "Có gió = windy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tuyết”.",
+        "options": [
+          "summer",
+          "snow",
+          "autumn",
+          "winter"
+        ],
+        "correct": 1,
+        "explanation": "Tuyết = snow"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“sunny” có nghĩa là gì?",
+        "options": [
+          "Có nắng",
+          "Có mưa",
+          "Nhiều mây",
+          "Có gió"
+        ],
+        "correct": 0,
+        "explanation": "It is sunny today. — Hôm nay trời có nắng."
+      },
+      {
+        "prompt": "“rainy” có nghĩa là gì?",
+        "options": [
+          "Nhiều mây",
+          "Có gió",
+          "Tuyết",
+          "Có mưa"
+        ],
+        "correct": 3,
+        "explanation": "It is rainy in July. — Tháng bảy trời có mưa."
+      },
+      {
+        "prompt": "“cloudy” có nghĩa là gì?",
+        "options": [
+          "Tuyết",
+          "Mùa xuân",
+          "Nhiều mây",
+          "Có gió"
+        ],
+        "correct": 2,
+        "explanation": "The sky is cloudy. — Bầu trời nhiều mây."
+      },
+      {
+        "prompt": "“windy” có nghĩa là gì?",
+        "options": [
+          "Mùa hè",
+          "Có gió",
+          "Tuyết",
+          "Mùa xuân"
+        ],
+        "correct": 1,
+        "explanation": "It is windy by the sea. — Ở gần biển trời có gió."
+      },
+      {
+        "prompt": "“snow” có nghĩa là gì?",
+        "options": [
+          "Tuyết",
+          "Mùa xuân",
+          "Mùa hè",
+          "Mùa thu"
+        ],
+        "correct": 0,
+        "explanation": "There is snow on the mountain. — Có tuyết trên núi."
+      },
+      {
+        "prompt": "She ___ in Hanoi.",
+        "options": [
+          "live",
+          "lives",
+          "living",
+          "to live"
+        ],
+        "correct": 1,
+        "explanation": "She là ngôi thứ ba số ít, live thêm -s."
+      },
+      {
+        "prompt": "We ___ English every day.",
+        "options": [
+          "studies",
+          "study",
+          "studying",
+          "is study"
+        ],
+        "correct": 1,
+        "explanation": "We đi với động từ nguyên mẫu study."
+      },
+      {
+        "prompt": "Does he ___ here?",
+        "options": [
+          "work",
+          "works",
+          "worked",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau does dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "I ___ not like cold weather.",
+        "options": [
+          "does",
+          "am",
+          "do",
+          "is"
+        ],
+        "correct": 2,
+        "explanation": "Phủ định hiện tại đơn với I dùng do not."
+      },
+      {
+        "prompt": "The sun ___ in the east.",
+        "options": [
+          "rise",
+          "rising",
+          "rises",
+          "to rise"
+        ],
+        "correct": 2,
+        "explanation": "The sun là số ít, dùng rises."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có nắng”.",
+        "options": [
+          "cloudy",
+          "sunny",
+          "windy",
+          "snow"
+        ],
+        "correct": 1,
+        "explanation": "Có nắng = sunny"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có mưa”.",
+        "options": [
+          "windy",
+          "rainy",
+          "snow",
+          "spring"
+        ],
+        "correct": 1,
+        "explanation": "Có mưa = rainy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nhiều mây”.",
+        "options": [
+          "snow",
+          "cloudy",
+          "spring",
+          "summer"
+        ],
+        "correct": 1,
+        "explanation": "Nhiều mây = cloudy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Có gió”.",
+        "options": [
+          "spring",
+          "windy",
+          "summer",
+          "autumn"
+        ],
+        "correct": 1,
+        "explanation": "Có gió = windy"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tuyết”.",
+        "options": [
+          "summer",
+          "snow",
+          "autumn",
+          "winter"
+        ],
+        "correct": 1,
+        "explanation": "Tuyết = snow"
+      }
+    ]
+  },
+  {
+    "id": "health",
+    "title": "Sức khỏe và đi khám",
+    "subtitle": "Sức khỏe và đi khám · A2",
+    "emoji": "🩺",
+    "level": "A2",
+    "words": [
+      {
+        "en": "headache",
+        "vi": "Đau đầu",
+        "ipa": "",
+        "example": "I have a headache.",
+        "translation": "Tôi bị đau đầu."
+      },
+      {
+        "en": "fever",
+        "vi": "Sốt",
+        "ipa": "",
+        "example": "She has a fever.",
+        "translation": "Cô ấy bị sốt."
+      },
+      {
+        "en": "cough",
+        "vi": "Cơn ho",
+        "ipa": "",
+        "example": "He has a bad cough.",
+        "translation": "Anh ấy bị ho nặng."
+      },
+      {
+        "en": "medicine",
+        "vi": "Thuốc",
+        "ipa": "",
+        "example": "Take this medicine after food.",
+        "translation": "Uống thuốc này sau khi ăn."
+      },
+      {
+        "en": "appointment",
+        "vi": "Cuộc hẹn",
+        "ipa": "",
+        "example": "I have an appointment at ten.",
+        "translation": "Tôi có lịch hẹn lúc mười giờ."
+      },
+      {
+        "en": "doctor",
+        "vi": "Bác sĩ",
+        "ipa": "",
+        "example": "The doctor is very kind.",
+        "translation": "Bác sĩ rất tốt bụng."
+      },
+      {
+        "en": "pharmacy",
+        "vi": "Hiệu thuốc",
+        "ipa": "",
+        "example": "There is a pharmacy nearby.",
+        "translation": "Có một hiệu thuốc gần đây."
+      },
+      {
+        "en": "rest",
+        "vi": "Sự nghỉ ngơi",
+        "ipa": "",
+        "example": "You need some rest.",
+        "translation": "Bạn cần nghỉ ngơi một chút."
+      },
+      {
+        "en": "healthy",
+        "vi": "Khỏe mạnh",
+        "ipa": "",
+        "example": "She eats healthy food.",
+        "translation": "Cô ấy ăn thực phẩm lành mạnh."
+      },
+      {
+        "en": "exercise",
+        "vi": "Tập thể dục",
+        "ipa": "",
+        "example": "I exercise every morning.",
+        "translation": "Tôi tập thể dục mỗi sáng."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "I have an appointment at ten.",
+        "Tôi có lịch hẹn lúc mười giờ."
+      ],
+      [
+        "Luna",
+        "Please take a seat. How do you feel?",
+        "Mời bạn ngồi. Bạn cảm thấy thế nào?"
+      ],
+      [
+        "Linh",
+        "I have a headache.",
+        "Tôi bị đau đầu."
+      ],
+      [
+        "Luna",
+        "The doctor will see you soon.",
+        "Bác sĩ sẽ khám cho bạn sớm."
+      ]
+    ],
+    "grammar": {
+      "title": "Some / Any",
+      "rule": "Some thường dùng trong câu khẳng định. Any thường dùng trong câu hỏi và phủ định.",
+      "example": "I have some apples. Do you have any water?",
+      "note": "Some cũng dùng trong lời mời hoặc đề nghị: Would you like some tea?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "There is not ___ milk.",
+        "options": [
+          "many",
+          "a",
+          "any",
+          "an"
+        ],
+        "correct": 2,
+        "explanation": "Any thường dùng trong câu phủ định."
+      },
+      {
+        "prompt": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "an",
+          "many",
+          "a"
+        ],
+        "correct": 0,
+        "explanation": "Lời mời thường dùng some."
+      },
+      {
+        "prompt": "I need ___ apple.",
+        "options": [
+          "some",
+          "any",
+          "a",
+          "an"
+        ],
+        "correct": 3,
+        "explanation": "Apple số ít, bắt đầu bằng âm nguyên âm: an apple."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "The doctor will see you soon.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Bác sĩ sẽ khám cho bạn sớm."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“headache” có nghĩa là gì?",
+        "options": [
+          "Đau đầu",
+          "Sốt",
+          "Cơn ho",
+          "Thuốc"
+        ],
+        "correct": 0,
+        "explanation": "I have a headache. — Tôi bị đau đầu."
+      },
+      {
+        "prompt": "“fever” có nghĩa là gì?",
+        "options": [
+          "Cơn ho",
+          "Thuốc",
+          "Cuộc hẹn",
+          "Sốt"
+        ],
+        "correct": 3,
+        "explanation": "She has a fever. — Cô ấy bị sốt."
+      },
+      {
+        "prompt": "“cough” có nghĩa là gì?",
+        "options": [
+          "Cuộc hẹn",
+          "Bác sĩ",
+          "Cơn ho",
+          "Thuốc"
+        ],
+        "correct": 2,
+        "explanation": "He has a bad cough. — Anh ấy bị ho nặng."
+      },
+      {
+        "prompt": "“medicine” có nghĩa là gì?",
+        "options": [
+          "Hiệu thuốc",
+          "Thuốc",
+          "Cuộc hẹn",
+          "Bác sĩ"
+        ],
+        "correct": 1,
+        "explanation": "Take this medicine after food. — Uống thuốc này sau khi ăn."
+      },
+      {
+        "prompt": "“appointment” có nghĩa là gì?",
+        "options": [
+          "Cuộc hẹn",
+          "Bác sĩ",
+          "Hiệu thuốc",
+          "Sự nghỉ ngơi"
+        ],
+        "correct": 0,
+        "explanation": "I have an appointment at ten. — Tôi có lịch hẹn lúc mười giờ."
+      },
+      {
+        "prompt": "“doctor” có nghĩa là gì?",
+        "options": [
+          "Hiệu thuốc",
+          "Sự nghỉ ngơi",
+          "Khỏe mạnh",
+          "Bác sĩ"
+        ],
+        "correct": 3,
+        "explanation": "The doctor is very kind. — Bác sĩ rất tốt bụng."
+      },
+      {
+        "prompt": "“pharmacy” có nghĩa là gì?",
+        "options": [
+          "Khỏe mạnh",
+          "Tập thể dục",
+          "Hiệu thuốc",
+          "Sự nghỉ ngơi"
+        ],
+        "correct": 2,
+        "explanation": "There is a pharmacy nearby. — Có một hiệu thuốc gần đây."
+      },
+      {
+        "prompt": "“rest” có nghĩa là gì?",
+        "options": [
+          "Đau đầu",
+          "Sự nghỉ ngơi",
+          "Khỏe mạnh",
+          "Tập thể dục"
+        ],
+        "correct": 1,
+        "explanation": "You need some rest. — Bạn cần nghỉ ngơi một chút."
+      },
+      {
+        "prompt": "“healthy” có nghĩa là gì?",
+        "options": [
+          "Khỏe mạnh",
+          "Tập thể dục",
+          "Đau đầu",
+          "Sốt"
+        ],
+        "correct": 0,
+        "explanation": "She eats healthy food. — Cô ấy ăn thực phẩm lành mạnh."
+      },
+      {
+        "prompt": "“exercise” có nghĩa là gì?",
+        "options": [
+          "Đau đầu",
+          "Sốt",
+          "Cơn ho",
+          "Tập thể dục"
+        ],
+        "correct": 3,
+        "explanation": "I exercise every morning. — Tôi tập thể dục mỗi sáng."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đau đầu”.",
+        "options": [
+          "cough",
+          "headache",
+          "medicine",
+          "appointment"
+        ],
+        "correct": 1,
+        "explanation": "Đau đầu = headache"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sốt”.",
+        "options": [
+          "medicine",
+          "fever",
+          "appointment",
+          "doctor"
+        ],
+        "correct": 1,
+        "explanation": "Sốt = fever"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cơn ho”.",
+        "options": [
+          "appointment",
+          "cough",
+          "doctor",
+          "pharmacy"
+        ],
+        "correct": 1,
+        "explanation": "Cơn ho = cough"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thuốc”.",
+        "options": [
+          "doctor",
+          "medicine",
+          "pharmacy",
+          "rest"
+        ],
+        "correct": 1,
+        "explanation": "Thuốc = medicine"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cuộc hẹn”.",
+        "options": [
+          "pharmacy",
+          "appointment",
+          "rest",
+          "healthy"
+        ],
+        "correct": 1,
+        "explanation": "Cuộc hẹn = appointment"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“headache” có nghĩa là gì?",
+        "options": [
+          "Đau đầu",
+          "Sốt",
+          "Cơn ho",
+          "Thuốc"
+        ],
+        "correct": 0,
+        "explanation": "I have a headache. — Tôi bị đau đầu."
+      },
+      {
+        "prompt": "“fever” có nghĩa là gì?",
+        "options": [
+          "Cơn ho",
+          "Thuốc",
+          "Cuộc hẹn",
+          "Sốt"
+        ],
+        "correct": 3,
+        "explanation": "She has a fever. — Cô ấy bị sốt."
+      },
+      {
+        "prompt": "“cough” có nghĩa là gì?",
+        "options": [
+          "Cuộc hẹn",
+          "Bác sĩ",
+          "Cơn ho",
+          "Thuốc"
+        ],
+        "correct": 2,
+        "explanation": "He has a bad cough. — Anh ấy bị ho nặng."
+      },
+      {
+        "prompt": "“medicine” có nghĩa là gì?",
+        "options": [
+          "Hiệu thuốc",
+          "Thuốc",
+          "Cuộc hẹn",
+          "Bác sĩ"
+        ],
+        "correct": 1,
+        "explanation": "Take this medicine after food. — Uống thuốc này sau khi ăn."
+      },
+      {
+        "prompt": "“appointment” có nghĩa là gì?",
+        "options": [
+          "Cuộc hẹn",
+          "Bác sĩ",
+          "Hiệu thuốc",
+          "Sự nghỉ ngơi"
+        ],
+        "correct": 0,
+        "explanation": "I have an appointment at ten. — Tôi có lịch hẹn lúc mười giờ."
+      },
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "There is not ___ milk.",
+        "options": [
+          "many",
+          "a",
+          "any",
+          "an"
+        ],
+        "correct": 2,
+        "explanation": "Any thường dùng trong câu phủ định."
+      },
+      {
+        "prompt": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "an",
+          "many",
+          "a"
+        ],
+        "correct": 0,
+        "explanation": "Lời mời thường dùng some."
+      },
+      {
+        "prompt": "I need ___ apple.",
+        "options": [
+          "some",
+          "any",
+          "a",
+          "an"
+        ],
+        "correct": 3,
+        "explanation": "Apple số ít, bắt đầu bằng âm nguyên âm: an apple."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đau đầu”.",
+        "options": [
+          "cough",
+          "headache",
+          "medicine",
+          "appointment"
+        ],
+        "correct": 1,
+        "explanation": "Đau đầu = headache"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sốt”.",
+        "options": [
+          "medicine",
+          "fever",
+          "appointment",
+          "doctor"
+        ],
+        "correct": 1,
+        "explanation": "Sốt = fever"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cơn ho”.",
+        "options": [
+          "appointment",
+          "cough",
+          "doctor",
+          "pharmacy"
+        ],
+        "correct": 1,
+        "explanation": "Cơn ho = cough"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thuốc”.",
+        "options": [
+          "doctor",
+          "medicine",
+          "pharmacy",
+          "rest"
+        ],
+        "correct": 1,
+        "explanation": "Thuốc = medicine"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cuộc hẹn”.",
+        "options": [
+          "pharmacy",
+          "appointment",
+          "rest",
+          "healthy"
+        ],
+        "correct": 1,
+        "explanation": "Cuộc hẹn = appointment"
+      }
+    ]
+  },
+  {
+    "id": "work",
+    "title": "Tiếng Anh nơi công sở",
+    "subtitle": "Tiếng Anh nơi công sở · A2",
+    "emoji": "💼",
+    "level": "A2",
+    "words": [
+      {
+        "en": "meeting",
+        "vi": "Cuộc họp",
+        "ipa": "",
+        "example": "The meeting starts at nine.",
+        "translation": "Cuộc họp bắt đầu lúc chín giờ."
+      },
+      {
+        "en": "deadline",
+        "vi": "Hạn chót",
+        "ipa": "",
+        "example": "The deadline is Friday.",
+        "translation": "Hạn chót là thứ sáu."
+      },
+      {
+        "en": "colleague",
+        "vi": "Đồng nghiệp",
+        "ipa": "",
+        "example": "My colleague works in Hanoi.",
+        "translation": "Đồng nghiệp của tôi làm việc ở Hà Nội."
+      },
+      {
+        "en": "manager",
+        "vi": "Người quản lý",
+        "ipa": "",
+        "example": "Our manager is helpful.",
+        "translation": "Quản lý của chúng tôi hay giúp đỡ."
+      },
+      {
+        "en": "report",
+        "vi": "Báo cáo",
+        "ipa": "",
+        "example": "Please read the report.",
+        "translation": "Vui lòng đọc báo cáo."
+      },
+      {
+        "en": "project",
+        "vi": "Dự án",
+        "ipa": "",
+        "example": "We finished the project.",
+        "translation": "Chúng tôi đã hoàn thành dự án."
+      },
+      {
+        "en": "schedule",
+        "vi": "Lịch trình",
+        "ipa": "",
+        "example": "Check your schedule.",
+        "translation": "Hãy kiểm tra lịch trình của bạn."
+      },
+      {
+        "en": "office",
+        "vi": "Văn phòng",
+        "ipa": "",
+        "example": "Our office is on the third floor.",
+        "translation": "Văn phòng chúng tôi ở tầng ba."
+      },
+      {
+        "en": "email",
+        "vi": "Thư điện tử",
+        "ipa": "",
+        "example": "I sent an email yesterday.",
+        "translation": "Tôi đã gửi một email hôm qua."
+      },
+      {
+        "en": "task",
+        "vi": "Nhiệm vụ",
+        "ipa": "",
+        "example": "This task is important.",
+        "translation": "Nhiệm vụ này quan trọng."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "When is our meeting?",
+        "Cuộc họp của chúng ta diễn ra khi nào?"
+      ],
+      [
+        "Luna",
+        "It starts at nine.",
+        "Nó bắt đầu lúc chín giờ."
+      ],
+      [
+        "Linh",
+        "Did you finish the report?",
+        "Bạn đã hoàn thành báo cáo chưa?"
+      ],
+      [
+        "Luna",
+        "Yes. I sent it yesterday.",
+        "Rồi. Tôi đã gửi nó hôm qua."
+      ]
+    ],
+    "grammar": {
+      "title": "Quá khứ đơn",
+      "rule": "Dùng quá khứ đơn cho sự việc đã kết thúc. Động từ thường thêm -ed; một số động từ bất quy tắc.",
+      "example": "I visited Hanoi yesterday. We went by train.",
+      "note": "Sau did/did not dùng động từ nguyên mẫu: Did you go? I did not go."
+    },
+    "grammarPractice": [
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Did you ___ the report?",
+        "options": [
+          "finished",
+          "finishes",
+          "finish",
+          "finishing"
+        ],
+        "correct": 2,
+        "explanation": "Sau did dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "She did not ___ yesterday.",
+        "options": [
+          "work",
+          "worked",
+          "works",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau did not dùng work nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ at home last night.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "is"
+        ],
+        "correct": 1,
+        "explanation": "They đi với were trong quá khứ."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Yes. I sent it yesterday.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Rồi. Tôi đã gửi nó hôm qua."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“meeting” có nghĩa là gì?",
+        "options": [
+          "Cuộc họp",
+          "Hạn chót",
+          "Đồng nghiệp",
+          "Người quản lý"
+        ],
+        "correct": 0,
+        "explanation": "The meeting starts at nine. — Cuộc họp bắt đầu lúc chín giờ."
+      },
+      {
+        "prompt": "“deadline” có nghĩa là gì?",
+        "options": [
+          "Đồng nghiệp",
+          "Người quản lý",
+          "Báo cáo",
+          "Hạn chót"
+        ],
+        "correct": 3,
+        "explanation": "The deadline is Friday. — Hạn chót là thứ sáu."
+      },
+      {
+        "prompt": "“colleague” có nghĩa là gì?",
+        "options": [
+          "Báo cáo",
+          "Dự án",
+          "Đồng nghiệp",
+          "Người quản lý"
+        ],
+        "correct": 2,
+        "explanation": "My colleague works in Hanoi. — Đồng nghiệp của tôi làm việc ở Hà Nội."
+      },
+      {
+        "prompt": "“manager” có nghĩa là gì?",
+        "options": [
+          "Lịch trình",
+          "Người quản lý",
+          "Báo cáo",
+          "Dự án"
+        ],
+        "correct": 1,
+        "explanation": "Our manager is helpful. — Quản lý của chúng tôi hay giúp đỡ."
+      },
+      {
+        "prompt": "“report” có nghĩa là gì?",
+        "options": [
+          "Báo cáo",
+          "Dự án",
+          "Lịch trình",
+          "Văn phòng"
+        ],
+        "correct": 0,
+        "explanation": "Please read the report. — Vui lòng đọc báo cáo."
+      },
+      {
+        "prompt": "“project” có nghĩa là gì?",
+        "options": [
+          "Lịch trình",
+          "Văn phòng",
+          "Thư điện tử",
+          "Dự án"
+        ],
+        "correct": 3,
+        "explanation": "We finished the project. — Chúng tôi đã hoàn thành dự án."
+      },
+      {
+        "prompt": "“schedule” có nghĩa là gì?",
+        "options": [
+          "Thư điện tử",
+          "Nhiệm vụ",
+          "Lịch trình",
+          "Văn phòng"
+        ],
+        "correct": 2,
+        "explanation": "Check your schedule. — Hãy kiểm tra lịch trình của bạn."
+      },
+      {
+        "prompt": "“office” có nghĩa là gì?",
+        "options": [
+          "Cuộc họp",
+          "Văn phòng",
+          "Thư điện tử",
+          "Nhiệm vụ"
+        ],
+        "correct": 1,
+        "explanation": "Our office is on the third floor. — Văn phòng chúng tôi ở tầng ba."
+      },
+      {
+        "prompt": "“email” có nghĩa là gì?",
+        "options": [
+          "Thư điện tử",
+          "Nhiệm vụ",
+          "Cuộc họp",
+          "Hạn chót"
+        ],
+        "correct": 0,
+        "explanation": "I sent an email yesterday. — Tôi đã gửi một email hôm qua."
+      },
+      {
+        "prompt": "“task” có nghĩa là gì?",
+        "options": [
+          "Cuộc họp",
+          "Hạn chót",
+          "Đồng nghiệp",
+          "Nhiệm vụ"
+        ],
+        "correct": 3,
+        "explanation": "This task is important. — Nhiệm vụ này quan trọng."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cuộc họp”.",
+        "options": [
+          "colleague",
+          "meeting",
+          "manager",
+          "report"
+        ],
+        "correct": 1,
+        "explanation": "Cuộc họp = meeting"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hạn chót”.",
+        "options": [
+          "manager",
+          "deadline",
+          "report",
+          "project"
+        ],
+        "correct": 1,
+        "explanation": "Hạn chót = deadline"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đồng nghiệp”.",
+        "options": [
+          "report",
+          "colleague",
+          "project",
+          "schedule"
+        ],
+        "correct": 1,
+        "explanation": "Đồng nghiệp = colleague"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Người quản lý”.",
+        "options": [
+          "project",
+          "manager",
+          "schedule",
+          "office"
+        ],
+        "correct": 1,
+        "explanation": "Người quản lý = manager"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Báo cáo”.",
+        "options": [
+          "schedule",
+          "report",
+          "office",
+          "email"
+        ],
+        "correct": 1,
+        "explanation": "Báo cáo = report"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“meeting” có nghĩa là gì?",
+        "options": [
+          "Cuộc họp",
+          "Hạn chót",
+          "Đồng nghiệp",
+          "Người quản lý"
+        ],
+        "correct": 0,
+        "explanation": "The meeting starts at nine. — Cuộc họp bắt đầu lúc chín giờ."
+      },
+      {
+        "prompt": "“deadline” có nghĩa là gì?",
+        "options": [
+          "Đồng nghiệp",
+          "Người quản lý",
+          "Báo cáo",
+          "Hạn chót"
+        ],
+        "correct": 3,
+        "explanation": "The deadline is Friday. — Hạn chót là thứ sáu."
+      },
+      {
+        "prompt": "“colleague” có nghĩa là gì?",
+        "options": [
+          "Báo cáo",
+          "Dự án",
+          "Đồng nghiệp",
+          "Người quản lý"
+        ],
+        "correct": 2,
+        "explanation": "My colleague works in Hanoi. — Đồng nghiệp của tôi làm việc ở Hà Nội."
+      },
+      {
+        "prompt": "“manager” có nghĩa là gì?",
+        "options": [
+          "Lịch trình",
+          "Người quản lý",
+          "Báo cáo",
+          "Dự án"
+        ],
+        "correct": 1,
+        "explanation": "Our manager is helpful. — Quản lý của chúng tôi hay giúp đỡ."
+      },
+      {
+        "prompt": "“report” có nghĩa là gì?",
+        "options": [
+          "Báo cáo",
+          "Dự án",
+          "Lịch trình",
+          "Văn phòng"
+        ],
+        "correct": 0,
+        "explanation": "Please read the report. — Vui lòng đọc báo cáo."
+      },
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Did you ___ the report?",
+        "options": [
+          "finished",
+          "finishes",
+          "finish",
+          "finishing"
+        ],
+        "correct": 2,
+        "explanation": "Sau did dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "She did not ___ yesterday.",
+        "options": [
+          "work",
+          "worked",
+          "works",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau did not dùng work nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ at home last night.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "is"
+        ],
+        "correct": 1,
+        "explanation": "They đi với were trong quá khứ."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Cuộc họp”.",
+        "options": [
+          "colleague",
+          "meeting",
+          "manager",
+          "report"
+        ],
+        "correct": 1,
+        "explanation": "Cuộc họp = meeting"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hạn chót”.",
+        "options": [
+          "manager",
+          "deadline",
+          "report",
+          "project"
+        ],
+        "correct": 1,
+        "explanation": "Hạn chót = deadline"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Đồng nghiệp”.",
+        "options": [
+          "report",
+          "colleague",
+          "project",
+          "schedule"
+        ],
+        "correct": 1,
+        "explanation": "Đồng nghiệp = colleague"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Người quản lý”.",
+        "options": [
+          "project",
+          "manager",
+          "schedule",
+          "office"
+        ],
+        "correct": 1,
+        "explanation": "Người quản lý = manager"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Báo cáo”.",
+        "options": [
+          "schedule",
+          "report",
+          "office",
+          "email"
+        ],
+        "correct": 1,
+        "explanation": "Báo cáo = report"
+      }
+    ]
+  },
+  {
+    "id": "technology",
+    "title": "Công nghệ hằng ngày",
+    "subtitle": "Công nghệ hằng ngày · A2",
+    "emoji": "💻",
+    "level": "A2",
+    "words": [
+      {
+        "en": "password",
+        "vi": "Mật khẩu",
+        "ipa": "",
+        "example": "Please choose a strong password.",
+        "translation": "Vui lòng chọn mật khẩu mạnh."
+      },
+      {
+        "en": "screen",
+        "vi": "Màn hình",
+        "ipa": "",
+        "example": "The screen is bright.",
+        "translation": "Màn hình sáng."
+      },
+      {
+        "en": "keyboard",
+        "vi": "Bàn phím",
+        "ipa": "",
+        "example": "My keyboard is new.",
+        "translation": "Bàn phím của tôi mới."
+      },
+      {
+        "en": "download",
+        "vi": "Tải xuống",
+        "ipa": "",
+        "example": "You can download the file.",
+        "translation": "Bạn có thể tải tệp xuống."
+      },
+      {
+        "en": "upload",
+        "vi": "Tải lên",
+        "ipa": "",
+        "example": "Please upload your photo.",
+        "translation": "Vui lòng tải ảnh của bạn lên."
+      },
+      {
+        "en": "connection",
+        "vi": "Kết nối",
+        "ipa": "",
+        "example": "The connection is slow.",
+        "translation": "Kết nối chậm."
+      },
+      {
+        "en": "website",
+        "vi": "Trang web",
+        "ipa": "",
+        "example": "This website teaches English.",
+        "translation": "Trang web này dạy tiếng Anh."
+      },
+      {
+        "en": "folder",
+        "vi": "Thư mục",
+        "ipa": "",
+        "example": "Save it in this folder.",
+        "translation": "Lưu nó trong thư mục này."
+      },
+      {
+        "en": "update",
+        "vi": "Bản cập nhật",
+        "ipa": "",
+        "example": "An update is available.",
+        "translation": "Có một bản cập nhật."
+      },
+      {
+        "en": "backup",
+        "vi": "Bản sao lưu",
+        "ipa": "",
+        "example": "Keep a backup of your files.",
+        "translation": "Hãy giữ một bản sao lưu các tệp."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Can you help me upload this photo?",
+        "Bạn giúp tôi tải ảnh này lên được không?"
+      ],
+      [
+        "Luna",
+        "Yes. Open the website first.",
+        "Được. Trước tiên hãy mở trang web."
+      ],
+      [
+        "Linh",
+        "The connection is slow.",
+        "Kết nối chậm quá."
+      ],
+      [
+        "Luna",
+        "We can try again later.",
+        "Chúng ta có thể thử lại sau."
+      ]
+    ],
+    "grammar": {
+      "title": "Can — Khả năng và lời đề nghị",
+      "rule": "Chủ ngữ + can + động từ nguyên mẫu. Can không thêm -s.",
+      "example": "She can swim. Can you help me?",
+      "note": "Phủ định: cannot / can’t. Câu hỏi: Can + chủ ngữ + động từ?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "We can try again later.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Chúng ta có thể thử lại sau."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“password” có nghĩa là gì?",
+        "options": [
+          "Mật khẩu",
+          "Màn hình",
+          "Bàn phím",
+          "Tải xuống"
+        ],
+        "correct": 0,
+        "explanation": "Please choose a strong password. — Vui lòng chọn mật khẩu mạnh."
+      },
+      {
+        "prompt": "“screen” có nghĩa là gì?",
+        "options": [
+          "Bàn phím",
+          "Tải xuống",
+          "Tải lên",
+          "Màn hình"
+        ],
+        "correct": 3,
+        "explanation": "The screen is bright. — Màn hình sáng."
+      },
+      {
+        "prompt": "“keyboard” có nghĩa là gì?",
+        "options": [
+          "Tải lên",
+          "Kết nối",
+          "Bàn phím",
+          "Tải xuống"
+        ],
+        "correct": 2,
+        "explanation": "My keyboard is new. — Bàn phím của tôi mới."
+      },
+      {
+        "prompt": "“download” có nghĩa là gì?",
+        "options": [
+          "Trang web",
+          "Tải xuống",
+          "Tải lên",
+          "Kết nối"
+        ],
+        "correct": 1,
+        "explanation": "You can download the file. — Bạn có thể tải tệp xuống."
+      },
+      {
+        "prompt": "“upload” có nghĩa là gì?",
+        "options": [
+          "Tải lên",
+          "Kết nối",
+          "Trang web",
+          "Thư mục"
+        ],
+        "correct": 0,
+        "explanation": "Please upload your photo. — Vui lòng tải ảnh của bạn lên."
+      },
+      {
+        "prompt": "“connection” có nghĩa là gì?",
+        "options": [
+          "Trang web",
+          "Thư mục",
+          "Bản cập nhật",
+          "Kết nối"
+        ],
+        "correct": 3,
+        "explanation": "The connection is slow. — Kết nối chậm."
+      },
+      {
+        "prompt": "“website” có nghĩa là gì?",
+        "options": [
+          "Bản cập nhật",
+          "Bản sao lưu",
+          "Trang web",
+          "Thư mục"
+        ],
+        "correct": 2,
+        "explanation": "This website teaches English. — Trang web này dạy tiếng Anh."
+      },
+      {
+        "prompt": "“folder” có nghĩa là gì?",
+        "options": [
+          "Mật khẩu",
+          "Thư mục",
+          "Bản cập nhật",
+          "Bản sao lưu"
+        ],
+        "correct": 1,
+        "explanation": "Save it in this folder. — Lưu nó trong thư mục này."
+      },
+      {
+        "prompt": "“update” có nghĩa là gì?",
+        "options": [
+          "Bản cập nhật",
+          "Bản sao lưu",
+          "Mật khẩu",
+          "Màn hình"
+        ],
+        "correct": 0,
+        "explanation": "An update is available. — Có một bản cập nhật."
+      },
+      {
+        "prompt": "“backup” có nghĩa là gì?",
+        "options": [
+          "Mật khẩu",
+          "Màn hình",
+          "Bàn phím",
+          "Bản sao lưu"
+        ],
+        "correct": 3,
+        "explanation": "Keep a backup of your files. — Hãy giữ một bản sao lưu các tệp."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Mật khẩu”.",
+        "options": [
+          "keyboard",
+          "password",
+          "download",
+          "upload"
+        ],
+        "correct": 1,
+        "explanation": "Mật khẩu = password"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Màn hình”.",
+        "options": [
+          "download",
+          "screen",
+          "upload",
+          "connection"
+        ],
+        "correct": 1,
+        "explanation": "Màn hình = screen"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bàn phím”.",
+        "options": [
+          "upload",
+          "keyboard",
+          "connection",
+          "website"
+        ],
+        "correct": 1,
+        "explanation": "Bàn phím = keyboard"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tải xuống”.",
+        "options": [
+          "connection",
+          "download",
+          "website",
+          "folder"
+        ],
+        "correct": 1,
+        "explanation": "Tải xuống = download"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tải lên”.",
+        "options": [
+          "website",
+          "upload",
+          "folder",
+          "update"
+        ],
+        "correct": 1,
+        "explanation": "Tải lên = upload"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“password” có nghĩa là gì?",
+        "options": [
+          "Mật khẩu",
+          "Màn hình",
+          "Bàn phím",
+          "Tải xuống"
+        ],
+        "correct": 0,
+        "explanation": "Please choose a strong password. — Vui lòng chọn mật khẩu mạnh."
+      },
+      {
+        "prompt": "“screen” có nghĩa là gì?",
+        "options": [
+          "Bàn phím",
+          "Tải xuống",
+          "Tải lên",
+          "Màn hình"
+        ],
+        "correct": 3,
+        "explanation": "The screen is bright. — Màn hình sáng."
+      },
+      {
+        "prompt": "“keyboard” có nghĩa là gì?",
+        "options": [
+          "Tải lên",
+          "Kết nối",
+          "Bàn phím",
+          "Tải xuống"
+        ],
+        "correct": 2,
+        "explanation": "My keyboard is new. — Bàn phím của tôi mới."
+      },
+      {
+        "prompt": "“download” có nghĩa là gì?",
+        "options": [
+          "Trang web",
+          "Tải xuống",
+          "Tải lên",
+          "Kết nối"
+        ],
+        "correct": 1,
+        "explanation": "You can download the file. — Bạn có thể tải tệp xuống."
+      },
+      {
+        "prompt": "“upload” có nghĩa là gì?",
+        "options": [
+          "Tải lên",
+          "Kết nối",
+          "Trang web",
+          "Thư mục"
+        ],
+        "correct": 0,
+        "explanation": "Please upload your photo. — Vui lòng tải ảnh của bạn lên."
+      },
+      {
+        "prompt": "She can ___ English.",
+        "options": [
+          "speaks",
+          "speaking",
+          "speak",
+          "spoke"
+        ],
+        "correct": 2,
+        "explanation": "Sau can dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "___ you help me?",
+        "options": [
+          "Can",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correct": 0,
+        "explanation": "Can you help me? là lời nhờ giúp đỡ."
+      },
+      {
+        "prompt": "He ___ swim.",
+        "options": [
+          "can not to",
+          "cannot",
+          "does cannot",
+          "not can"
+        ],
+        "correct": 1,
+        "explanation": "Cannot là dạng phủ định của can."
+      },
+      {
+        "prompt": "We can ___ by bus.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 0,
+        "explanation": "Sau can dùng go nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu đúng.",
+        "options": [
+          "She cans sing.",
+          "She can sings.",
+          "She can sing.",
+          "She can to sing."
+        ],
+        "correct": 2,
+        "explanation": "Can không thêm -s và theo sau là sing."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Mật khẩu”.",
+        "options": [
+          "keyboard",
+          "password",
+          "download",
+          "upload"
+        ],
+        "correct": 1,
+        "explanation": "Mật khẩu = password"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Màn hình”.",
+        "options": [
+          "download",
+          "screen",
+          "upload",
+          "connection"
+        ],
+        "correct": 1,
+        "explanation": "Màn hình = screen"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bàn phím”.",
+        "options": [
+          "upload",
+          "keyboard",
+          "connection",
+          "website"
+        ],
+        "correct": 1,
+        "explanation": "Bàn phím = keyboard"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tải xuống”.",
+        "options": [
+          "connection",
+          "download",
+          "website",
+          "folder"
+        ],
+        "correct": 1,
+        "explanation": "Tải xuống = download"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tải lên”.",
+        "options": [
+          "website",
+          "upload",
+          "folder",
+          "update"
+        ],
+        "correct": 1,
+        "explanation": "Tải lên = upload"
+      }
+    ]
+  },
+  {
+    "id": "environment",
+    "title": "Môi trường quanh ta",
+    "subtitle": "Môi trường quanh ta · A2",
+    "emoji": "🌱",
+    "level": "A2",
+    "words": [
+      {
+        "en": "recycle",
+        "vi": "Tái chế",
+        "ipa": "",
+        "example": "We recycle paper.",
+        "translation": "Chúng tôi tái chế giấy."
+      },
+      {
+        "en": "reuse",
+        "vi": "Tái sử dụng",
+        "ipa": "",
+        "example": "You can reuse this bag.",
+        "translation": "Bạn có thể tái sử dụng túi này."
+      },
+      {
+        "en": "waste",
+        "vi": "Rác thải",
+        "ipa": "",
+        "example": "We should reduce waste.",
+        "translation": "Chúng ta nên giảm rác thải."
+      },
+      {
+        "en": "pollution",
+        "vi": "Sự ô nhiễm",
+        "ipa": "",
+        "example": "Air pollution is a problem.",
+        "translation": "Ô nhiễm không khí là một vấn đề."
+      },
+      {
+        "en": "forest",
+        "vi": "Rừng",
+        "ipa": "",
+        "example": "Many animals live in the forest.",
+        "translation": "Nhiều loài động vật sống trong rừng."
+      },
+      {
+        "en": "river",
+        "vi": "Sông",
+        "ipa": "",
+        "example": "The river is clean.",
+        "translation": "Con sông sạch."
+      },
+      {
+        "en": "energy",
+        "vi": "Năng lượng",
+        "ipa": "",
+        "example": "Turn off the lights to save energy.",
+        "translation": "Tắt đèn để tiết kiệm năng lượng."
+      },
+      {
+        "en": "plastic",
+        "vi": "Nhựa",
+        "ipa": "",
+        "example": "This bottle is made of plastic.",
+        "translation": "Chai này làm bằng nhựa."
+      },
+      {
+        "en": "plant",
+        "vi": "Trồng",
+        "ipa": "",
+        "example": "We plant trees in spring.",
+        "translation": "Chúng tôi trồng cây vào mùa xuân."
+      },
+      {
+        "en": "protect",
+        "vi": "Bảo vệ",
+        "ipa": "",
+        "example": "We must protect the environment.",
+        "translation": "Chúng ta phải bảo vệ môi trường."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "What are you going to do on Sunday?",
+        "Bạn định làm gì vào Chủ nhật?"
+      ],
+      [
+        "Luna",
+        "I am going to plant trees.",
+        "Tôi định trồng cây."
+      ],
+      [
+        "Linh",
+        "Can I join you?",
+        "Tôi có thể tham gia cùng bạn không?"
+      ],
+      [
+        "Luna",
+        "Of course. Bring a reusable bottle.",
+        "Được chứ. Hãy mang một bình nước dùng lại được."
+      ]
+    ],
+    "grammar": {
+      "title": "Be going to — Dự định",
+      "rule": "Chủ ngữ + am/is/are + going to + động từ nguyên mẫu.",
+      "example": "I am going to travel. She is going to study.",
+      "note": "Chọn am/is/are theo chủ ngữ. Dùng cấu trúc này cho dự định đã có."
+    },
+    "grammarPractice": [
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ going to plant trees.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They đi với are."
+      },
+      {
+        "prompt": "___ you going to cook?",
+        "options": [
+          "Is",
+          "Are",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "You đi với are; đảo are lên đầu câu hỏi."
+      },
+      {
+        "prompt": "We are ___ to visit Hue.",
+        "options": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ],
+        "correct": 3,
+        "explanation": "Cấu trúc be going to + động từ."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Of course. Bring a reusable bottle.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Được chứ. Hãy mang một bình nước dùng lại được."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“recycle” có nghĩa là gì?",
+        "options": [
+          "Tái chế",
+          "Tái sử dụng",
+          "Rác thải",
+          "Sự ô nhiễm"
+        ],
+        "correct": 0,
+        "explanation": "We recycle paper. — Chúng tôi tái chế giấy."
+      },
+      {
+        "prompt": "“reuse” có nghĩa là gì?",
+        "options": [
+          "Rác thải",
+          "Sự ô nhiễm",
+          "Rừng",
+          "Tái sử dụng"
+        ],
+        "correct": 3,
+        "explanation": "You can reuse this bag. — Bạn có thể tái sử dụng túi này."
+      },
+      {
+        "prompt": "“waste” có nghĩa là gì?",
+        "options": [
+          "Rừng",
+          "Sông",
+          "Rác thải",
+          "Sự ô nhiễm"
+        ],
+        "correct": 2,
+        "explanation": "We should reduce waste. — Chúng ta nên giảm rác thải."
+      },
+      {
+        "prompt": "“pollution” có nghĩa là gì?",
+        "options": [
+          "Năng lượng",
+          "Sự ô nhiễm",
+          "Rừng",
+          "Sông"
+        ],
+        "correct": 1,
+        "explanation": "Air pollution is a problem. — Ô nhiễm không khí là một vấn đề."
+      },
+      {
+        "prompt": "“forest” có nghĩa là gì?",
+        "options": [
+          "Rừng",
+          "Sông",
+          "Năng lượng",
+          "Nhựa"
+        ],
+        "correct": 0,
+        "explanation": "Many animals live in the forest. — Nhiều loài động vật sống trong rừng."
+      },
+      {
+        "prompt": "“river” có nghĩa là gì?",
+        "options": [
+          "Năng lượng",
+          "Nhựa",
+          "Trồng",
+          "Sông"
+        ],
+        "correct": 3,
+        "explanation": "The river is clean. — Con sông sạch."
+      },
+      {
+        "prompt": "“energy” có nghĩa là gì?",
+        "options": [
+          "Trồng",
+          "Bảo vệ",
+          "Năng lượng",
+          "Nhựa"
+        ],
+        "correct": 2,
+        "explanation": "Turn off the lights to save energy. — Tắt đèn để tiết kiệm năng lượng."
+      },
+      {
+        "prompt": "“plastic” có nghĩa là gì?",
+        "options": [
+          "Tái chế",
+          "Nhựa",
+          "Trồng",
+          "Bảo vệ"
+        ],
+        "correct": 1,
+        "explanation": "This bottle is made of plastic. — Chai này làm bằng nhựa."
+      },
+      {
+        "prompt": "“plant” có nghĩa là gì?",
+        "options": [
+          "Trồng",
+          "Bảo vệ",
+          "Tái chế",
+          "Tái sử dụng"
+        ],
+        "correct": 0,
+        "explanation": "We plant trees in spring. — Chúng tôi trồng cây vào mùa xuân."
+      },
+      {
+        "prompt": "“protect” có nghĩa là gì?",
+        "options": [
+          "Tái chế",
+          "Tái sử dụng",
+          "Rác thải",
+          "Bảo vệ"
+        ],
+        "correct": 3,
+        "explanation": "We must protect the environment. — Chúng ta phải bảo vệ môi trường."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tái chế”.",
+        "options": [
+          "waste",
+          "recycle",
+          "pollution",
+          "forest"
+        ],
+        "correct": 1,
+        "explanation": "Tái chế = recycle"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tái sử dụng”.",
+        "options": [
+          "pollution",
+          "reuse",
+          "forest",
+          "river"
+        ],
+        "correct": 1,
+        "explanation": "Tái sử dụng = reuse"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rác thải”.",
+        "options": [
+          "forest",
+          "waste",
+          "river",
+          "energy"
+        ],
+        "correct": 1,
+        "explanation": "Rác thải = waste"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sự ô nhiễm”.",
+        "options": [
+          "river",
+          "pollution",
+          "energy",
+          "plastic"
+        ],
+        "correct": 1,
+        "explanation": "Sự ô nhiễm = pollution"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rừng”.",
+        "options": [
+          "energy",
+          "forest",
+          "plastic",
+          "plant"
+        ],
+        "correct": 1,
+        "explanation": "Rừng = forest"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“recycle” có nghĩa là gì?",
+        "options": [
+          "Tái chế",
+          "Tái sử dụng",
+          "Rác thải",
+          "Sự ô nhiễm"
+        ],
+        "correct": 0,
+        "explanation": "We recycle paper. — Chúng tôi tái chế giấy."
+      },
+      {
+        "prompt": "“reuse” có nghĩa là gì?",
+        "options": [
+          "Rác thải",
+          "Sự ô nhiễm",
+          "Rừng",
+          "Tái sử dụng"
+        ],
+        "correct": 3,
+        "explanation": "You can reuse this bag. — Bạn có thể tái sử dụng túi này."
+      },
+      {
+        "prompt": "“waste” có nghĩa là gì?",
+        "options": [
+          "Rừng",
+          "Sông",
+          "Rác thải",
+          "Sự ô nhiễm"
+        ],
+        "correct": 2,
+        "explanation": "We should reduce waste. — Chúng ta nên giảm rác thải."
+      },
+      {
+        "prompt": "“pollution” có nghĩa là gì?",
+        "options": [
+          "Năng lượng",
+          "Sự ô nhiễm",
+          "Rừng",
+          "Sông"
+        ],
+        "correct": 1,
+        "explanation": "Air pollution is a problem. — Ô nhiễm không khí là một vấn đề."
+      },
+      {
+        "prompt": "“forest” có nghĩa là gì?",
+        "options": [
+          "Rừng",
+          "Sông",
+          "Năng lượng",
+          "Nhựa"
+        ],
+        "correct": 0,
+        "explanation": "Many animals live in the forest. — Nhiều loài động vật sống trong rừng."
+      },
+      {
+        "prompt": "I ___ going to travel.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "I đi với am."
+      },
+      {
+        "prompt": "She is going to ___ English.",
+        "options": [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        "correct": 0,
+        "explanation": "Sau going to dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ going to plant trees.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They đi với are."
+      },
+      {
+        "prompt": "___ you going to cook?",
+        "options": [
+          "Is",
+          "Are",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "You đi với are; đảo are lên đầu câu hỏi."
+      },
+      {
+        "prompt": "We are ___ to visit Hue.",
+        "options": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ],
+        "correct": 3,
+        "explanation": "Cấu trúc be going to + động từ."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tái chế”.",
+        "options": [
+          "waste",
+          "recycle",
+          "pollution",
+          "forest"
+        ],
+        "correct": 1,
+        "explanation": "Tái chế = recycle"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tái sử dụng”.",
+        "options": [
+          "pollution",
+          "reuse",
+          "forest",
+          "river"
+        ],
+        "correct": 1,
+        "explanation": "Tái sử dụng = reuse"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rác thải”.",
+        "options": [
+          "forest",
+          "waste",
+          "river",
+          "energy"
+        ],
+        "correct": 1,
+        "explanation": "Rác thải = waste"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sự ô nhiễm”.",
+        "options": [
+          "river",
+          "pollution",
+          "energy",
+          "plastic"
+        ],
+        "correct": 1,
+        "explanation": "Sự ô nhiễm = pollution"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Rừng”.",
+        "options": [
+          "energy",
+          "forest",
+          "plastic",
+          "plant"
+        ],
+        "correct": 1,
+        "explanation": "Rừng = forest"
+      }
+    ]
+  },
+  {
+    "id": "transport",
+    "title": "Đi lại bằng phương tiện công cộng",
+    "subtitle": "Đi lại bằng phương tiện công cộng · A1",
+    "emoji": "🚌",
+    "level": "A1",
+    "words": [
+      {
+        "en": "bus stop",
+        "vi": "Trạm xe buýt",
+        "ipa": "",
+        "example": "Wait at the bus stop.",
+        "translation": "Hãy chờ ở trạm xe buýt."
+      },
+      {
+        "en": "station",
+        "vi": "Nhà ga",
+        "ipa": "",
+        "example": "The station is near my home.",
+        "translation": "Nhà ga ở gần nhà tôi."
+      },
+      {
+        "en": "train",
+        "vi": "Tàu hỏa",
+        "ipa": "",
+        "example": "We travelled by train.",
+        "translation": "Chúng tôi đã đi bằng tàu hỏa."
+      },
+      {
+        "en": "platform",
+        "vi": "Sân ga",
+        "ipa": "",
+        "example": "The train leaves from platform two.",
+        "translation": "Tàu khởi hành từ sân ga số hai."
+      },
+      {
+        "en": "fare",
+        "vi": "Giá vé đi lại",
+        "ipa": "",
+        "example": "The bus fare is two dollars.",
+        "translation": "Giá vé xe buýt là hai đô la."
+      },
+      {
+        "en": "passenger",
+        "vi": "Hành khách",
+        "ipa": "",
+        "example": "Each passenger needs a ticket.",
+        "translation": "Mỗi hành khách cần một vé."
+      },
+      {
+        "en": "journey",
+        "vi": "Hành trình",
+        "ipa": "",
+        "example": "The journey takes an hour.",
+        "translation": "Hành trình mất một giờ."
+      },
+      {
+        "en": "seat",
+        "vi": "Chỗ ngồi",
+        "ipa": "",
+        "example": "Is this seat free?",
+        "translation": "Chỗ này còn trống không?"
+      },
+      {
+        "en": "route",
+        "vi": "Tuyến đường",
+        "ipa": "",
+        "example": "This route goes to the museum.",
+        "translation": "Tuyến này đi đến bảo tàng."
+      },
+      {
+        "en": "get off",
+        "vi": "Xuống xe",
+        "ipa": "",
+        "example": "Get off at the next stop.",
+        "translation": "Xuống xe ở trạm tiếp theo."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Does this bus go to the museum?",
+        "Xe buýt này có đi đến bảo tàng không?"
+      ],
+      [
+        "Luna",
+        "Yes. The fare is two dollars.",
+        "Có. Giá vé là hai đô la."
+      ],
+      [
+        "Linh",
+        "Where should I get off?",
+        "Tôi nên xuống ở đâu?"
+      ],
+      [
+        "Luna",
+        "Get off at the next stop.",
+        "Hãy xuống ở trạm tiếp theo."
+      ]
+    ],
+    "grammar": {
+      "title": "There is / There are",
+      "rule": "There is + danh từ số ít hoặc không đếm được. There are + danh từ số nhiều.",
+      "example": "There is a park. There are two shops.",
+      "note": "Câu hỏi: Is there a park? / Are there any shops?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "___ there a bank?",
+        "options": [
+          "Are",
+          "Is",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "Đảo is lên trước there để hỏi về một ngân hàng."
+      },
+      {
+        "prompt": "There is ___ water in the bottle.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "an"
+        ],
+        "correct": 0,
+        "explanation": "Water không đếm được, có thể dùng some."
+      },
+      {
+        "prompt": "There are three ___.",
+        "options": [
+          "bus",
+          "buses",
+          "a bus",
+          "an bus"
+        ],
+        "correct": 1,
+        "explanation": "Sau three dùng danh từ số nhiều buses."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Get off at the next stop.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Hãy xuống ở trạm tiếp theo."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“bus stop” có nghĩa là gì?",
+        "options": [
+          "Trạm xe buýt",
+          "Nhà ga",
+          "Tàu hỏa",
+          "Sân ga"
+        ],
+        "correct": 0,
+        "explanation": "Wait at the bus stop. — Hãy chờ ở trạm xe buýt."
+      },
+      {
+        "prompt": "“station” có nghĩa là gì?",
+        "options": [
+          "Tàu hỏa",
+          "Sân ga",
+          "Giá vé đi lại",
+          "Nhà ga"
+        ],
+        "correct": 3,
+        "explanation": "The station is near my home. — Nhà ga ở gần nhà tôi."
+      },
+      {
+        "prompt": "“train” có nghĩa là gì?",
+        "options": [
+          "Giá vé đi lại",
+          "Hành khách",
+          "Tàu hỏa",
+          "Sân ga"
+        ],
+        "correct": 2,
+        "explanation": "We travelled by train. — Chúng tôi đã đi bằng tàu hỏa."
+      },
+      {
+        "prompt": "“platform” có nghĩa là gì?",
+        "options": [
+          "Hành trình",
+          "Sân ga",
+          "Giá vé đi lại",
+          "Hành khách"
+        ],
+        "correct": 1,
+        "explanation": "The train leaves from platform two. — Tàu khởi hành từ sân ga số hai."
+      },
+      {
+        "prompt": "“fare” có nghĩa là gì?",
+        "options": [
+          "Giá vé đi lại",
+          "Hành khách",
+          "Hành trình",
+          "Chỗ ngồi"
+        ],
+        "correct": 0,
+        "explanation": "The bus fare is two dollars. — Giá vé xe buýt là hai đô la."
+      },
+      {
+        "prompt": "“passenger” có nghĩa là gì?",
+        "options": [
+          "Hành trình",
+          "Chỗ ngồi",
+          "Tuyến đường",
+          "Hành khách"
+        ],
+        "correct": 3,
+        "explanation": "Each passenger needs a ticket. — Mỗi hành khách cần một vé."
+      },
+      {
+        "prompt": "“journey” có nghĩa là gì?",
+        "options": [
+          "Tuyến đường",
+          "Xuống xe",
+          "Hành trình",
+          "Chỗ ngồi"
+        ],
+        "correct": 2,
+        "explanation": "The journey takes an hour. — Hành trình mất một giờ."
+      },
+      {
+        "prompt": "“seat” có nghĩa là gì?",
+        "options": [
+          "Trạm xe buýt",
+          "Chỗ ngồi",
+          "Tuyến đường",
+          "Xuống xe"
+        ],
+        "correct": 1,
+        "explanation": "Is this seat free? — Chỗ này còn trống không?"
+      },
+      {
+        "prompt": "“route” có nghĩa là gì?",
+        "options": [
+          "Tuyến đường",
+          "Xuống xe",
+          "Trạm xe buýt",
+          "Nhà ga"
+        ],
+        "correct": 0,
+        "explanation": "This route goes to the museum. — Tuyến này đi đến bảo tàng."
+      },
+      {
+        "prompt": "“get off” có nghĩa là gì?",
+        "options": [
+          "Trạm xe buýt",
+          "Nhà ga",
+          "Tàu hỏa",
+          "Xuống xe"
+        ],
+        "correct": 3,
+        "explanation": "Get off at the next stop. — Xuống xe ở trạm tiếp theo."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Trạm xe buýt”.",
+        "options": [
+          "train",
+          "bus stop",
+          "platform",
+          "fare"
+        ],
+        "correct": 1,
+        "explanation": "Trạm xe buýt = bus stop"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nhà ga”.",
+        "options": [
+          "platform",
+          "station",
+          "fare",
+          "passenger"
+        ],
+        "correct": 1,
+        "explanation": "Nhà ga = station"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tàu hỏa”.",
+        "options": [
+          "fare",
+          "train",
+          "passenger",
+          "journey"
+        ],
+        "correct": 1,
+        "explanation": "Tàu hỏa = train"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sân ga”.",
+        "options": [
+          "passenger",
+          "platform",
+          "journey",
+          "seat"
+        ],
+        "correct": 1,
+        "explanation": "Sân ga = platform"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Giá vé đi lại”.",
+        "options": [
+          "journey",
+          "fare",
+          "seat",
+          "route"
+        ],
+        "correct": 1,
+        "explanation": "Giá vé đi lại = fare"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“bus stop” có nghĩa là gì?",
+        "options": [
+          "Trạm xe buýt",
+          "Nhà ga",
+          "Tàu hỏa",
+          "Sân ga"
+        ],
+        "correct": 0,
+        "explanation": "Wait at the bus stop. — Hãy chờ ở trạm xe buýt."
+      },
+      {
+        "prompt": "“station” có nghĩa là gì?",
+        "options": [
+          "Tàu hỏa",
+          "Sân ga",
+          "Giá vé đi lại",
+          "Nhà ga"
+        ],
+        "correct": 3,
+        "explanation": "The station is near my home. — Nhà ga ở gần nhà tôi."
+      },
+      {
+        "prompt": "“train” có nghĩa là gì?",
+        "options": [
+          "Giá vé đi lại",
+          "Hành khách",
+          "Tàu hỏa",
+          "Sân ga"
+        ],
+        "correct": 2,
+        "explanation": "We travelled by train. — Chúng tôi đã đi bằng tàu hỏa."
+      },
+      {
+        "prompt": "“platform” có nghĩa là gì?",
+        "options": [
+          "Hành trình",
+          "Sân ga",
+          "Giá vé đi lại",
+          "Hành khách"
+        ],
+        "correct": 1,
+        "explanation": "The train leaves from platform two. — Tàu khởi hành từ sân ga số hai."
+      },
+      {
+        "prompt": "“fare” có nghĩa là gì?",
+        "options": [
+          "Giá vé đi lại",
+          "Hành khách",
+          "Hành trình",
+          "Chỗ ngồi"
+        ],
+        "correct": 0,
+        "explanation": "The bus fare is two dollars. — Giá vé xe buýt là hai đô la."
+      },
+      {
+        "prompt": "There ___ a shop near here.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "correct": 0,
+        "explanation": "A shop là số ít, dùng is."
+      },
+      {
+        "prompt": "There ___ two parks.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "Two parks là số nhiều, dùng are."
+      },
+      {
+        "prompt": "___ there a bank?",
+        "options": [
+          "Are",
+          "Is",
+          "Am",
+          "Be"
+        ],
+        "correct": 1,
+        "explanation": "Đảo is lên trước there để hỏi về một ngân hàng."
+      },
+      {
+        "prompt": "There is ___ water in the bottle.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "an"
+        ],
+        "correct": 0,
+        "explanation": "Water không đếm được, có thể dùng some."
+      },
+      {
+        "prompt": "There are three ___.",
+        "options": [
+          "bus",
+          "buses",
+          "a bus",
+          "an bus"
+        ],
+        "correct": 1,
+        "explanation": "Sau three dùng danh từ số nhiều buses."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Trạm xe buýt”.",
+        "options": [
+          "train",
+          "bus stop",
+          "platform",
+          "fare"
+        ],
+        "correct": 1,
+        "explanation": "Trạm xe buýt = bus stop"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nhà ga”.",
+        "options": [
+          "platform",
+          "station",
+          "fare",
+          "passenger"
+        ],
+        "correct": 1,
+        "explanation": "Nhà ga = station"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tàu hỏa”.",
+        "options": [
+          "fare",
+          "train",
+          "passenger",
+          "journey"
+        ],
+        "correct": 1,
+        "explanation": "Tàu hỏa = train"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Sân ga”.",
+        "options": [
+          "passenger",
+          "platform",
+          "journey",
+          "seat"
+        ],
+        "correct": 1,
+        "explanation": "Sân ga = platform"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Giá vé đi lại”.",
+        "options": [
+          "journey",
+          "fare",
+          "seat",
+          "route"
+        ],
+        "correct": 1,
+        "explanation": "Giá vé đi lại = fare"
+      }
+    ]
+  },
+  {
+    "id": "cooking",
+    "title": "Vào bếp cùng nhau",
+    "subtitle": "Vào bếp cùng nhau · A2",
+    "emoji": "🍳",
+    "level": "A2",
+    "words": [
+      {
+        "en": "recipe",
+        "vi": "Công thức nấu ăn",
+        "ipa": "",
+        "example": "This recipe is easy.",
+        "translation": "Công thức này dễ làm."
+      },
+      {
+        "en": "ingredient",
+        "vi": "Nguyên liệu",
+        "ipa": "",
+        "example": "We need one more ingredient.",
+        "translation": "Chúng ta cần thêm một nguyên liệu."
+      },
+      {
+        "en": "boil",
+        "vi": "Luộc / đun sôi",
+        "ipa": "",
+        "example": "Boil the water first.",
+        "translation": "Trước tiên hãy đun sôi nước."
+      },
+      {
+        "en": "fry",
+        "vi": "Chiên / rán",
+        "ipa": "",
+        "example": "Fry the eggs in a pan.",
+        "translation": "Chiên trứng trong chảo."
+      },
+      {
+        "en": "bake",
+        "vi": "Nướng bằng lò",
+        "ipa": "",
+        "example": "We bake bread on Sundays.",
+        "translation": "Chúng tôi nướng bánh mì vào Chủ nhật."
+      },
+      {
+        "en": "chop",
+        "vi": "Băm / thái nhỏ",
+        "ipa": "",
+        "example": "Chop the onions.",
+        "translation": "Hãy thái nhỏ hành tây."
+      },
+      {
+        "en": "stir",
+        "vi": "Khuấy",
+        "ipa": "",
+        "example": "Stir the soup slowly.",
+        "translation": "Khuấy súp chậm thôi."
+      },
+      {
+        "en": "salt",
+        "vi": "Muối",
+        "ipa": "",
+        "example": "Add a little salt.",
+        "translation": "Thêm một chút muối."
+      },
+      {
+        "en": "pepper",
+        "vi": "Hạt tiêu",
+        "ipa": "",
+        "example": "Would you like some pepper?",
+        "translation": "Bạn có muốn thêm chút tiêu không?"
+      },
+      {
+        "en": "onion",
+        "vi": "Hành tây",
+        "ipa": "",
+        "example": "Cut the onion in half.",
+        "translation": "Cắt đôi củ hành tây."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Do we have any onions?",
+        "Chúng ta có hành tây không?"
+      ],
+      [
+        "Luna",
+        "Yes. We have some onions and eggs.",
+        "Có. Chúng ta có hành tây và trứng."
+      ],
+      [
+        "Linh",
+        "What should I do first?",
+        "Trước tiên tôi nên làm gì?"
+      ],
+      [
+        "Luna",
+        "Chop the onions, please.",
+        "Hãy thái nhỏ hành tây."
+      ]
+    ],
+    "grammar": {
+      "title": "Some / Any",
+      "rule": "Some thường dùng trong câu khẳng định. Any thường dùng trong câu hỏi và phủ định.",
+      "example": "I have some apples. Do you have any water?",
+      "note": "Some cũng dùng trong lời mời hoặc đề nghị: Would you like some tea?"
+    },
+    "grammarPractice": [
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "There is not ___ milk.",
+        "options": [
+          "many",
+          "a",
+          "any",
+          "an"
+        ],
+        "correct": 2,
+        "explanation": "Any thường dùng trong câu phủ định."
+      },
+      {
+        "prompt": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "an",
+          "many",
+          "a"
+        ],
+        "correct": 0,
+        "explanation": "Lời mời thường dùng some."
+      },
+      {
+        "prompt": "I need ___ apple.",
+        "options": [
+          "some",
+          "any",
+          "a",
+          "an"
+        ],
+        "correct": 3,
+        "explanation": "Apple số ít, bắt đầu bằng âm nguyên âm: an apple."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Chop the onions, please.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Hãy thái nhỏ hành tây."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“recipe” có nghĩa là gì?",
+        "options": [
+          "Công thức nấu ăn",
+          "Nguyên liệu",
+          "Luộc / đun sôi",
+          "Chiên / rán"
+        ],
+        "correct": 0,
+        "explanation": "This recipe is easy. — Công thức này dễ làm."
+      },
+      {
+        "prompt": "“ingredient” có nghĩa là gì?",
+        "options": [
+          "Luộc / đun sôi",
+          "Chiên / rán",
+          "Nướng bằng lò",
+          "Nguyên liệu"
+        ],
+        "correct": 3,
+        "explanation": "We need one more ingredient. — Chúng ta cần thêm một nguyên liệu."
+      },
+      {
+        "prompt": "“boil” có nghĩa là gì?",
+        "options": [
+          "Nướng bằng lò",
+          "Băm / thái nhỏ",
+          "Luộc / đun sôi",
+          "Chiên / rán"
+        ],
+        "correct": 2,
+        "explanation": "Boil the water first. — Trước tiên hãy đun sôi nước."
+      },
+      {
+        "prompt": "“fry” có nghĩa là gì?",
+        "options": [
+          "Khuấy",
+          "Chiên / rán",
+          "Nướng bằng lò",
+          "Băm / thái nhỏ"
+        ],
+        "correct": 1,
+        "explanation": "Fry the eggs in a pan. — Chiên trứng trong chảo."
+      },
+      {
+        "prompt": "“bake” có nghĩa là gì?",
+        "options": [
+          "Nướng bằng lò",
+          "Băm / thái nhỏ",
+          "Khuấy",
+          "Muối"
+        ],
+        "correct": 0,
+        "explanation": "We bake bread on Sundays. — Chúng tôi nướng bánh mì vào Chủ nhật."
+      },
+      {
+        "prompt": "“chop” có nghĩa là gì?",
+        "options": [
+          "Khuấy",
+          "Muối",
+          "Hạt tiêu",
+          "Băm / thái nhỏ"
+        ],
+        "correct": 3,
+        "explanation": "Chop the onions. — Hãy thái nhỏ hành tây."
+      },
+      {
+        "prompt": "“stir” có nghĩa là gì?",
+        "options": [
+          "Hạt tiêu",
+          "Hành tây",
+          "Khuấy",
+          "Muối"
+        ],
+        "correct": 2,
+        "explanation": "Stir the soup slowly. — Khuấy súp chậm thôi."
+      },
+      {
+        "prompt": "“salt” có nghĩa là gì?",
+        "options": [
+          "Công thức nấu ăn",
+          "Muối",
+          "Hạt tiêu",
+          "Hành tây"
+        ],
+        "correct": 1,
+        "explanation": "Add a little salt. — Thêm một chút muối."
+      },
+      {
+        "prompt": "“pepper” có nghĩa là gì?",
+        "options": [
+          "Hạt tiêu",
+          "Hành tây",
+          "Công thức nấu ăn",
+          "Nguyên liệu"
+        ],
+        "correct": 0,
+        "explanation": "Would you like some pepper? — Bạn có muốn thêm chút tiêu không?"
+      },
+      {
+        "prompt": "“onion” có nghĩa là gì?",
+        "options": [
+          "Công thức nấu ăn",
+          "Nguyên liệu",
+          "Luộc / đun sôi",
+          "Hành tây"
+        ],
+        "correct": 3,
+        "explanation": "Cut the onion in half. — Cắt đôi củ hành tây."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Công thức nấu ăn”.",
+        "options": [
+          "boil",
+          "recipe",
+          "fry",
+          "bake"
+        ],
+        "correct": 1,
+        "explanation": "Công thức nấu ăn = recipe"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nguyên liệu”.",
+        "options": [
+          "fry",
+          "ingredient",
+          "bake",
+          "chop"
+        ],
+        "correct": 1,
+        "explanation": "Nguyên liệu = ingredient"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Luộc / đun sôi”.",
+        "options": [
+          "bake",
+          "boil",
+          "chop",
+          "stir"
+        ],
+        "correct": 1,
+        "explanation": "Luộc / đun sôi = boil"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Chiên / rán”.",
+        "options": [
+          "chop",
+          "fry",
+          "stir",
+          "salt"
+        ],
+        "correct": 1,
+        "explanation": "Chiên / rán = fry"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nướng bằng lò”.",
+        "options": [
+          "stir",
+          "bake",
+          "salt",
+          "pepper"
+        ],
+        "correct": 1,
+        "explanation": "Nướng bằng lò = bake"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“recipe” có nghĩa là gì?",
+        "options": [
+          "Công thức nấu ăn",
+          "Nguyên liệu",
+          "Luộc / đun sôi",
+          "Chiên / rán"
+        ],
+        "correct": 0,
+        "explanation": "This recipe is easy. — Công thức này dễ làm."
+      },
+      {
+        "prompt": "“ingredient” có nghĩa là gì?",
+        "options": [
+          "Luộc / đun sôi",
+          "Chiên / rán",
+          "Nướng bằng lò",
+          "Nguyên liệu"
+        ],
+        "correct": 3,
+        "explanation": "We need one more ingredient. — Chúng ta cần thêm một nguyên liệu."
+      },
+      {
+        "prompt": "“boil” có nghĩa là gì?",
+        "options": [
+          "Nướng bằng lò",
+          "Băm / thái nhỏ",
+          "Luộc / đun sôi",
+          "Chiên / rán"
+        ],
+        "correct": 2,
+        "explanation": "Boil the water first. — Trước tiên hãy đun sôi nước."
+      },
+      {
+        "prompt": "“fry” có nghĩa là gì?",
+        "options": [
+          "Khuấy",
+          "Chiên / rán",
+          "Nướng bằng lò",
+          "Băm / thái nhỏ"
+        ],
+        "correct": 1,
+        "explanation": "Fry the eggs in a pan. — Chiên trứng trong chảo."
+      },
+      {
+        "prompt": "“bake” có nghĩa là gì?",
+        "options": [
+          "Nướng bằng lò",
+          "Băm / thái nhỏ",
+          "Khuấy",
+          "Muối"
+        ],
+        "correct": 0,
+        "explanation": "We bake bread on Sundays. — Chúng tôi nướng bánh mì vào Chủ nhật."
+      },
+      {
+        "prompt": "Do you have ___ water?",
+        "options": [
+          "any",
+          "a",
+          "an",
+          "many"
+        ],
+        "correct": 0,
+        "explanation": "Any thường dùng trong câu hỏi; water không đếm được."
+      },
+      {
+        "prompt": "We have ___ onions.",
+        "options": [
+          "an",
+          "some",
+          "a",
+          "much"
+        ],
+        "correct": 1,
+        "explanation": "Some đi với danh từ số nhiều trong câu khẳng định."
+      },
+      {
+        "prompt": "There is not ___ milk.",
+        "options": [
+          "many",
+          "a",
+          "any",
+          "an"
+        ],
+        "correct": 2,
+        "explanation": "Any thường dùng trong câu phủ định."
+      },
+      {
+        "prompt": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "an",
+          "many",
+          "a"
+        ],
+        "correct": 0,
+        "explanation": "Lời mời thường dùng some."
+      },
+      {
+        "prompt": "I need ___ apple.",
+        "options": [
+          "some",
+          "any",
+          "a",
+          "an"
+        ],
+        "correct": 3,
+        "explanation": "Apple số ít, bắt đầu bằng âm nguyên âm: an apple."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Công thức nấu ăn”.",
+        "options": [
+          "boil",
+          "recipe",
+          "fry",
+          "bake"
+        ],
+        "correct": 1,
+        "explanation": "Công thức nấu ăn = recipe"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nguyên liệu”.",
+        "options": [
+          "fry",
+          "ingredient",
+          "bake",
+          "chop"
+        ],
+        "correct": 1,
+        "explanation": "Nguyên liệu = ingredient"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Luộc / đun sôi”.",
+        "options": [
+          "bake",
+          "boil",
+          "chop",
+          "stir"
+        ],
+        "correct": 1,
+        "explanation": "Luộc / đun sôi = boil"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Chiên / rán”.",
+        "options": [
+          "chop",
+          "fry",
+          "stir",
+          "salt"
+        ],
+        "correct": 1,
+        "explanation": "Chiên / rán = fry"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Nướng bằng lò”.",
+        "options": [
+          "stir",
+          "bake",
+          "salt",
+          "pepper"
+        ],
+        "correct": 1,
+        "explanation": "Nướng bằng lò = bake"
+      }
+    ]
+  },
+  {
+    "id": "weekend",
+    "title": "Kể chuyện cuối tuần",
+    "subtitle": "Kể chuyện cuối tuần · A2",
+    "emoji": "📷",
+    "level": "A2",
+    "words": [
+      {
+        "en": "yesterday",
+        "vi": "Hôm qua",
+        "ipa": "",
+        "example": "I called my friend yesterday.",
+        "translation": "Hôm qua tôi đã gọi cho bạn."
+      },
+      {
+        "en": "last week",
+        "vi": "Tuần trước",
+        "ipa": "",
+        "example": "We visited Hue last week.",
+        "translation": "Chúng tôi đã thăm Huế tuần trước."
+      },
+      {
+        "en": "visit",
+        "vi": "Thăm / tham quan",
+        "ipa": "",
+        "example": "I visit my grandparents often.",
+        "translation": "Tôi thường thăm ông bà."
+      },
+      {
+        "en": "museum",
+        "vi": "Bảo tàng",
+        "ipa": "",
+        "example": "The museum opens at nine.",
+        "translation": "Bảo tàng mở cửa lúc chín giờ."
+      },
+      {
+        "en": "picnic",
+        "vi": "Buổi dã ngoại",
+        "ipa": "",
+        "example": "We had a picnic by the lake.",
+        "translation": "Chúng tôi đã có buổi dã ngoại bên hồ."
+      },
+      {
+        "en": "beach",
+        "vi": "Bãi biển",
+        "ipa": "",
+        "example": "They walked on the beach.",
+        "translation": "Họ đã đi bộ trên bãi biển."
+      },
+      {
+        "en": "mountain",
+        "vi": "Núi",
+        "ipa": "",
+        "example": "The mountain is beautiful.",
+        "translation": "Ngọn núi rất đẹp."
+      },
+      {
+        "en": "enjoy",
+        "vi": "Thích / tận hưởng",
+        "ipa": "",
+        "example": "I enjoy learning English.",
+        "translation": "Tôi thích học tiếng Anh."
+      },
+      {
+        "en": "relax",
+        "vi": "Thư giãn",
+        "ipa": "",
+        "example": "I relax after work.",
+        "translation": "Tôi thư giãn sau giờ làm."
+      },
+      {
+        "en": "memory",
+        "vi": "Kỷ niệm",
+        "ipa": "",
+        "example": "That is a happy memory.",
+        "translation": "Đó là một kỷ niệm vui."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "What did you do last weekend?",
+        "Cuối tuần trước bạn đã làm gì?"
+      ],
+      [
+        "Luna",
+        "I visited a museum.",
+        "Tôi đã tham quan một bảo tàng."
+      ],
+      [
+        "Linh",
+        "Did you enjoy it?",
+        "Bạn có thích chuyến đi không?"
+      ],
+      [
+        "Luna",
+        "Yes. I learned a lot.",
+        "Có. Tôi đã học được nhiều điều."
+      ]
+    ],
+    "grammar": {
+      "title": "Quá khứ đơn",
+      "rule": "Dùng quá khứ đơn cho sự việc đã kết thúc. Động từ thường thêm -ed; một số động từ bất quy tắc.",
+      "example": "I visited Hanoi yesterday. We went by train.",
+      "note": "Sau did/did not dùng động từ nguyên mẫu: Did you go? I did not go."
+    },
+    "grammarPractice": [
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Did you ___ the report?",
+        "options": [
+          "finished",
+          "finishes",
+          "finish",
+          "finishing"
+        ],
+        "correct": 2,
+        "explanation": "Sau did dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "She did not ___ yesterday.",
+        "options": [
+          "work",
+          "worked",
+          "works",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau did not dùng work nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ at home last night.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "is"
+        ],
+        "correct": 1,
+        "explanation": "They đi với were trong quá khứ."
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Chọn câu xuất hiện trong hội thoại.",
+        "options": [
+          "Yes. I learned a lot.",
+          "I have a blue bicycle.",
+          "My brother lives in Canada.",
+          "We have seven cats."
+        ],
+        "correct": 0,
+        "explanation": "Câu này nằm ở lượt thoại cuối: Có. Tôi đã học được nhiều điều."
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“yesterday” có nghĩa là gì?",
+        "options": [
+          "Hôm qua",
+          "Tuần trước",
+          "Thăm / tham quan",
+          "Bảo tàng"
+        ],
+        "correct": 0,
+        "explanation": "I called my friend yesterday. — Hôm qua tôi đã gọi cho bạn."
+      },
+      {
+        "prompt": "“last week” có nghĩa là gì?",
+        "options": [
+          "Thăm / tham quan",
+          "Bảo tàng",
+          "Buổi dã ngoại",
+          "Tuần trước"
+        ],
+        "correct": 3,
+        "explanation": "We visited Hue last week. — Chúng tôi đã thăm Huế tuần trước."
+      },
+      {
+        "prompt": "“visit” có nghĩa là gì?",
+        "options": [
+          "Buổi dã ngoại",
+          "Bãi biển",
+          "Thăm / tham quan",
+          "Bảo tàng"
+        ],
+        "correct": 2,
+        "explanation": "I visit my grandparents often. — Tôi thường thăm ông bà."
+      },
+      {
+        "prompt": "“museum” có nghĩa là gì?",
+        "options": [
+          "Núi",
+          "Bảo tàng",
+          "Buổi dã ngoại",
+          "Bãi biển"
+        ],
+        "correct": 1,
+        "explanation": "The museum opens at nine. — Bảo tàng mở cửa lúc chín giờ."
+      },
+      {
+        "prompt": "“picnic” có nghĩa là gì?",
+        "options": [
+          "Buổi dã ngoại",
+          "Bãi biển",
+          "Núi",
+          "Thích / tận hưởng"
+        ],
+        "correct": 0,
+        "explanation": "We had a picnic by the lake. — Chúng tôi đã có buổi dã ngoại bên hồ."
+      },
+      {
+        "prompt": "“beach” có nghĩa là gì?",
+        "options": [
+          "Núi",
+          "Thích / tận hưởng",
+          "Thư giãn",
+          "Bãi biển"
+        ],
+        "correct": 3,
+        "explanation": "They walked on the beach. — Họ đã đi bộ trên bãi biển."
+      },
+      {
+        "prompt": "“mountain” có nghĩa là gì?",
+        "options": [
+          "Thư giãn",
+          "Kỷ niệm",
+          "Núi",
+          "Thích / tận hưởng"
+        ],
+        "correct": 2,
+        "explanation": "The mountain is beautiful. — Ngọn núi rất đẹp."
+      },
+      {
+        "prompt": "“enjoy” có nghĩa là gì?",
+        "options": [
+          "Hôm qua",
+          "Thích / tận hưởng",
+          "Thư giãn",
+          "Kỷ niệm"
+        ],
+        "correct": 1,
+        "explanation": "I enjoy learning English. — Tôi thích học tiếng Anh."
+      },
+      {
+        "prompt": "“relax” có nghĩa là gì?",
+        "options": [
+          "Thư giãn",
+          "Kỷ niệm",
+          "Hôm qua",
+          "Tuần trước"
+        ],
+        "correct": 0,
+        "explanation": "I relax after work. — Tôi thư giãn sau giờ làm."
+      },
+      {
+        "prompt": "“memory” có nghĩa là gì?",
+        "options": [
+          "Hôm qua",
+          "Tuần trước",
+          "Thăm / tham quan",
+          "Kỷ niệm"
+        ],
+        "correct": 3,
+        "explanation": "That is a happy memory. — Đó là một kỷ niệm vui."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hôm qua”.",
+        "options": [
+          "visit",
+          "yesterday",
+          "museum",
+          "picnic"
+        ],
+        "correct": 1,
+        "explanation": "Hôm qua = yesterday"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tuần trước”.",
+        "options": [
+          "museum",
+          "last week",
+          "picnic",
+          "beach"
+        ],
+        "correct": 1,
+        "explanation": "Tuần trước = last week"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thăm / tham quan”.",
+        "options": [
+          "picnic",
+          "visit",
+          "beach",
+          "mountain"
+        ],
+        "correct": 1,
+        "explanation": "Thăm / tham quan = visit"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bảo tàng”.",
+        "options": [
+          "beach",
+          "museum",
+          "mountain",
+          "enjoy"
+        ],
+        "correct": 1,
+        "explanation": "Bảo tàng = museum"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Buổi dã ngoại”.",
+        "options": [
+          "mountain",
+          "picnic",
+          "enjoy",
+          "relax"
+        ],
+        "correct": 1,
+        "explanation": "Buổi dã ngoại = picnic"
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“yesterday” có nghĩa là gì?",
+        "options": [
+          "Hôm qua",
+          "Tuần trước",
+          "Thăm / tham quan",
+          "Bảo tàng"
+        ],
+        "correct": 0,
+        "explanation": "I called my friend yesterday. — Hôm qua tôi đã gọi cho bạn."
+      },
+      {
+        "prompt": "“last week” có nghĩa là gì?",
+        "options": [
+          "Thăm / tham quan",
+          "Bảo tàng",
+          "Buổi dã ngoại",
+          "Tuần trước"
+        ],
+        "correct": 3,
+        "explanation": "We visited Hue last week. — Chúng tôi đã thăm Huế tuần trước."
+      },
+      {
+        "prompt": "“visit” có nghĩa là gì?",
+        "options": [
+          "Buổi dã ngoại",
+          "Bãi biển",
+          "Thăm / tham quan",
+          "Bảo tàng"
+        ],
+        "correct": 2,
+        "explanation": "I visit my grandparents often. — Tôi thường thăm ông bà."
+      },
+      {
+        "prompt": "“museum” có nghĩa là gì?",
+        "options": [
+          "Núi",
+          "Bảo tàng",
+          "Buổi dã ngoại",
+          "Bãi biển"
+        ],
+        "correct": 1,
+        "explanation": "The museum opens at nine. — Bảo tàng mở cửa lúc chín giờ."
+      },
+      {
+        "prompt": "“picnic” có nghĩa là gì?",
+        "options": [
+          "Buổi dã ngoại",
+          "Bãi biển",
+          "Núi",
+          "Thích / tận hưởng"
+        ],
+        "correct": 0,
+        "explanation": "We had a picnic by the lake. — Chúng tôi đã có buổi dã ngoại bên hồ."
+      },
+      {
+        "prompt": "I ___ Hanoi yesterday.",
+        "options": [
+          "visit",
+          "visits",
+          "visited",
+          "visiting"
+        ],
+        "correct": 2,
+        "explanation": "Yesterday chỉ quá khứ, visit thêm -ed."
+      },
+      {
+        "prompt": "We ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "correct": 3,
+        "explanation": "Went là dạng quá khứ của go."
+      },
+      {
+        "prompt": "Did you ___ the report?",
+        "options": [
+          "finished",
+          "finishes",
+          "finish",
+          "finishing"
+        ],
+        "correct": 2,
+        "explanation": "Sau did dùng động từ nguyên mẫu."
+      },
+      {
+        "prompt": "She did not ___ yesterday.",
+        "options": [
+          "work",
+          "worked",
+          "works",
+          "working"
+        ],
+        "correct": 0,
+        "explanation": "Sau did not dùng work nguyên mẫu."
+      },
+      {
+        "prompt": "They ___ at home last night.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "is"
+        ],
+        "correct": 1,
+        "explanation": "They đi với were trong quá khứ."
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Hôm qua”.",
+        "options": [
+          "visit",
+          "yesterday",
+          "museum",
+          "picnic"
+        ],
+        "correct": 1,
+        "explanation": "Hôm qua = yesterday"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Tuần trước”.",
+        "options": [
+          "museum",
+          "last week",
+          "picnic",
+          "beach"
+        ],
+        "correct": 1,
+        "explanation": "Tuần trước = last week"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Thăm / tham quan”.",
+        "options": [
+          "picnic",
+          "visit",
+          "beach",
+          "mountain"
+        ],
+        "correct": 1,
+        "explanation": "Thăm / tham quan = visit"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Bảo tàng”.",
+        "options": [
+          "beach",
+          "museum",
+          "mountain",
+          "enjoy"
+        ],
+        "correct": 1,
+        "explanation": "Bảo tàng = museum"
+      },
+      {
+        "prompt": "Chọn tiếng Anh cho “Buổi dã ngoại”.",
+        "options": [
+          "mountain",
+          "picnic",
+          "enjoy",
+          "relax"
+        ],
+        "correct": 1,
+        "explanation": "Buổi dã ngoại = picnic"
+      }
+    ]
+  }
+]

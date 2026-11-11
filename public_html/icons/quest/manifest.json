@@ -1,0 +1,218 @@
+{
+  "hello": {
+    "title": "Lời chào",
+    "file": "hello.svg"
+  },
+  "school": {
+    "title": "Ba lô học tập",
+    "file": "school.svg"
+  },
+  "family": {
+    "title": "Gia đình và thú cưng",
+    "file": "family.svg"
+  },
+  "food": {
+    "title": "Café và gọi món",
+    "file": "food.svg"
+  },
+  "hobby": {
+    "title": "Sáng tạo và sở thích",
+    "file": "hobby.svg"
+  },
+  "day": {
+    "title": "Khởi đầu ngày mới",
+    "file": "day.svg"
+  },
+  "travel": {
+    "title": "Du lịch và sân bay",
+    "file": "travel.svg"
+  },
+  "hotel": {
+    "title": "Khách sạn",
+    "file": "hotel.svg"
+  },
+  "shopping": {
+    "title": "Túi mua sắm",
+    "file": "shopping.svg"
+  },
+  "directions": {
+    "title": "Bản đồ và phương hướng",
+    "file": "directions.svg"
+  },
+  "weather": {
+    "title": "Mây nắng và mùa",
+    "file": "weather.svg"
+  },
+  "health": {
+    "title": "Chăm sóc sức khỏe",
+    "file": "health.svg"
+  },
+  "work": {
+    "title": "Công việc và văn phòng",
+    "file": "work.svg"
+  },
+  "technology": {
+    "title": "Công nghệ",
+    "file": "technology.svg"
+  },
+  "environment": {
+    "title": "Mầm xanh",
+    "file": "environment.svg"
+  },
+  "transport": {
+    "title": "Xe buýt",
+    "file": "transport.svg"
+  },
+  "cooking": {
+    "title": "Căn bếp",
+    "file": "cooking.svg"
+  },
+  "weekend": {
+    "title": "Kỷ niệm và chụp ảnh",
+    "file": "weekend.svg"
+  },
+  "bank": {
+    "title": "Ngân hàng và giao dịch",
+    "file": "bank.svg"
+  },
+  "books": {
+    "title": "Sổ kiến thức",
+    "file": "books.svg"
+  },
+  "course": {
+    "title": "Giáo trình",
+    "file": "course.svg"
+  },
+  "flower": {
+    "title": "Thẻ từ đã nhớ",
+    "file": "flower.svg"
+  },
+  "hourglass": {
+    "title": "Thời gian học",
+    "file": "hourglass.svg"
+  },
+  "flame": {
+    "title": "Chuỗi ngày học",
+    "file": "flame.svg"
+  },
+  "egg": {
+    "title": "Hạng Trứng",
+    "file": "egg.svg"
+  },
+  "bronze": {
+    "title": "Hạng Đồng",
+    "file": "bronze.svg"
+  },
+  "silver": {
+    "title": "Hạng Bạc",
+    "file": "silver.svg"
+  },
+  "gold": {
+    "title": "Hạng Vàng",
+    "file": "gold.svg"
+  },
+  "diamond": {
+    "title": "Hạng Kim cương",
+    "file": "diamond.svg"
+  },
+  "crown": {
+    "title": "Hạng Master",
+    "file": "crown.svg"
+  },
+  "star": {
+    "title": "Bước chân đầu tiên",
+    "file": "star.svg"
+  },
+  "microphone": {
+    "title": "Luyện nói",
+    "file": "microphone.svg"
+  },
+  "listening": {
+    "title": "Luyện nghe",
+    "file": "listening.svg"
+  },
+  "grammar": {
+    "title": "Ngữ pháp",
+    "file": "grammar.svg"
+  },
+  "practice": {
+    "title": "Luyện tập và kiểm tra",
+    "file": "practice.svg"
+  },
+  "home": {
+    "title": "Trang chủ",
+    "file": "home.svg"
+  },
+  "friends": {
+    "title": "Bạn học",
+    "file": "friends.svg"
+  },
+  "profile": {
+    "title": "Hồ sơ cá nhân",
+    "file": "profile.svg"
+  },
+  "game": {
+    "title": "Game Center",
+    "file": "game.svg"
+  },
+  "trophy": {
+    "title": "Thành tích",
+    "file": "trophy.svg"
+  },
+  "spark": {
+    "title": "Trợ lý và khám phá",
+    "file": "spark.svg"
+  },
+  "heart": {
+    "title": "Trái tim học tập",
+    "file": "heart.svg"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "file": "settings.svg"
+  },
+  "message": {
+    "title": "Tin nhắn",
+    "file": "message.svg"
+  },
+  "location": {
+    "title": "Khám phá khu vực",
+    "file": "location.svg"
+  },
+  "video": {
+    "title": "Video học tập",
+    "file": "video.svg"
+  },
+  "drive": {
+    "title": "Kho tài liệu",
+    "file": "drive.svg"
+  },
+  "globe": {
+    "title": "Bạn học toàn cầu",
+    "file": "globe.svg"
+  },
+  "check": {
+    "title": "Hoàn thành",
+    "file": "check.svg"
+  },
+  "clock": {
+    "title": "Lịch học",
+    "file": "clock.svg"
+  },
+  "badge-first": {
+    "title": "Huy hiệu bước chân đầu tiên",
+    "file": "badge-first.svg"
+  },
+  "badge-streak": {
+    "title": "Huy hiệu bền bỉ",
+    "file": "badge-streak.svg"
+  },
+  "badge-vocabulary": {
+    "title": "Huy hiệu từ vựng",
+    "file": "badge-vocabulary.svg"
+  },
+  "badge-speaking": {
+    "title": "Huy hiệu cất tiếng",
+    "file": "badge-speaking.svg"
+  }
+}
