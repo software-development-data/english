@@ -1,0 +1,9 @@
+NEXT WORK QUEUE — English Quest Pro
+
+288 unique catalog assets remain across 475 paths currently pending. Each source path with SVG and WebP has been collapsed to one unique design brief; regenerated exports should update all existing variants/paths for that ID.
+
+Priorities: character personas first, Chinese/Vietnamese cultural outfits and accessories second, pets/emotes next, general fashion/wardrobe, quest/game icons, then frames/ranks, topics and utilities.
+
+Image generation attempted 2026-10-28 and reported usage_limit_reached with reset at approximately 2026-10-28 16:34 UTC (23:34 Asia/Bangkok). Queue ordered by priority, then category and asset ID.
+
+Full asset IDs, all original paths, variant counts and generation briefs are in asset-redraw-queue.csv.

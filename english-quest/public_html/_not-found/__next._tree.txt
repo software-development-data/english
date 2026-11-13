@@ -1,0 +1,7 @@
+:HL["/_next/static/css/e8385dad9333afa5.css","style"]
+:HL["/_next/static/css/1d2cd524196931ad.css","style"]
+:HL["/brand/english-book.webp","image"]
+:HL["/pets/mochi-lost.webp","image",{"fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"Ua3UbYZTUtI6Ozoy98x0l","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

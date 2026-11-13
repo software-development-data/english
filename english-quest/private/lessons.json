@@ -1,0 +1,3380 @@
+[
+  {
+    "id": "hello",
+    "title": "Xin chào, người bạn mới!",
+    "subtitle": "Chào hỏi & giới thiệu",
+    "emoji": "👋",
+    "words": [
+      {
+        "en": "Hello",
+        "vi": "Xin chào",
+        "ipa": "/həˈləʊ/",
+        "example": "Hello! My name is Linh.",
+        "translation": "Xin chào! Mình tên là Linh."
+      },
+      {
+        "en": "Nice to meet you",
+        "vi": "Rất vui được gặp bạn",
+        "ipa": "/naɪs tə miːt juː/",
+        "example": "Nice to meet you, Mai.",
+        "translation": "Rất vui được gặp bạn, Mai."
+      },
+      {
+        "en": "Where are you from?",
+        "vi": "Bạn đến từ đâu?",
+        "ipa": "/weər ɑː juː frɒm/",
+        "example": "Where are you from? I am from Vietnam.",
+        "translation": "Bạn đến từ đâu? Mình đến từ Việt Nam."
+      },
+      {
+        "en": "Thank you",
+        "vi": "Cảm ơn bạn",
+        "ipa": "/θæŋk juː/",
+        "example": "Thank you for your help.",
+        "translation": "Cảm ơn bạn đã giúp đỡ."
+      },
+      {
+        "en": "See you later",
+        "vi": "Hẹn gặp lại",
+        "ipa": "/siː juː ˈleɪtə/",
+        "example": "See you later, Linh!",
+        "translation": "Hẹn gặp lại, Linh!"
+      },
+      {
+        "en": "Good morning",
+        "vi": "Chào buổi sáng",
+        "ipa": "/ɡʊd ˈmɔːnɪŋ/",
+        "example": "Good morning, everyone!",
+        "translation": "Chào buổi sáng, mọi người!"
+      },
+      {
+        "en": "Goodbye",
+        "vi": "Tạm biệt",
+        "ipa": "/ˌɡʊdˈbaɪ/",
+        "example": "Goodbye! See you tomorrow.",
+        "translation": "Tạm biệt! Hẹn gặp bạn ngày mai."
+      },
+      {
+        "en": "Please",
+        "vi": "Làm ơn / vui lòng",
+        "ipa": "/pliːz/",
+        "example": "Please sit down.",
+        "translation": "Mời bạn ngồi xuống."
+      },
+      {
+        "en": "Sorry",
+        "vi": "Xin lỗi",
+        "ipa": "/ˈsɒri/",
+        "example": "I am sorry I am late.",
+        "translation": "Mình xin lỗi vì đến muộn."
+      },
+      {
+        "en": "How are you?",
+        "vi": "Bạn có khỏe không?",
+        "ipa": "/haʊ ɑː juː/",
+        "example": "How are you? I am fine, thanks.",
+        "translation": "Bạn khỏe không? Mình khỏe, cảm ơn bạn."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Hello! My name is Linh.",
+        "Xin chào! Mình tên là Linh."
+      ],
+      [
+        "Mia",
+        "Hi, Linh! I am Mia.",
+        "Chào Linh! Mình là Mia."
+      ],
+      [
+        "Linh",
+        "Nice to meet you. Where are you from?",
+        "Rất vui được gặp bạn. Bạn đến từ đâu?"
+      ],
+      [
+        "Mia",
+        "I am from Vietnam.",
+        "Mình đến từ Việt Nam."
+      ]
+    ],
+    "grammar": {
+      "title": "Làm quen với động từ “to be”",
+      "rule": "I + am · You / We / They + are · He / She / It + is",
+      "example": "I am Linh. She is my friend. We are students.",
+      "note": "Đừng bỏ “am/is/are” khi nói tên, nghề nghiệp hay trạng thái. “I Linh” chưa phải câu đúng."
+    },
+    "questions": [
+      {
+        "prompt": "I ___ from Vietnam.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correct": 1,
+        "explanation": "Chủ ngữ “I” luôn đi với “am” ở hiện tại đơn."
+      },
+      {
+        "prompt": "“Nice to meet you” nghĩa là gì?",
+        "options": [
+          "Tạm biệt",
+          "Bạn khỏe không?",
+          "Rất vui được gặp bạn",
+          "Cảm ơn bạn"
+        ],
+        "correct": 2,
+        "explanation": "Đây là lời chào lịch sự khi gặp ai đó lần đầu."
+      },
+      {
+        "prompt": "Mia đến từ đâu trong đoạn hội thoại?",
+        "options": [
+          "Japan",
+          "Vietnam",
+          "Canada",
+          "Australia"
+        ],
+        "correct": 1,
+        "explanation": "Mia nói: “I am from Vietnam.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Hello” có nghĩa là gì?",
+        "options": [
+          "Xin chào",
+          "Rất vui được gặp bạn",
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn"
+        ],
+        "correct": 0,
+        "explanation": "Hello: Xin chào. Ví dụ: Hello! My name is Linh. (Xin chào! Mình tên là Linh.)"
+      },
+      {
+        "prompt": "“Nice to meet you” có nghĩa là gì?",
+        "options": [
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn",
+          "Hẹn gặp lại",
+          "Rất vui được gặp bạn"
+        ],
+        "correct": 3,
+        "explanation": "Nice to meet you: Rất vui được gặp bạn. Ví dụ: Nice to meet you, Mai. (Rất vui được gặp bạn, Mai.)"
+      },
+      {
+        "prompt": "“Where are you from?” có nghĩa là gì?",
+        "options": [
+          "Hẹn gặp lại",
+          "Chào buổi sáng",
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn"
+        ],
+        "correct": 2,
+        "explanation": "Where are you from?: Bạn đến từ đâu?. Ví dụ: Where are you from? I am from Vietnam. (Bạn đến từ đâu? Mình đến từ Việt Nam.)"
+      },
+      {
+        "prompt": "“Thank you” có nghĩa là gì?",
+        "options": [
+          "Tạm biệt",
+          "Cảm ơn bạn",
+          "Hẹn gặp lại",
+          "Chào buổi sáng"
+        ],
+        "correct": 1,
+        "explanation": "Thank you: Cảm ơn bạn. Ví dụ: Thank you for your help. (Cảm ơn bạn đã giúp đỡ.)"
+      },
+      {
+        "prompt": "“See you later” có nghĩa là gì?",
+        "options": [
+          "Hẹn gặp lại",
+          "Chào buổi sáng",
+          "Tạm biệt",
+          "Làm ơn / vui lòng"
+        ],
+        "correct": 0,
+        "explanation": "See you later: Hẹn gặp lại. Ví dụ: See you later, Linh! (Hẹn gặp lại, Linh!)"
+      },
+      {
+        "prompt": "“Good morning” có nghĩa là gì?",
+        "options": [
+          "Tạm biệt",
+          "Làm ơn / vui lòng",
+          "Xin lỗi",
+          "Chào buổi sáng"
+        ],
+        "correct": 3,
+        "explanation": "Good morning: Chào buổi sáng. Ví dụ: Good morning, everyone! (Chào buổi sáng, mọi người!)"
+      },
+      {
+        "prompt": "“Goodbye” có nghĩa là gì?",
+        "options": [
+          "Xin lỗi",
+          "Bạn có khỏe không?",
+          "Tạm biệt",
+          "Làm ơn / vui lòng"
+        ],
+        "correct": 2,
+        "explanation": "Goodbye: Tạm biệt. Ví dụ: Goodbye! See you tomorrow. (Tạm biệt! Hẹn gặp bạn ngày mai.)"
+      },
+      {
+        "prompt": "“Please” có nghĩa là gì?",
+        "options": [
+          "Xin chào",
+          "Làm ơn / vui lòng",
+          "Xin lỗi",
+          "Bạn có khỏe không?"
+        ],
+        "correct": 1,
+        "explanation": "Please: Làm ơn / vui lòng. Ví dụ: Please sit down. (Mời bạn ngồi xuống.)"
+      },
+      {
+        "prompt": "“Sorry” có nghĩa là gì?",
+        "options": [
+          "Xin lỗi",
+          "Bạn có khỏe không?",
+          "Xin chào",
+          "Rất vui được gặp bạn"
+        ],
+        "correct": 0,
+        "explanation": "Sorry: Xin lỗi. Ví dụ: I am sorry I am late. (Mình xin lỗi vì đến muộn.)"
+      },
+      {
+        "prompt": "“How are you?” có nghĩa là gì?",
+        "options": [
+          "Xin chào",
+          "Rất vui được gặp bạn",
+          "Bạn đến từ đâu?",
+          "Bạn có khỏe không?"
+        ],
+        "correct": 3,
+        "explanation": "How are you?: Bạn có khỏe không?. Ví dụ: How are you? I am fine, thanks. (Bạn khỏe không? Mình khỏe, cảm ơn bạn.)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Xin chào”",
+        "options": [
+          "Where are you from?",
+          "Thank you",
+          "Hello",
+          "See you later"
+        ],
+        "correct": 2,
+        "explanation": "“Xin chào” là “Hello”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Rất vui được gặp bạn”",
+        "options": [
+          "Thank you",
+          "See you later",
+          "Nice to meet you",
+          "Good morning"
+        ],
+        "correct": 2,
+        "explanation": "“Rất vui được gặp bạn” là “Nice to meet you”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bạn đến từ đâu?”",
+        "options": [
+          "See you later",
+          "Good morning",
+          "Where are you from?",
+          "Goodbye"
+        ],
+        "correct": 2,
+        "explanation": "“Bạn đến từ đâu?” là “Where are you from?”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cảm ơn bạn”",
+        "options": [
+          "Good morning",
+          "Goodbye",
+          "Thank you",
+          "Please"
+        ],
+        "correct": 2,
+        "explanation": "“Cảm ơn bạn” là “Thank you”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Hẹn gặp lại”",
+        "options": [
+          "Goodbye",
+          "Please",
+          "See you later",
+          "Sorry"
+        ],
+        "correct": 2,
+        "explanation": "“Hẹn gặp lại” là “See you later”."
+      },
+      {
+        "prompt": "Điền từ: She ___ my friend.",
+        "options": [
+          "is"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với is."
+      },
+      {
+        "prompt": "Sắp xếp: students / are / We",
+        "options": [
+          "We are students."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "Chủ ngữ We + are + danh từ students."
+      },
+      {
+        "prompt": "Sửa câu: He are a teacher.",
+        "options": [
+          "He is a teacher."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "He đi với is, không dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi đến từ Việt Nam.",
+        "options": [
+          "I am from Vietnam."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I am from + tên quốc gia."
+      },
+      {
+        "prompt": "They ___ my friends.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They là chủ ngữ số nhiều, dùng are."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: She ___ my friend.",
+        "options": [
+          "is"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với is."
+      },
+      {
+        "prompt": "Sắp xếp: students / are / We",
+        "options": [
+          "We are students."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "Chủ ngữ We + are + danh từ students."
+      },
+      {
+        "prompt": "Sửa câu: He are a teacher.",
+        "options": [
+          "He is a teacher."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "He đi với is, không dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi đến từ Việt Nam.",
+        "options": [
+          "I am from Vietnam."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I am from + tên quốc gia."
+      },
+      {
+        "prompt": "They ___ my friends.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They là chủ ngữ số nhiều, dùng are."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Hello” có nghĩa là gì?",
+        "options": [
+          "Xin chào",
+          "Rất vui được gặp bạn",
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn"
+        ],
+        "correct": 0,
+        "explanation": "Hello: Xin chào. Ví dụ: Hello! My name is Linh. (Xin chào! Mình tên là Linh.)"
+      },
+      {
+        "prompt": "“Nice to meet you” có nghĩa là gì?",
+        "options": [
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn",
+          "Hẹn gặp lại",
+          "Rất vui được gặp bạn"
+        ],
+        "correct": 3,
+        "explanation": "Nice to meet you: Rất vui được gặp bạn. Ví dụ: Nice to meet you, Mai. (Rất vui được gặp bạn, Mai.)"
+      },
+      {
+        "prompt": "“Where are you from?” có nghĩa là gì?",
+        "options": [
+          "Hẹn gặp lại",
+          "Chào buổi sáng",
+          "Bạn đến từ đâu?",
+          "Cảm ơn bạn"
+        ],
+        "correct": 2,
+        "explanation": "Where are you from?: Bạn đến từ đâu?. Ví dụ: Where are you from? I am from Vietnam. (Bạn đến từ đâu? Mình đến từ Việt Nam.)"
+      },
+      {
+        "prompt": "“Thank you” có nghĩa là gì?",
+        "options": [
+          "Tạm biệt",
+          "Cảm ơn bạn",
+          "Hẹn gặp lại",
+          "Chào buổi sáng"
+        ],
+        "correct": 1,
+        "explanation": "Thank you: Cảm ơn bạn. Ví dụ: Thank you for your help. (Cảm ơn bạn đã giúp đỡ.)"
+      },
+      {
+        "prompt": "“See you later” có nghĩa là gì?",
+        "options": [
+          "Hẹn gặp lại",
+          "Chào buổi sáng",
+          "Tạm biệt",
+          "Làm ơn / vui lòng"
+        ],
+        "correct": 0,
+        "explanation": "See you later: Hẹn gặp lại. Ví dụ: See you later, Linh! (Hẹn gặp lại, Linh!)"
+      },
+      {
+        "prompt": "Điền từ: She ___ my friend.",
+        "options": [
+          "is"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với is."
+      },
+      {
+        "prompt": "Sắp xếp: students / are / We",
+        "options": [
+          "We are students."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "Chủ ngữ We + are + danh từ students."
+      },
+      {
+        "prompt": "Sửa câu: He are a teacher.",
+        "options": [
+          "He is a teacher."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "He đi với is, không dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi đến từ Việt Nam.",
+        "options": [
+          "I am from Vietnam."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I am from + tên quốc gia."
+      },
+      {
+        "prompt": "They ___ my friends.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "correct": 2,
+        "explanation": "They là chủ ngữ số nhiều, dùng are."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Xin chào”",
+        "options": [
+          "Where are you from?",
+          "Thank you",
+          "Hello",
+          "See you later"
+        ],
+        "correct": 2,
+        "explanation": "“Xin chào” là “Hello”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Rất vui được gặp bạn”",
+        "options": [
+          "Thank you",
+          "See you later",
+          "Nice to meet you",
+          "Good morning"
+        ],
+        "correct": 2,
+        "explanation": "“Rất vui được gặp bạn” là “Nice to meet you”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bạn đến từ đâu?”",
+        "options": [
+          "See you later",
+          "Good morning",
+          "Where are you from?",
+          "Goodbye"
+        ],
+        "correct": 2,
+        "explanation": "“Bạn đến từ đâu?” là “Where are you from?”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cảm ơn bạn”",
+        "options": [
+          "Good morning",
+          "Goodbye",
+          "Thank you",
+          "Please"
+        ],
+        "correct": 2,
+        "explanation": "“Cảm ơn bạn” là “Thank you”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Hẹn gặp lại”",
+        "options": [
+          "Goodbye",
+          "Please",
+          "See you later",
+          "Sorry"
+        ],
+        "correct": 2,
+        "explanation": "“Hẹn gặp lại” là “See you later”."
+      }
+    ]
+  },
+  {
+    "id": "school",
+    "title": "Một ngày ở trường",
+    "subtitle": "Trường học & bạn bè",
+    "emoji": "🎒",
+    "words": [
+      {
+        "en": "Notebook",
+        "vi": "Quyển vở",
+        "ipa": "/ˈnəʊtbʊk/",
+        "example": "This is my notebook.",
+        "translation": "Đây là quyển vở của mình."
+      },
+      {
+        "en": "Pencil",
+        "vi": "Bút chì",
+        "ipa": "/ˈpensəl/",
+        "example": "Can I borrow your pencil?",
+        "translation": "Mình mượn bút chì của bạn được không?"
+      },
+      {
+        "en": "Classroom",
+        "vi": "Lớp học",
+        "ipa": "/ˈklɑːsruːm/",
+        "example": "Our classroom is bright.",
+        "translation": "Lớp học của chúng mình sáng sủa."
+      },
+      {
+        "en": "Teacher",
+        "vi": "Giáo viên",
+        "ipa": "/ˈtiːtʃə/",
+        "example": "My teacher is kind.",
+        "translation": "Giáo viên của mình rất tốt bụng."
+      },
+      {
+        "en": "Homework",
+        "vi": "Bài tập về nhà",
+        "ipa": "/ˈhəʊmwɜːk/",
+        "example": "I do my homework after school.",
+        "translation": "Mình làm bài tập về nhà sau giờ học."
+      },
+      {
+        "en": "Book",
+        "vi": "Quyển sách",
+        "ipa": "/bʊk/",
+        "example": "Open your book, please.",
+        "translation": "Hãy mở sách ra nhé."
+      },
+      {
+        "en": "Ruler",
+        "vi": "Thước kẻ",
+        "ipa": "/ˈruːlə/",
+        "example": "This ruler is long.",
+        "translation": "Chiếc thước kẻ này dài."
+      },
+      {
+        "en": "School bag",
+        "vi": "Cặp sách",
+        "ipa": "/skuːl bæɡ/",
+        "example": "My school bag is blue.",
+        "translation": "Cặp sách của mình màu xanh."
+      },
+      {
+        "en": "Student",
+        "vi": "Học sinh / sinh viên",
+        "ipa": "/ˈstjuːdənt/",
+        "example": "I am a student.",
+        "translation": "Mình là học sinh."
+      },
+      {
+        "en": "Library",
+        "vi": "Thư viện",
+        "ipa": "/ˈlaɪbrəri/",
+        "example": "We read in the library.",
+        "translation": "Chúng mình đọc sách trong thư viện."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Do you have a pencil?",
+        "Bạn có bút chì không?"
+      ],
+      [
+        "Mia",
+        "Yes. Here you are.",
+        "Có. Của bạn đây."
+      ],
+      [
+        "Linh",
+        "Thank you! Is this your notebook?",
+        "Cảm ơn! Đây là vở của bạn à?"
+      ],
+      [
+        "Mia",
+        "Yes, it is my notebook.",
+        "Đúng, đó là vở của mình."
+      ]
+    ],
+    "grammar": {
+      "title": "This / That — Chỉ đồ vật",
+      "rule": "This is + danh từ số ít (ở gần). That is + danh từ số ít (ở xa).",
+      "example": "This is my pencil. That is our classroom.",
+      "note": "Dùng “these are” và “those are” khi nói về nhiều đồ vật."
+    },
+    "questions": [
+      {
+        "prompt": "___ is my pencil. (vật ở gần)",
+        "options": [
+          "These",
+          "Those",
+          "This",
+          "They"
+        ],
+        "correct": 2,
+        "explanation": "“This” dùng cho một vật ở gần người nói."
+      },
+      {
+        "prompt": "“Notebook” là gì?",
+        "options": [
+          "Quyển vở",
+          "Bảng",
+          "Cặp sách",
+          "Bút chì"
+        ],
+        "correct": 0,
+        "explanation": "Notebook là quyển vở; pencil mới là bút chì."
+      },
+      {
+        "prompt": "Mia cho Linh mượn gì?",
+        "options": [
+          "A book",
+          "A pencil",
+          "A bag",
+          "A ruler"
+        ],
+        "correct": 1,
+        "explanation": "Linh hỏi mượn bút chì và Mia đáp “Here you are.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Notebook” có nghĩa là gì?",
+        "options": [
+          "Quyển vở",
+          "Bút chì",
+          "Lớp học",
+          "Giáo viên"
+        ],
+        "correct": 0,
+        "explanation": "Notebook: Quyển vở. Ví dụ: This is my notebook. (Đây là quyển vở của mình.)"
+      },
+      {
+        "prompt": "“Pencil” có nghĩa là gì?",
+        "options": [
+          "Lớp học",
+          "Giáo viên",
+          "Bài tập về nhà",
+          "Bút chì"
+        ],
+        "correct": 3,
+        "explanation": "Pencil: Bút chì. Ví dụ: Can I borrow your pencil? (Mình mượn bút chì của bạn được không?)"
+      },
+      {
+        "prompt": "“Classroom” có nghĩa là gì?",
+        "options": [
+          "Bài tập về nhà",
+          "Quyển sách",
+          "Lớp học",
+          "Giáo viên"
+        ],
+        "correct": 2,
+        "explanation": "Classroom: Lớp học. Ví dụ: Our classroom is bright. (Lớp học của chúng mình sáng sủa.)"
+      },
+      {
+        "prompt": "“Teacher” có nghĩa là gì?",
+        "options": [
+          "Thước kẻ",
+          "Giáo viên",
+          "Bài tập về nhà",
+          "Quyển sách"
+        ],
+        "correct": 1,
+        "explanation": "Teacher: Giáo viên. Ví dụ: My teacher is kind. (Giáo viên của mình rất tốt bụng.)"
+      },
+      {
+        "prompt": "“Homework” có nghĩa là gì?",
+        "options": [
+          "Bài tập về nhà",
+          "Quyển sách",
+          "Thước kẻ",
+          "Cặp sách"
+        ],
+        "correct": 0,
+        "explanation": "Homework: Bài tập về nhà. Ví dụ: I do my homework after school. (Mình làm bài tập về nhà sau giờ học.)"
+      },
+      {
+        "prompt": "“Book” có nghĩa là gì?",
+        "options": [
+          "Thước kẻ",
+          "Cặp sách",
+          "Học sinh / sinh viên",
+          "Quyển sách"
+        ],
+        "correct": 3,
+        "explanation": "Book: Quyển sách. Ví dụ: Open your book, please. (Hãy mở sách ra nhé.)"
+      },
+      {
+        "prompt": "“Ruler” có nghĩa là gì?",
+        "options": [
+          "Học sinh / sinh viên",
+          "Thư viện",
+          "Thước kẻ",
+          "Cặp sách"
+        ],
+        "correct": 2,
+        "explanation": "Ruler: Thước kẻ. Ví dụ: This ruler is long. (Chiếc thước kẻ này dài.)"
+      },
+      {
+        "prompt": "“School bag” có nghĩa là gì?",
+        "options": [
+          "Quyển vở",
+          "Cặp sách",
+          "Học sinh / sinh viên",
+          "Thư viện"
+        ],
+        "correct": 1,
+        "explanation": "School bag: Cặp sách. Ví dụ: My school bag is blue. (Cặp sách của mình màu xanh.)"
+      },
+      {
+        "prompt": "“Student” có nghĩa là gì?",
+        "options": [
+          "Học sinh / sinh viên",
+          "Thư viện",
+          "Quyển vở",
+          "Bút chì"
+        ],
+        "correct": 0,
+        "explanation": "Student: Học sinh / sinh viên. Ví dụ: I am a student. (Mình là học sinh.)"
+      },
+      {
+        "prompt": "“Library” có nghĩa là gì?",
+        "options": [
+          "Quyển vở",
+          "Bút chì",
+          "Lớp học",
+          "Thư viện"
+        ],
+        "correct": 3,
+        "explanation": "Library: Thư viện. Ví dụ: We read in the library. (Chúng mình đọc sách trong thư viện.)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Quyển vở”",
+        "options": [
+          "Classroom",
+          "Teacher",
+          "Notebook",
+          "Homework"
+        ],
+        "correct": 2,
+        "explanation": "“Quyển vở” là “Notebook”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bút chì”",
+        "options": [
+          "Teacher",
+          "Homework",
+          "Pencil",
+          "Book"
+        ],
+        "correct": 2,
+        "explanation": "“Bút chì” là “Pencil”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Lớp học”",
+        "options": [
+          "Homework",
+          "Book",
+          "Classroom",
+          "Ruler"
+        ],
+        "correct": 2,
+        "explanation": "“Lớp học” là “Classroom”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Giáo viên”",
+        "options": [
+          "Book",
+          "Ruler",
+          "Teacher",
+          "School bag"
+        ],
+        "correct": 2,
+        "explanation": "“Giáo viên” là “Teacher”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bài tập về nhà”",
+        "options": [
+          "Ruler",
+          "School bag",
+          "Homework",
+          "Student"
+        ],
+        "correct": 2,
+        "explanation": "“Bài tập về nhà” là “Homework”."
+      },
+      {
+        "prompt": "Điền từ: ___ is my notebook. (ở gần)",
+        "options": [
+          "This"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "This chỉ một vật ở gần."
+      },
+      {
+        "prompt": "Sắp xếp: my / is / That / book",
+        "options": [
+          "That is my book."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "That + is + my book."
+      },
+      {
+        "prompt": "Sửa câu: These is my pencils.",
+        "options": [
+          "These are my pencils."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "These chỉ nhiều vật nên dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Đây là bút chì của tôi.",
+        "options": [
+          "This is my pencil."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "This is + my pencil."
+      },
+      {
+        "prompt": "___ are our books. (ở xa)",
+        "options": [
+          "This",
+          "That",
+          "Those",
+          "It"
+        ],
+        "correct": 2,
+        "explanation": "Those dùng cho nhiều vật ở xa."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: ___ is my notebook. (ở gần)",
+        "options": [
+          "This"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "This chỉ một vật ở gần."
+      },
+      {
+        "prompt": "Sắp xếp: my / is / That / book",
+        "options": [
+          "That is my book."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "That + is + my book."
+      },
+      {
+        "prompt": "Sửa câu: These is my pencils.",
+        "options": [
+          "These are my pencils."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "These chỉ nhiều vật nên dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Đây là bút chì của tôi.",
+        "options": [
+          "This is my pencil."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "This is + my pencil."
+      },
+      {
+        "prompt": "___ are our books. (ở xa)",
+        "options": [
+          "This",
+          "That",
+          "Those",
+          "It"
+        ],
+        "correct": 2,
+        "explanation": "Those dùng cho nhiều vật ở xa."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Notebook” có nghĩa là gì?",
+        "options": [
+          "Quyển vở",
+          "Bút chì",
+          "Lớp học",
+          "Giáo viên"
+        ],
+        "correct": 0,
+        "explanation": "Notebook: Quyển vở. Ví dụ: This is my notebook. (Đây là quyển vở của mình.)"
+      },
+      {
+        "prompt": "“Pencil” có nghĩa là gì?",
+        "options": [
+          "Lớp học",
+          "Giáo viên",
+          "Bài tập về nhà",
+          "Bút chì"
+        ],
+        "correct": 3,
+        "explanation": "Pencil: Bút chì. Ví dụ: Can I borrow your pencil? (Mình mượn bút chì của bạn được không?)"
+      },
+      {
+        "prompt": "“Classroom” có nghĩa là gì?",
+        "options": [
+          "Bài tập về nhà",
+          "Quyển sách",
+          "Lớp học",
+          "Giáo viên"
+        ],
+        "correct": 2,
+        "explanation": "Classroom: Lớp học. Ví dụ: Our classroom is bright. (Lớp học của chúng mình sáng sủa.)"
+      },
+      {
+        "prompt": "“Teacher” có nghĩa là gì?",
+        "options": [
+          "Thước kẻ",
+          "Giáo viên",
+          "Bài tập về nhà",
+          "Quyển sách"
+        ],
+        "correct": 1,
+        "explanation": "Teacher: Giáo viên. Ví dụ: My teacher is kind. (Giáo viên của mình rất tốt bụng.)"
+      },
+      {
+        "prompt": "“Homework” có nghĩa là gì?",
+        "options": [
+          "Bài tập về nhà",
+          "Quyển sách",
+          "Thước kẻ",
+          "Cặp sách"
+        ],
+        "correct": 0,
+        "explanation": "Homework: Bài tập về nhà. Ví dụ: I do my homework after school. (Mình làm bài tập về nhà sau giờ học.)"
+      },
+      {
+        "prompt": "Điền từ: ___ is my notebook. (ở gần)",
+        "options": [
+          "This"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "This chỉ một vật ở gần."
+      },
+      {
+        "prompt": "Sắp xếp: my / is / That / book",
+        "options": [
+          "That is my book."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "That + is + my book."
+      },
+      {
+        "prompt": "Sửa câu: These is my pencils.",
+        "options": [
+          "These are my pencils."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "These chỉ nhiều vật nên dùng are."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Đây là bút chì của tôi.",
+        "options": [
+          "This is my pencil."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "This is + my pencil."
+      },
+      {
+        "prompt": "___ are our books. (ở xa)",
+        "options": [
+          "This",
+          "That",
+          "Those",
+          "It"
+        ],
+        "correct": 2,
+        "explanation": "Those dùng cho nhiều vật ở xa."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Quyển vở”",
+        "options": [
+          "Classroom",
+          "Teacher",
+          "Notebook",
+          "Homework"
+        ],
+        "correct": 2,
+        "explanation": "“Quyển vở” là “Notebook”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bút chì”",
+        "options": [
+          "Teacher",
+          "Homework",
+          "Pencil",
+          "Book"
+        ],
+        "correct": 2,
+        "explanation": "“Bút chì” là “Pencil”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Lớp học”",
+        "options": [
+          "Homework",
+          "Book",
+          "Classroom",
+          "Ruler"
+        ],
+        "correct": 2,
+        "explanation": "“Lớp học” là “Classroom”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Giáo viên”",
+        "options": [
+          "Book",
+          "Ruler",
+          "Teacher",
+          "School bag"
+        ],
+        "correct": 2,
+        "explanation": "“Giáo viên” là “Teacher”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bài tập về nhà”",
+        "options": [
+          "Ruler",
+          "School bag",
+          "Homework",
+          "Student"
+        ],
+        "correct": 2,
+        "explanation": "“Bài tập về nhà” là “Homework”."
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "title": "Gia đình nhỏ của mình",
+    "subtitle": "Gia đình & thú cưng",
+    "emoji": "🐱",
+    "words": [
+      {
+        "en": "Mother",
+        "vi": "Mẹ",
+        "ipa": "/ˈmʌðə/",
+        "example": "My mother is a doctor.",
+        "translation": "Mẹ mình là bác sĩ."
+      },
+      {
+        "en": "Father",
+        "vi": "Bố",
+        "ipa": "/ˈfɑːðə/",
+        "example": "My father likes cooking.",
+        "translation": "Bố mình thích nấu ăn."
+      },
+      {
+        "en": "Sister",
+        "vi": "Chị / em gái",
+        "ipa": "/ˈsɪstə/",
+        "example": "I have one sister.",
+        "translation": "Mình có một chị/em gái."
+      },
+      {
+        "en": "Brother",
+        "vi": "Anh / em trai",
+        "ipa": "/ˈbrʌðə/",
+        "example": "My brother is ten.",
+        "translation": "Anh/em trai mình mười tuổi."
+      },
+      {
+        "en": "Pet",
+        "vi": "Thú cưng",
+        "ipa": "/pet/",
+        "example": "Do you have a pet?",
+        "translation": "Bạn có thú cưng không?"
+      },
+      {
+        "en": "Grandmother",
+        "vi": "Bà",
+        "ipa": "/ˈɡrænmʌðə/",
+        "example": "My grandmother is kind.",
+        "translation": "Bà mình rất hiền."
+      },
+      {
+        "en": "Grandfather",
+        "vi": "Ông",
+        "ipa": "/ˈɡrænfɑːðə/",
+        "example": "My grandfather likes tea.",
+        "translation": "Ông mình thích trà."
+      },
+      {
+        "en": "Cat",
+        "vi": "Con mèo",
+        "ipa": "/kæt/",
+        "example": "The cat is sleeping.",
+        "translation": "Chú mèo đang ngủ."
+      },
+      {
+        "en": "Dog",
+        "vi": "Con chó",
+        "ipa": "/dɒɡ/",
+        "example": "Our dog likes to run.",
+        "translation": "Chú chó của chúng mình thích chạy."
+      },
+      {
+        "en": "Family",
+        "vi": "Gia đình",
+        "ipa": "/ˈfæməli/",
+        "example": "I love my family.",
+        "translation": "Mình yêu gia đình mình."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "Do you have a pet?",
+        "Bạn có thú cưng không?"
+      ],
+      [
+        "Mia",
+        "Yes, I have a cat.",
+        "Có, mình có một chú mèo."
+      ],
+      [
+        "Linh",
+        "What is its name?",
+        "Nó tên là gì?"
+      ],
+      [
+        "Mia",
+        "Its name is Mochi. My sister loves it.",
+        "Nó tên là Mochi. Chị/em gái mình rất yêu nó."
+      ]
+    ],
+    "grammar": {
+      "title": "Have / Has — Nói về điều mình có",
+      "rule": "I / You / We / They + have · He / She / It + has",
+      "example": "I have a cat. My sister has a dog.",
+      "note": "Trong câu hỏi với “does”, dùng “have”: Does she have a pet?"
+    },
+    "questions": [
+      {
+        "prompt": "She ___ a cat.",
+        "options": [
+          "have",
+          "having",
+          "has",
+          "are"
+        ],
+        "correct": 2,
+        "explanation": "“She” là ngôi thứ ba số ít nên dùng “has”."
+      },
+      {
+        "prompt": "“Sister” nghĩa là gì?",
+        "options": [
+          "Anh trai",
+          "Chị / em gái",
+          "Bố",
+          "Mẹ"
+        ],
+        "correct": 1,
+        "explanation": "Sister là chị hoặc em gái."
+      },
+      {
+        "prompt": "Thú cưng của Mia là con gì?",
+        "options": [
+          "A dog",
+          "A bird",
+          "A rabbit",
+          "A cat"
+        ],
+        "correct": 3,
+        "explanation": "Mia nói “I have a cat.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Mother” có nghĩa là gì?",
+        "options": [
+          "Mẹ",
+          "Bố",
+          "Chị / em gái",
+          "Anh / em trai"
+        ],
+        "correct": 0,
+        "explanation": "Mother: Mẹ. Ví dụ: My mother is a doctor. (Mẹ mình là bác sĩ.)"
+      },
+      {
+        "prompt": "“Father” có nghĩa là gì?",
+        "options": [
+          "Chị / em gái",
+          "Anh / em trai",
+          "Thú cưng",
+          "Bố"
+        ],
+        "correct": 3,
+        "explanation": "Father: Bố. Ví dụ: My father likes cooking. (Bố mình thích nấu ăn.)"
+      },
+      {
+        "prompt": "“Sister” có nghĩa là gì?",
+        "options": [
+          "Thú cưng",
+          "Bà",
+          "Chị / em gái",
+          "Anh / em trai"
+        ],
+        "correct": 2,
+        "explanation": "Sister: Chị / em gái. Ví dụ: I have one sister. (Mình có một chị/em gái.)"
+      },
+      {
+        "prompt": "“Brother” có nghĩa là gì?",
+        "options": [
+          "Ông",
+          "Anh / em trai",
+          "Thú cưng",
+          "Bà"
+        ],
+        "correct": 1,
+        "explanation": "Brother: Anh / em trai. Ví dụ: My brother is ten. (Anh/em trai mình mười tuổi.)"
+      },
+      {
+        "prompt": "“Pet” có nghĩa là gì?",
+        "options": [
+          "Thú cưng",
+          "Bà",
+          "Ông",
+          "Con mèo"
+        ],
+        "correct": 0,
+        "explanation": "Pet: Thú cưng. Ví dụ: Do you have a pet? (Bạn có thú cưng không?)"
+      },
+      {
+        "prompt": "“Grandmother” có nghĩa là gì?",
+        "options": [
+          "Ông",
+          "Con mèo",
+          "Con chó",
+          "Bà"
+        ],
+        "correct": 3,
+        "explanation": "Grandmother: Bà. Ví dụ: My grandmother is kind. (Bà mình rất hiền.)"
+      },
+      {
+        "prompt": "“Grandfather” có nghĩa là gì?",
+        "options": [
+          "Con chó",
+          "Gia đình",
+          "Ông",
+          "Con mèo"
+        ],
+        "correct": 2,
+        "explanation": "Grandfather: Ông. Ví dụ: My grandfather likes tea. (Ông mình thích trà.)"
+      },
+      {
+        "prompt": "“Cat” có nghĩa là gì?",
+        "options": [
+          "Mẹ",
+          "Con mèo",
+          "Con chó",
+          "Gia đình"
+        ],
+        "correct": 1,
+        "explanation": "Cat: Con mèo. Ví dụ: The cat is sleeping. (Chú mèo đang ngủ.)"
+      },
+      {
+        "prompt": "“Dog” có nghĩa là gì?",
+        "options": [
+          "Con chó",
+          "Gia đình",
+          "Mẹ",
+          "Bố"
+        ],
+        "correct": 0,
+        "explanation": "Dog: Con chó. Ví dụ: Our dog likes to run. (Chú chó của chúng mình thích chạy.)"
+      },
+      {
+        "prompt": "“Family” có nghĩa là gì?",
+        "options": [
+          "Mẹ",
+          "Bố",
+          "Chị / em gái",
+          "Gia đình"
+        ],
+        "correct": 3,
+        "explanation": "Family: Gia đình. Ví dụ: I love my family. (Mình yêu gia đình mình.)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Mẹ”",
+        "options": [
+          "Sister",
+          "Brother",
+          "Mother",
+          "Pet"
+        ],
+        "correct": 2,
+        "explanation": "“Mẹ” là “Mother”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bố”",
+        "options": [
+          "Brother",
+          "Pet",
+          "Father",
+          "Grandmother"
+        ],
+        "correct": 2,
+        "explanation": "“Bố” là “Father”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Chị / em gái”",
+        "options": [
+          "Pet",
+          "Grandmother",
+          "Sister",
+          "Grandfather"
+        ],
+        "correct": 2,
+        "explanation": "“Chị / em gái” là “Sister”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Anh / em trai”",
+        "options": [
+          "Grandmother",
+          "Grandfather",
+          "Brother",
+          "Cat"
+        ],
+        "correct": 2,
+        "explanation": "“Anh / em trai” là “Brother”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thú cưng”",
+        "options": [
+          "Grandfather",
+          "Cat",
+          "Pet",
+          "Dog"
+        ],
+        "correct": 2,
+        "explanation": "“Thú cưng” là “Pet”."
+      },
+      {
+        "prompt": "Điền từ: He ___ a dog.",
+        "options": [
+          "has"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "He đi với has trong câu khẳng định."
+      },
+      {
+        "prompt": "Sắp xếp: cat / a / have / I",
+        "options": [
+          "I have a cat."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + have + a cat."
+      },
+      {
+        "prompt": "Sửa câu: Does she has a pet?",
+        "options": [
+          "Does she have a pet?"
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau does dùng have nguyên mẫu."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Chúng tôi có một con chó.",
+        "options": [
+          "We have a dog."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "We đi với have; a dog là một con chó."
+      },
+      {
+        "prompt": "They ___ two cats.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "having"
+        ],
+        "correct": 1,
+        "explanation": "They đi với have."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: He ___ a dog.",
+        "options": [
+          "has"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "He đi với has trong câu khẳng định."
+      },
+      {
+        "prompt": "Sắp xếp: cat / a / have / I",
+        "options": [
+          "I have a cat."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + have + a cat."
+      },
+      {
+        "prompt": "Sửa câu: Does she has a pet?",
+        "options": [
+          "Does she have a pet?"
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau does dùng have nguyên mẫu."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Chúng tôi có một con chó.",
+        "options": [
+          "We have a dog."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "We đi với have; a dog là một con chó."
+      },
+      {
+        "prompt": "They ___ two cats.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "having"
+        ],
+        "correct": 1,
+        "explanation": "They đi với have."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Mother” có nghĩa là gì?",
+        "options": [
+          "Mẹ",
+          "Bố",
+          "Chị / em gái",
+          "Anh / em trai"
+        ],
+        "correct": 0,
+        "explanation": "Mother: Mẹ. Ví dụ: My mother is a doctor. (Mẹ mình là bác sĩ.)"
+      },
+      {
+        "prompt": "“Father” có nghĩa là gì?",
+        "options": [
+          "Chị / em gái",
+          "Anh / em trai",
+          "Thú cưng",
+          "Bố"
+        ],
+        "correct": 3,
+        "explanation": "Father: Bố. Ví dụ: My father likes cooking. (Bố mình thích nấu ăn.)"
+      },
+      {
+        "prompt": "“Sister” có nghĩa là gì?",
+        "options": [
+          "Thú cưng",
+          "Bà",
+          "Chị / em gái",
+          "Anh / em trai"
+        ],
+        "correct": 2,
+        "explanation": "Sister: Chị / em gái. Ví dụ: I have one sister. (Mình có một chị/em gái.)"
+      },
+      {
+        "prompt": "“Brother” có nghĩa là gì?",
+        "options": [
+          "Ông",
+          "Anh / em trai",
+          "Thú cưng",
+          "Bà"
+        ],
+        "correct": 1,
+        "explanation": "Brother: Anh / em trai. Ví dụ: My brother is ten. (Anh/em trai mình mười tuổi.)"
+      },
+      {
+        "prompt": "“Pet” có nghĩa là gì?",
+        "options": [
+          "Thú cưng",
+          "Bà",
+          "Ông",
+          "Con mèo"
+        ],
+        "correct": 0,
+        "explanation": "Pet: Thú cưng. Ví dụ: Do you have a pet? (Bạn có thú cưng không?)"
+      },
+      {
+        "prompt": "Điền từ: He ___ a dog.",
+        "options": [
+          "has"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "He đi với has trong câu khẳng định."
+      },
+      {
+        "prompt": "Sắp xếp: cat / a / have / I",
+        "options": [
+          "I have a cat."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + have + a cat."
+      },
+      {
+        "prompt": "Sửa câu: Does she has a pet?",
+        "options": [
+          "Does she have a pet?"
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau does dùng have nguyên mẫu."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Chúng tôi có một con chó.",
+        "options": [
+          "We have a dog."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "We đi với have; a dog là một con chó."
+      },
+      {
+        "prompt": "They ___ two cats.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "having"
+        ],
+        "correct": 1,
+        "explanation": "They đi với have."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Mẹ”",
+        "options": [
+          "Sister",
+          "Brother",
+          "Mother",
+          "Pet"
+        ],
+        "correct": 2,
+        "explanation": "“Mẹ” là “Mother”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bố”",
+        "options": [
+          "Brother",
+          "Pet",
+          "Father",
+          "Grandmother"
+        ],
+        "correct": 2,
+        "explanation": "“Bố” là “Father”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Chị / em gái”",
+        "options": [
+          "Pet",
+          "Grandmother",
+          "Sister",
+          "Grandfather"
+        ],
+        "correct": 2,
+        "explanation": "“Chị / em gái” là “Sister”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Anh / em trai”",
+        "options": [
+          "Grandmother",
+          "Grandfather",
+          "Brother",
+          "Cat"
+        ],
+        "correct": 2,
+        "explanation": "“Anh / em trai” là “Brother”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thú cưng”",
+        "options": [
+          "Grandfather",
+          "Cat",
+          "Pet",
+          "Dog"
+        ],
+        "correct": 2,
+        "explanation": "“Thú cưng” là “Pet”."
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "title": "Ghé quán cà phê nhé!",
+    "subtitle": "Đồ ăn & gọi món",
+    "emoji": "🍓",
+    "words": [
+      {
+        "en": "Water",
+        "vi": "Nước",
+        "ipa": "/ˈwɔːtə/",
+        "example": "A glass of water, please.",
+        "translation": "Cho mình một cốc nước nhé."
+      },
+      {
+        "en": "Coffee",
+        "vi": "Cà phê",
+        "ipa": "/ˈkɒfi/",
+        "example": "I would like a coffee.",
+        "translation": "Mình muốn một ly cà phê."
+      },
+      {
+        "en": "Sandwich",
+        "vi": "Bánh mì kẹp",
+        "ipa": "/ˈsænwɪtʃ/",
+        "example": "This sandwich is delicious.",
+        "translation": "Bánh mì kẹp này rất ngon."
+      },
+      {
+        "en": "Menu",
+        "vi": "Thực đơn",
+        "ipa": "/ˈmenjuː/",
+        "example": "Can I see the menu?",
+        "translation": "Cho mình xem thực đơn được không?"
+      },
+      {
+        "en": "How much is it?",
+        "vi": "Cái này giá bao nhiêu?",
+        "ipa": "/haʊ mʌtʃ ɪz ɪt/",
+        "example": "This cake looks good. How much is it?",
+        "translation": "Bánh này trông ngon quá. Giá bao nhiêu vậy?"
+      },
+      {
+        "en": "Tea",
+        "vi": "Trà",
+        "ipa": "/tiː/",
+        "example": "Would you like some tea?",
+        "translation": "Bạn có muốn uống chút trà không?"
+      },
+      {
+        "en": "Milk",
+        "vi": "Sữa",
+        "ipa": "/mɪlk/",
+        "example": "I drink milk every morning.",
+        "translation": "Mình uống sữa mỗi sáng."
+      },
+      {
+        "en": "Rice",
+        "vi": "Cơm / gạo",
+        "ipa": "/raɪs/",
+        "example": "I have rice for lunch.",
+        "translation": "Mình ăn cơm vào bữa trưa."
+      },
+      {
+        "en": "Apple",
+        "vi": "Quả táo",
+        "ipa": "/ˈæpəl/",
+        "example": "I would like an apple.",
+        "translation": "Mình muốn một quả táo."
+      },
+      {
+        "en": "Delicious",
+        "vi": "Ngon",
+        "ipa": "/dɪˈlɪʃəs/",
+        "example": "The food is delicious.",
+        "translation": "Đồ ăn rất ngon."
+      }
+    ],
+    "dialogue": [
+      [
+        "Mia",
+        "Can I see the menu, please?",
+        "Cho mình xem thực đơn nhé?"
+      ],
+      [
+        "Linh",
+        "Of course. What would you like?",
+        "Tất nhiên. Bạn muốn dùng gì?"
+      ],
+      [
+        "Mia",
+        "I would like a sandwich and water.",
+        "Mình muốn một bánh mì kẹp và nước."
+      ],
+      [
+        "Linh",
+        "That is five dollars.",
+        "Của bạn hết năm đô la."
+      ]
+    ],
+    "grammar": {
+      "title": "Would like — Gọi món lịch sự",
+      "rule": "I would like + món ăn / đồ uống. Viết tắt: I’d like.",
+      "example": "I would like a sandwich, please.",
+      "note": "“I like coffee” nói sở thích. “I would like a coffee” nói điều bạn muốn gọi lúc này."
+    },
+    "questions": [
+      {
+        "prompt": "Cách gọi món nào lịch sự?",
+        "options": [
+          "I would like a coffee, please.",
+          "Coffee me.",
+          "I am coffee.",
+          "I has coffee."
+        ],
+        "correct": 0,
+        "explanation": "“I would like …, please” là mẫu câu gọi món lịch sự."
+      },
+      {
+        "prompt": "“Menu” nghĩa là gì?",
+        "options": [
+          "Hóa đơn",
+          "Thực đơn",
+          "Ly nước",
+          "Nhà bếp"
+        ],
+        "correct": 1,
+        "explanation": "Menu là thực đơn."
+      },
+      {
+        "prompt": "Mia cần trả bao nhiêu?",
+        "options": [
+          "Two dollars",
+          "Ten dollars",
+          "Five dollars",
+          "Four dollars"
+        ],
+        "correct": 2,
+        "explanation": "Linh nói: “That is five dollars.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Water” có nghĩa là gì?",
+        "options": [
+          "Nước",
+          "Cà phê",
+          "Bánh mì kẹp",
+          "Thực đơn"
+        ],
+        "correct": 0,
+        "explanation": "Water: Nước. Ví dụ: A glass of water, please. (Cho mình một cốc nước nhé.)"
+      },
+      {
+        "prompt": "“Coffee” có nghĩa là gì?",
+        "options": [
+          "Bánh mì kẹp",
+          "Thực đơn",
+          "Cái này giá bao nhiêu?",
+          "Cà phê"
+        ],
+        "correct": 3,
+        "explanation": "Coffee: Cà phê. Ví dụ: I would like a coffee. (Mình muốn một ly cà phê.)"
+      },
+      {
+        "prompt": "“Sandwich” có nghĩa là gì?",
+        "options": [
+          "Cái này giá bao nhiêu?",
+          "Trà",
+          "Bánh mì kẹp",
+          "Thực đơn"
+        ],
+        "correct": 2,
+        "explanation": "Sandwich: Bánh mì kẹp. Ví dụ: This sandwich is delicious. (Bánh mì kẹp này rất ngon.)"
+      },
+      {
+        "prompt": "“Menu” có nghĩa là gì?",
+        "options": [
+          "Sữa",
+          "Thực đơn",
+          "Cái này giá bao nhiêu?",
+          "Trà"
+        ],
+        "correct": 1,
+        "explanation": "Menu: Thực đơn. Ví dụ: Can I see the menu? (Cho mình xem thực đơn được không?)"
+      },
+      {
+        "prompt": "“How much is it?” có nghĩa là gì?",
+        "options": [
+          "Cái này giá bao nhiêu?",
+          "Trà",
+          "Sữa",
+          "Cơm / gạo"
+        ],
+        "correct": 0,
+        "explanation": "How much is it?: Cái này giá bao nhiêu?. Ví dụ: This cake looks good. How much is it? (Bánh này trông ngon quá. Giá bao nhiêu vậy?)"
+      },
+      {
+        "prompt": "“Tea” có nghĩa là gì?",
+        "options": [
+          "Sữa",
+          "Cơm / gạo",
+          "Quả táo",
+          "Trà"
+        ],
+        "correct": 3,
+        "explanation": "Tea: Trà. Ví dụ: Would you like some tea? (Bạn có muốn uống chút trà không?)"
+      },
+      {
+        "prompt": "“Milk” có nghĩa là gì?",
+        "options": [
+          "Quả táo",
+          "Ngon",
+          "Sữa",
+          "Cơm / gạo"
+        ],
+        "correct": 2,
+        "explanation": "Milk: Sữa. Ví dụ: I drink milk every morning. (Mình uống sữa mỗi sáng.)"
+      },
+      {
+        "prompt": "“Rice” có nghĩa là gì?",
+        "options": [
+          "Nước",
+          "Cơm / gạo",
+          "Quả táo",
+          "Ngon"
+        ],
+        "correct": 1,
+        "explanation": "Rice: Cơm / gạo. Ví dụ: I have rice for lunch. (Mình ăn cơm vào bữa trưa.)"
+      },
+      {
+        "prompt": "“Apple” có nghĩa là gì?",
+        "options": [
+          "Quả táo",
+          "Ngon",
+          "Nước",
+          "Cà phê"
+        ],
+        "correct": 0,
+        "explanation": "Apple: Quả táo. Ví dụ: I would like an apple. (Mình muốn một quả táo.)"
+      },
+      {
+        "prompt": "“Delicious” có nghĩa là gì?",
+        "options": [
+          "Nước",
+          "Cà phê",
+          "Bánh mì kẹp",
+          "Ngon"
+        ],
+        "correct": 3,
+        "explanation": "Delicious: Ngon. Ví dụ: The food is delicious. (Đồ ăn rất ngon.)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Nước”",
+        "options": [
+          "Sandwich",
+          "Menu",
+          "Water",
+          "How much is it?"
+        ],
+        "correct": 2,
+        "explanation": "“Nước” là “Water”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cà phê”",
+        "options": [
+          "Menu",
+          "How much is it?",
+          "Coffee",
+          "Tea"
+        ],
+        "correct": 2,
+        "explanation": "“Cà phê” là “Coffee”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bánh mì kẹp”",
+        "options": [
+          "How much is it?",
+          "Tea",
+          "Sandwich",
+          "Milk"
+        ],
+        "correct": 2,
+        "explanation": "“Bánh mì kẹp” là “Sandwich”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thực đơn”",
+        "options": [
+          "Tea",
+          "Milk",
+          "Menu",
+          "Rice"
+        ],
+        "correct": 2,
+        "explanation": "“Thực đơn” là “Menu”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cái này giá bao nhiêu?”",
+        "options": [
+          "Milk",
+          "Rice",
+          "How much is it?",
+          "Apple"
+        ],
+        "correct": 2,
+        "explanation": "“Cái này giá bao nhiêu?” là “How much is it?”."
+      },
+      {
+        "prompt": "Điền từ: I would ___ a coffee, please.",
+        "options": [
+          "like"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "Would like là mẫu câu bày tỏ mong muốn lịch sự."
+      },
+      {
+        "prompt": "Sắp xếp: tea / like / would / I",
+        "options": [
+          "I would like tea."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + would like + đồ uống."
+      },
+      {
+        "prompt": "Sửa câu: I would likes a sandwich.",
+        "options": [
+          "I would like a sandwich."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau would, dùng động từ nguyên mẫu like."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi muốn một quả táo.",
+        "options": [
+          "I would like an apple."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Dùng an trước apple vì bắt đầu bằng âm nguyên âm."
+      },
+      {
+        "prompt": "Câu nào nói về sở thích?",
+        "options": [
+          "I would like a tea.",
+          "I like tea.",
+          "Tea, please.",
+          "I would like water."
+        ],
+        "correct": 1,
+        "explanation": "I like tea nói sở thích uống trà nói chung."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: I would ___ a coffee, please.",
+        "options": [
+          "like"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "Would like là mẫu câu bày tỏ mong muốn lịch sự."
+      },
+      {
+        "prompt": "Sắp xếp: tea / like / would / I",
+        "options": [
+          "I would like tea."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + would like + đồ uống."
+      },
+      {
+        "prompt": "Sửa câu: I would likes a sandwich.",
+        "options": [
+          "I would like a sandwich."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau would, dùng động từ nguyên mẫu like."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi muốn một quả táo.",
+        "options": [
+          "I would like an apple."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Dùng an trước apple vì bắt đầu bằng âm nguyên âm."
+      },
+      {
+        "prompt": "Câu nào nói về sở thích?",
+        "options": [
+          "I would like a tea.",
+          "I like tea.",
+          "Tea, please.",
+          "I would like water."
+        ],
+        "correct": 1,
+        "explanation": "I like tea nói sở thích uống trà nói chung."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Water” có nghĩa là gì?",
+        "options": [
+          "Nước",
+          "Cà phê",
+          "Bánh mì kẹp",
+          "Thực đơn"
+        ],
+        "correct": 0,
+        "explanation": "Water: Nước. Ví dụ: A glass of water, please. (Cho mình một cốc nước nhé.)"
+      },
+      {
+        "prompt": "“Coffee” có nghĩa là gì?",
+        "options": [
+          "Bánh mì kẹp",
+          "Thực đơn",
+          "Cái này giá bao nhiêu?",
+          "Cà phê"
+        ],
+        "correct": 3,
+        "explanation": "Coffee: Cà phê. Ví dụ: I would like a coffee. (Mình muốn một ly cà phê.)"
+      },
+      {
+        "prompt": "“Sandwich” có nghĩa là gì?",
+        "options": [
+          "Cái này giá bao nhiêu?",
+          "Trà",
+          "Bánh mì kẹp",
+          "Thực đơn"
+        ],
+        "correct": 2,
+        "explanation": "Sandwich: Bánh mì kẹp. Ví dụ: This sandwich is delicious. (Bánh mì kẹp này rất ngon.)"
+      },
+      {
+        "prompt": "“Menu” có nghĩa là gì?",
+        "options": [
+          "Sữa",
+          "Thực đơn",
+          "Cái này giá bao nhiêu?",
+          "Trà"
+        ],
+        "correct": 1,
+        "explanation": "Menu: Thực đơn. Ví dụ: Can I see the menu? (Cho mình xem thực đơn được không?)"
+      },
+      {
+        "prompt": "“How much is it?” có nghĩa là gì?",
+        "options": [
+          "Cái này giá bao nhiêu?",
+          "Trà",
+          "Sữa",
+          "Cơm / gạo"
+        ],
+        "correct": 0,
+        "explanation": "How much is it?: Cái này giá bao nhiêu?. Ví dụ: This cake looks good. How much is it? (Bánh này trông ngon quá. Giá bao nhiêu vậy?)"
+      },
+      {
+        "prompt": "Điền từ: I would ___ a coffee, please.",
+        "options": [
+          "like"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "Would like là mẫu câu bày tỏ mong muốn lịch sự."
+      },
+      {
+        "prompt": "Sắp xếp: tea / like / would / I",
+        "options": [
+          "I would like tea."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + would like + đồ uống."
+      },
+      {
+        "prompt": "Sửa câu: I would likes a sandwich.",
+        "options": [
+          "I would like a sandwich."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Sau would, dùng động từ nguyên mẫu like."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi muốn một quả táo.",
+        "options": [
+          "I would like an apple."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Dùng an trước apple vì bắt đầu bằng âm nguyên âm."
+      },
+      {
+        "prompt": "Câu nào nói về sở thích?",
+        "options": [
+          "I would like a tea.",
+          "I like tea.",
+          "Tea, please.",
+          "I would like water."
+        ],
+        "correct": 1,
+        "explanation": "I like tea nói sở thích uống trà nói chung."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Nước”",
+        "options": [
+          "Sandwich",
+          "Menu",
+          "Water",
+          "How much is it?"
+        ],
+        "correct": 2,
+        "explanation": "“Nước” là “Water”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cà phê”",
+        "options": [
+          "Menu",
+          "How much is it?",
+          "Coffee",
+          "Tea"
+        ],
+        "correct": 2,
+        "explanation": "“Cà phê” là “Coffee”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bánh mì kẹp”",
+        "options": [
+          "How much is it?",
+          "Tea",
+          "Sandwich",
+          "Milk"
+        ],
+        "correct": 2,
+        "explanation": "“Bánh mì kẹp” là “Sandwich”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thực đơn”",
+        "options": [
+          "Tea",
+          "Milk",
+          "Menu",
+          "Rice"
+        ],
+        "correct": 2,
+        "explanation": "“Thực đơn” là “Menu”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Cái này giá bao nhiêu?”",
+        "options": [
+          "Milk",
+          "Rice",
+          "How much is it?",
+          "Apple"
+        ],
+        "correct": 2,
+        "explanation": "“Cái này giá bao nhiêu?” là “How much is it?”."
+      }
+    ]
+  },
+  {
+    "id": "hobby",
+    "title": "Bạn thích làm gì?",
+    "subtitle": "Sở thích & cuối tuần",
+    "emoji": "🎨",
+    "words": [
+      {
+        "en": "Read books",
+        "vi": "Đọc sách",
+        "ipa": "/riːd bʊks/",
+        "example": "I like to read books.",
+        "translation": "Mình thích đọc sách."
+      },
+      {
+        "en": "Draw",
+        "vi": "Vẽ",
+        "ipa": "/drɔː/",
+        "example": "I draw in my free time.",
+        "translation": "Mình vẽ vào lúc rảnh."
+      },
+      {
+        "en": "Play football",
+        "vi": "Chơi bóng đá",
+        "ipa": "/pleɪ ˈfʊtbɔːl/",
+        "example": "We play football on Sundays.",
+        "translation": "Chúng mình chơi bóng đá vào Chủ nhật."
+      },
+      {
+        "en": "Listen to music",
+        "vi": "Nghe nhạc",
+        "ipa": "/ˈlɪsən tə ˈmjuːzɪk/",
+        "example": "I listen to music every day.",
+        "translation": "Mình nghe nhạc mỗi ngày."
+      },
+      {
+        "en": "What do you like to do?",
+        "vi": "Bạn thích làm gì?",
+        "ipa": "/wɒt də juː laɪk tə duː/",
+        "example": "What do you like to do on weekends?",
+        "translation": "Bạn thích làm gì vào cuối tuần?"
+      },
+      {
+        "en": "Swim",
+        "vi": "Bơi",
+        "ipa": "/swɪm/",
+        "example": "I like to swim.",
+        "translation": "Mình thích bơi."
+      },
+      {
+        "en": "Dance",
+        "vi": "Nhảy / khiêu vũ",
+        "ipa": "/dɑːns/",
+        "example": "My sister likes to dance.",
+        "translation": "Chị/em gái mình thích nhảy."
+      },
+      {
+        "en": "Sing",
+        "vi": "Hát",
+        "ipa": "/sɪŋ/",
+        "example": "We sing together.",
+        "translation": "Chúng mình cùng hát."
+      },
+      {
+        "en": "Take photos",
+        "vi": "Chụp ảnh",
+        "ipa": "/teɪk ˈfəʊtəʊz/",
+        "example": "I take photos in the park.",
+        "translation": "Mình chụp ảnh ở công viên."
+      },
+      {
+        "en": "Free time",
+        "vi": "Thời gian rảnh",
+        "ipa": "/friː taɪm/",
+        "example": "What do you do in your free time?",
+        "translation": "Bạn làm gì vào thời gian rảnh?"
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "What do you like to do?",
+        "Bạn thích làm gì?"
+      ],
+      [
+        "Mia",
+        "I like to draw and read books.",
+        "Mình thích vẽ và đọc sách."
+      ],
+      [
+        "Linh",
+        "Do you like football?",
+        "Bạn có thích bóng đá không?"
+      ],
+      [
+        "Mia",
+        "No, I do not. I like music.",
+        "Không. Mình thích âm nhạc."
+      ]
+    ],
+    "grammar": {
+      "title": "Like + to + động từ",
+      "rule": "I like to + động từ nguyên mẫu. Hỏi: What do you like to do?",
+      "example": "I like to draw. She likes to read books.",
+      "note": "Với he/she/it, thêm “s” vào “like”: She likes to draw."
+    },
+    "questions": [
+      {
+        "prompt": "She ___ to read books.",
+        "options": [
+          "like",
+          "likes",
+          "liking",
+          "is like"
+        ],
+        "correct": 1,
+        "explanation": "Chủ ngữ “She” cần “likes” ở hiện tại đơn."
+      },
+      {
+        "prompt": "“Listen to music” là gì?",
+        "options": [
+          "Vẽ tranh",
+          "Đọc sách",
+          "Nghe nhạc",
+          "Chơi bóng đá"
+        ],
+        "correct": 2,
+        "explanation": "Listen to music nghĩa là nghe nhạc."
+      },
+      {
+        "prompt": "Mia có thích bóng đá không?",
+        "options": [
+          "Yes, she does.",
+          "No, she does not.",
+          "Every Sunday.",
+          "She plays football."
+        ],
+        "correct": 1,
+        "explanation": "Mia trả lời: “No, I do not.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Read books” có nghĩa là gì?",
+        "options": [
+          "Đọc sách",
+          "Vẽ",
+          "Chơi bóng đá",
+          "Nghe nhạc"
+        ],
+        "correct": 0,
+        "explanation": "Read books: Đọc sách. Ví dụ: I like to read books. (Mình thích đọc sách.)"
+      },
+      {
+        "prompt": "“Draw” có nghĩa là gì?",
+        "options": [
+          "Chơi bóng đá",
+          "Nghe nhạc",
+          "Bạn thích làm gì?",
+          "Vẽ"
+        ],
+        "correct": 3,
+        "explanation": "Draw: Vẽ. Ví dụ: I draw in my free time. (Mình vẽ vào lúc rảnh.)"
+      },
+      {
+        "prompt": "“Play football” có nghĩa là gì?",
+        "options": [
+          "Bạn thích làm gì?",
+          "Bơi",
+          "Chơi bóng đá",
+          "Nghe nhạc"
+        ],
+        "correct": 2,
+        "explanation": "Play football: Chơi bóng đá. Ví dụ: We play football on Sundays. (Chúng mình chơi bóng đá vào Chủ nhật.)"
+      },
+      {
+        "prompt": "“Listen to music” có nghĩa là gì?",
+        "options": [
+          "Nhảy / khiêu vũ",
+          "Nghe nhạc",
+          "Bạn thích làm gì?",
+          "Bơi"
+        ],
+        "correct": 1,
+        "explanation": "Listen to music: Nghe nhạc. Ví dụ: I listen to music every day. (Mình nghe nhạc mỗi ngày.)"
+      },
+      {
+        "prompt": "“What do you like to do?” có nghĩa là gì?",
+        "options": [
+          "Bạn thích làm gì?",
+          "Bơi",
+          "Nhảy / khiêu vũ",
+          "Hát"
+        ],
+        "correct": 0,
+        "explanation": "What do you like to do?: Bạn thích làm gì?. Ví dụ: What do you like to do on weekends? (Bạn thích làm gì vào cuối tuần?)"
+      },
+      {
+        "prompt": "“Swim” có nghĩa là gì?",
+        "options": [
+          "Nhảy / khiêu vũ",
+          "Hát",
+          "Chụp ảnh",
+          "Bơi"
+        ],
+        "correct": 3,
+        "explanation": "Swim: Bơi. Ví dụ: I like to swim. (Mình thích bơi.)"
+      },
+      {
+        "prompt": "“Dance” có nghĩa là gì?",
+        "options": [
+          "Chụp ảnh",
+          "Thời gian rảnh",
+          "Nhảy / khiêu vũ",
+          "Hát"
+        ],
+        "correct": 2,
+        "explanation": "Dance: Nhảy / khiêu vũ. Ví dụ: My sister likes to dance. (Chị/em gái mình thích nhảy.)"
+      },
+      {
+        "prompt": "“Sing” có nghĩa là gì?",
+        "options": [
+          "Đọc sách",
+          "Hát",
+          "Chụp ảnh",
+          "Thời gian rảnh"
+        ],
+        "correct": 1,
+        "explanation": "Sing: Hát. Ví dụ: We sing together. (Chúng mình cùng hát.)"
+      },
+      {
+        "prompt": "“Take photos” có nghĩa là gì?",
+        "options": [
+          "Chụp ảnh",
+          "Thời gian rảnh",
+          "Đọc sách",
+          "Vẽ"
+        ],
+        "correct": 0,
+        "explanation": "Take photos: Chụp ảnh. Ví dụ: I take photos in the park. (Mình chụp ảnh ở công viên.)"
+      },
+      {
+        "prompt": "“Free time” có nghĩa là gì?",
+        "options": [
+          "Đọc sách",
+          "Vẽ",
+          "Chơi bóng đá",
+          "Thời gian rảnh"
+        ],
+        "correct": 3,
+        "explanation": "Free time: Thời gian rảnh. Ví dụ: What do you do in your free time? (Bạn làm gì vào thời gian rảnh?)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đọc sách”",
+        "options": [
+          "Play football",
+          "Listen to music",
+          "Read books",
+          "What do you like to do?"
+        ],
+        "correct": 2,
+        "explanation": "“Đọc sách” là “Read books”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Vẽ”",
+        "options": [
+          "Listen to music",
+          "What do you like to do?",
+          "Draw",
+          "Swim"
+        ],
+        "correct": 2,
+        "explanation": "“Vẽ” là “Draw”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Chơi bóng đá”",
+        "options": [
+          "What do you like to do?",
+          "Swim",
+          "Play football",
+          "Dance"
+        ],
+        "correct": 2,
+        "explanation": "“Chơi bóng đá” là “Play football”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Nghe nhạc”",
+        "options": [
+          "Swim",
+          "Dance",
+          "Listen to music",
+          "Sing"
+        ],
+        "correct": 2,
+        "explanation": "“Nghe nhạc” là “Listen to music”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bạn thích làm gì?”",
+        "options": [
+          "Dance",
+          "Sing",
+          "What do you like to do?",
+          "Take photos"
+        ],
+        "correct": 2,
+        "explanation": "“Bạn thích làm gì?” là “What do you like to do?”."
+      },
+      {
+        "prompt": "Điền từ: She ___ to swim.",
+        "options": [
+          "likes"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với likes."
+      },
+      {
+        "prompt": "Sắp xếp: draw / to / like / I",
+        "options": [
+          "I like to draw."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + like + to + động từ nguyên mẫu."
+      },
+      {
+        "prompt": "Sửa câu: He like to sing.",
+        "options": [
+          "He likes to sing."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Thêm s vào like khi chủ ngữ là he."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi thích đọc sách.",
+        "options": [
+          "I like to read books."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I like to + read books."
+      },
+      {
+        "prompt": "What ___ you like to do?",
+        "options": [
+          "does",
+          "are",
+          "do",
+          "is"
+        ],
+        "correct": 2,
+        "explanation": "Dùng trợ động từ do với chủ ngữ you."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: She ___ to swim.",
+        "options": [
+          "likes"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với likes."
+      },
+      {
+        "prompt": "Sắp xếp: draw / to / like / I",
+        "options": [
+          "I like to draw."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + like + to + động từ nguyên mẫu."
+      },
+      {
+        "prompt": "Sửa câu: He like to sing.",
+        "options": [
+          "He likes to sing."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Thêm s vào like khi chủ ngữ là he."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi thích đọc sách.",
+        "options": [
+          "I like to read books."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I like to + read books."
+      },
+      {
+        "prompt": "What ___ you like to do?",
+        "options": [
+          "does",
+          "are",
+          "do",
+          "is"
+        ],
+        "correct": 2,
+        "explanation": "Dùng trợ động từ do với chủ ngữ you."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Read books” có nghĩa là gì?",
+        "options": [
+          "Đọc sách",
+          "Vẽ",
+          "Chơi bóng đá",
+          "Nghe nhạc"
+        ],
+        "correct": 0,
+        "explanation": "Read books: Đọc sách. Ví dụ: I like to read books. (Mình thích đọc sách.)"
+      },
+      {
+        "prompt": "“Draw” có nghĩa là gì?",
+        "options": [
+          "Chơi bóng đá",
+          "Nghe nhạc",
+          "Bạn thích làm gì?",
+          "Vẽ"
+        ],
+        "correct": 3,
+        "explanation": "Draw: Vẽ. Ví dụ: I draw in my free time. (Mình vẽ vào lúc rảnh.)"
+      },
+      {
+        "prompt": "“Play football” có nghĩa là gì?",
+        "options": [
+          "Bạn thích làm gì?",
+          "Bơi",
+          "Chơi bóng đá",
+          "Nghe nhạc"
+        ],
+        "correct": 2,
+        "explanation": "Play football: Chơi bóng đá. Ví dụ: We play football on Sundays. (Chúng mình chơi bóng đá vào Chủ nhật.)"
+      },
+      {
+        "prompt": "“Listen to music” có nghĩa là gì?",
+        "options": [
+          "Nhảy / khiêu vũ",
+          "Nghe nhạc",
+          "Bạn thích làm gì?",
+          "Bơi"
+        ],
+        "correct": 1,
+        "explanation": "Listen to music: Nghe nhạc. Ví dụ: I listen to music every day. (Mình nghe nhạc mỗi ngày.)"
+      },
+      {
+        "prompt": "“What do you like to do?” có nghĩa là gì?",
+        "options": [
+          "Bạn thích làm gì?",
+          "Bơi",
+          "Nhảy / khiêu vũ",
+          "Hát"
+        ],
+        "correct": 0,
+        "explanation": "What do you like to do?: Bạn thích làm gì?. Ví dụ: What do you like to do on weekends? (Bạn thích làm gì vào cuối tuần?)"
+      },
+      {
+        "prompt": "Điền từ: She ___ to swim.",
+        "options": [
+          "likes"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "She đi với likes."
+      },
+      {
+        "prompt": "Sắp xếp: draw / to / like / I",
+        "options": [
+          "I like to draw."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + like + to + động từ nguyên mẫu."
+      },
+      {
+        "prompt": "Sửa câu: He like to sing.",
+        "options": [
+          "He likes to sing."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "Thêm s vào like khi chủ ngữ là he."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi thích đọc sách.",
+        "options": [
+          "I like to read books."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "I like to + read books."
+      },
+      {
+        "prompt": "What ___ you like to do?",
+        "options": [
+          "does",
+          "are",
+          "do",
+          "is"
+        ],
+        "correct": 2,
+        "explanation": "Dùng trợ động từ do với chủ ngữ you."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đọc sách”",
+        "options": [
+          "Play football",
+          "Listen to music",
+          "Read books",
+          "What do you like to do?"
+        ],
+        "correct": 2,
+        "explanation": "“Đọc sách” là “Read books”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Vẽ”",
+        "options": [
+          "Listen to music",
+          "What do you like to do?",
+          "Draw",
+          "Swim"
+        ],
+        "correct": 2,
+        "explanation": "“Vẽ” là “Draw”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Chơi bóng đá”",
+        "options": [
+          "What do you like to do?",
+          "Swim",
+          "Play football",
+          "Dance"
+        ],
+        "correct": 2,
+        "explanation": "“Chơi bóng đá” là “Play football”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Nghe nhạc”",
+        "options": [
+          "Swim",
+          "Dance",
+          "Listen to music",
+          "Sing"
+        ],
+        "correct": 2,
+        "explanation": "“Nghe nhạc” là “Listen to music”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Bạn thích làm gì?”",
+        "options": [
+          "Dance",
+          "Sing",
+          "What do you like to do?",
+          "Take photos"
+        ],
+        "correct": 2,
+        "explanation": "“Bạn thích làm gì?” là “What do you like to do?”."
+      }
+    ]
+  },
+  {
+    "id": "day",
+    "title": "Ngày mới đầy năng lượng",
+    "subtitle": "Thói quen hằng ngày",
+    "emoji": "☀️",
+    "words": [
+      {
+        "en": "Wake up",
+        "vi": "Thức dậy",
+        "ipa": "/weɪk ʌp/",
+        "example": "I wake up at six.",
+        "translation": "Mình thức dậy lúc sáu giờ."
+      },
+      {
+        "en": "Have breakfast",
+        "vi": "Ăn sáng",
+        "ipa": "/hæv ˈbrekfəst/",
+        "example": "I have breakfast at seven.",
+        "translation": "Mình ăn sáng lúc bảy giờ."
+      },
+      {
+        "en": "Go to school",
+        "vi": "Đi học",
+        "ipa": "/ɡəʊ tə skuːl/",
+        "example": "I go to school by bus.",
+        "translation": "Mình đi học bằng xe buýt."
+      },
+      {
+        "en": "Go to bed",
+        "vi": "Đi ngủ",
+        "ipa": "/ɡəʊ tə bed/",
+        "example": "I go to bed at ten.",
+        "translation": "Mình đi ngủ lúc mười giờ."
+      },
+      {
+        "en": "Every day",
+        "vi": "Mỗi ngày",
+        "ipa": "/ˈevri deɪ/",
+        "example": "I study English every day.",
+        "translation": "Mình học tiếng Anh mỗi ngày."
+      },
+      {
+        "en": "Brush my teeth",
+        "vi": "Đánh răng",
+        "ipa": "/brʌʃ maɪ tiːθ/",
+        "example": "I brush my teeth every morning.",
+        "translation": "Mình đánh răng mỗi sáng."
+      },
+      {
+        "en": "Have lunch",
+        "vi": "Ăn trưa",
+        "ipa": "/hæv lʌntʃ/",
+        "example": "I have lunch at twelve.",
+        "translation": "Mình ăn trưa lúc mười hai giờ."
+      },
+      {
+        "en": "Have dinner",
+        "vi": "Ăn tối",
+        "ipa": "/hæv ˈdɪnə/",
+        "example": "We have dinner together.",
+        "translation": "Chúng mình ăn tối cùng nhau."
+      },
+      {
+        "en": "Take a shower",
+        "vi": "Tắm vòi sen",
+        "ipa": "/teɪk ə ˈʃaʊə/",
+        "example": "I take a shower after school.",
+        "translation": "Mình tắm sau giờ học."
+      },
+      {
+        "en": "In the evening",
+        "vi": "Vào buổi tối",
+        "ipa": "/ɪn ði ˈiːvnɪŋ/",
+        "example": "I read in the evening.",
+        "translation": "Mình đọc sách vào buổi tối."
+      }
+    ],
+    "dialogue": [
+      [
+        "Linh",
+        "What time do you wake up?",
+        "Bạn thức dậy lúc mấy giờ?"
+      ],
+      [
+        "Mia",
+        "I wake up at six.",
+        "Mình thức dậy lúc sáu giờ."
+      ],
+      [
+        "Linh",
+        "How do you go to school?",
+        "Bạn đi học bằng gì?"
+      ],
+      [
+        "Mia",
+        "I go to school by bus every day.",
+        "Mình đi học bằng xe buýt mỗi ngày."
+      ]
+    ],
+    "grammar": {
+      "title": "At + giờ — Nói về thời gian",
+      "rule": "Dùng “at” trước giờ cụ thể. Dùng “every day” để nói thói quen.",
+      "example": "I wake up at six. I study English every day.",
+      "note": "Không dùng “in six” khi nói lúc sáu giờ. Với ngày trong tuần, dùng “on”: on Monday."
+    },
+    "questions": [
+      {
+        "prompt": "I wake up ___ six.",
+        "options": [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        "correct": 2,
+        "explanation": "Dùng “at” trước một giờ cụ thể."
+      },
+      {
+        "prompt": "“Have breakfast” nghĩa là gì?",
+        "options": [
+          "Đi ngủ",
+          "Ăn sáng",
+          "Đi học",
+          "Thức dậy"
+        ],
+        "correct": 1,
+        "explanation": "Breakfast là bữa sáng."
+      },
+      {
+        "prompt": "Mia đi học bằng gì?",
+        "options": [
+          "By bike",
+          "On foot",
+          "By car",
+          "By bus"
+        ],
+        "correct": 3,
+        "explanation": "Mia nói: “I go to school by bus every day.”"
+      }
+    ],
+    "practice": [
+      {
+        "prompt": "“Wake up” có nghĩa là gì?",
+        "options": [
+          "Thức dậy",
+          "Ăn sáng",
+          "Đi học",
+          "Đi ngủ"
+        ],
+        "correct": 0,
+        "explanation": "Wake up: Thức dậy. Ví dụ: I wake up at six. (Mình thức dậy lúc sáu giờ.)"
+      },
+      {
+        "prompt": "“Have breakfast” có nghĩa là gì?",
+        "options": [
+          "Đi học",
+          "Đi ngủ",
+          "Mỗi ngày",
+          "Ăn sáng"
+        ],
+        "correct": 3,
+        "explanation": "Have breakfast: Ăn sáng. Ví dụ: I have breakfast at seven. (Mình ăn sáng lúc bảy giờ.)"
+      },
+      {
+        "prompt": "“Go to school” có nghĩa là gì?",
+        "options": [
+          "Mỗi ngày",
+          "Đánh răng",
+          "Đi học",
+          "Đi ngủ"
+        ],
+        "correct": 2,
+        "explanation": "Go to school: Đi học. Ví dụ: I go to school by bus. (Mình đi học bằng xe buýt.)"
+      },
+      {
+        "prompt": "“Go to bed” có nghĩa là gì?",
+        "options": [
+          "Ăn trưa",
+          "Đi ngủ",
+          "Mỗi ngày",
+          "Đánh răng"
+        ],
+        "correct": 1,
+        "explanation": "Go to bed: Đi ngủ. Ví dụ: I go to bed at ten. (Mình đi ngủ lúc mười giờ.)"
+      },
+      {
+        "prompt": "“Every day” có nghĩa là gì?",
+        "options": [
+          "Mỗi ngày",
+          "Đánh răng",
+          "Ăn trưa",
+          "Ăn tối"
+        ],
+        "correct": 0,
+        "explanation": "Every day: Mỗi ngày. Ví dụ: I study English every day. (Mình học tiếng Anh mỗi ngày.)"
+      },
+      {
+        "prompt": "“Brush my teeth” có nghĩa là gì?",
+        "options": [
+          "Ăn trưa",
+          "Ăn tối",
+          "Tắm vòi sen",
+          "Đánh răng"
+        ],
+        "correct": 3,
+        "explanation": "Brush my teeth: Đánh răng. Ví dụ: I brush my teeth every morning. (Mình đánh răng mỗi sáng.)"
+      },
+      {
+        "prompt": "“Have lunch” có nghĩa là gì?",
+        "options": [
+          "Tắm vòi sen",
+          "Vào buổi tối",
+          "Ăn trưa",
+          "Ăn tối"
+        ],
+        "correct": 2,
+        "explanation": "Have lunch: Ăn trưa. Ví dụ: I have lunch at twelve. (Mình ăn trưa lúc mười hai giờ.)"
+      },
+      {
+        "prompt": "“Have dinner” có nghĩa là gì?",
+        "options": [
+          "Thức dậy",
+          "Ăn tối",
+          "Tắm vòi sen",
+          "Vào buổi tối"
+        ],
+        "correct": 1,
+        "explanation": "Have dinner: Ăn tối. Ví dụ: We have dinner together. (Chúng mình ăn tối cùng nhau.)"
+      },
+      {
+        "prompt": "“Take a shower” có nghĩa là gì?",
+        "options": [
+          "Tắm vòi sen",
+          "Vào buổi tối",
+          "Thức dậy",
+          "Ăn sáng"
+        ],
+        "correct": 0,
+        "explanation": "Take a shower: Tắm vòi sen. Ví dụ: I take a shower after school. (Mình tắm sau giờ học.)"
+      },
+      {
+        "prompt": "“In the evening” có nghĩa là gì?",
+        "options": [
+          "Thức dậy",
+          "Ăn sáng",
+          "Đi học",
+          "Vào buổi tối"
+        ],
+        "correct": 3,
+        "explanation": "In the evening: Vào buổi tối. Ví dụ: I read in the evening. (Mình đọc sách vào buổi tối.)"
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thức dậy”",
+        "options": [
+          "Go to school",
+          "Go to bed",
+          "Wake up",
+          "Every day"
+        ],
+        "correct": 2,
+        "explanation": "“Thức dậy” là “Wake up”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Ăn sáng”",
+        "options": [
+          "Go to bed",
+          "Every day",
+          "Have breakfast",
+          "Brush my teeth"
+        ],
+        "correct": 2,
+        "explanation": "“Ăn sáng” là “Have breakfast”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đi học”",
+        "options": [
+          "Every day",
+          "Brush my teeth",
+          "Go to school",
+          "Have lunch"
+        ],
+        "correct": 2,
+        "explanation": "“Đi học” là “Go to school”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đi ngủ”",
+        "options": [
+          "Brush my teeth",
+          "Have lunch",
+          "Go to bed",
+          "Have dinner"
+        ],
+        "correct": 2,
+        "explanation": "“Đi ngủ” là “Go to bed”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Mỗi ngày”",
+        "options": [
+          "Have lunch",
+          "Have dinner",
+          "Every day",
+          "Take a shower"
+        ],
+        "correct": 2,
+        "explanation": "“Mỗi ngày” là “Every day”."
+      },
+      {
+        "prompt": "Điền từ: I have lunch ___ twelve.",
+        "options": [
+          "at"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "At đứng trước giờ cụ thể."
+      },
+      {
+        "prompt": "Sắp xếp: six / at / up / wake / I",
+        "options": [
+          "I wake up at six."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + wake up + at six."
+      },
+      {
+        "prompt": "Sửa câu: I go to bed in ten.",
+        "options": [
+          "I go to bed at ten."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "At ten là lúc mười giờ; không dùng in ten."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi học tiếng Anh mỗi ngày.",
+        "options": [
+          "I study English every day."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Every day có nghĩa là mỗi ngày."
+      },
+      {
+        "prompt": "We go to school ___ Monday.",
+        "options": [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        "correct": 2,
+        "explanation": "On đứng trước ngày trong tuần."
+      }
+    ],
+    "grammarPractice": [
+      {
+        "prompt": "Điền từ: I have lunch ___ twelve.",
+        "options": [
+          "at"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "At đứng trước giờ cụ thể."
+      },
+      {
+        "prompt": "Sắp xếp: six / at / up / wake / I",
+        "options": [
+          "I wake up at six."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + wake up + at six."
+      },
+      {
+        "prompt": "Sửa câu: I go to bed in ten.",
+        "options": [
+          "I go to bed at ten."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "At ten là lúc mười giờ; không dùng in ten."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi học tiếng Anh mỗi ngày.",
+        "options": [
+          "I study English every day."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Every day có nghĩa là mỗi ngày."
+      },
+      {
+        "prompt": "We go to school ___ Monday.",
+        "options": [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        "correct": 2,
+        "explanation": "On đứng trước ngày trong tuần."
+      }
+    ],
+    "test": [
+      {
+        "prompt": "“Wake up” có nghĩa là gì?",
+        "options": [
+          "Thức dậy",
+          "Ăn sáng",
+          "Đi học",
+          "Đi ngủ"
+        ],
+        "correct": 0,
+        "explanation": "Wake up: Thức dậy. Ví dụ: I wake up at six. (Mình thức dậy lúc sáu giờ.)"
+      },
+      {
+        "prompt": "“Have breakfast” có nghĩa là gì?",
+        "options": [
+          "Đi học",
+          "Đi ngủ",
+          "Mỗi ngày",
+          "Ăn sáng"
+        ],
+        "correct": 3,
+        "explanation": "Have breakfast: Ăn sáng. Ví dụ: I have breakfast at seven. (Mình ăn sáng lúc bảy giờ.)"
+      },
+      {
+        "prompt": "“Go to school” có nghĩa là gì?",
+        "options": [
+          "Mỗi ngày",
+          "Đánh răng",
+          "Đi học",
+          "Đi ngủ"
+        ],
+        "correct": 2,
+        "explanation": "Go to school: Đi học. Ví dụ: I go to school by bus. (Mình đi học bằng xe buýt.)"
+      },
+      {
+        "prompt": "“Go to bed” có nghĩa là gì?",
+        "options": [
+          "Ăn trưa",
+          "Đi ngủ",
+          "Mỗi ngày",
+          "Đánh răng"
+        ],
+        "correct": 1,
+        "explanation": "Go to bed: Đi ngủ. Ví dụ: I go to bed at ten. (Mình đi ngủ lúc mười giờ.)"
+      },
+      {
+        "prompt": "“Every day” có nghĩa là gì?",
+        "options": [
+          "Mỗi ngày",
+          "Đánh răng",
+          "Ăn trưa",
+          "Ăn tối"
+        ],
+        "correct": 0,
+        "explanation": "Every day: Mỗi ngày. Ví dụ: I study English every day. (Mình học tiếng Anh mỗi ngày.)"
+      },
+      {
+        "prompt": "Điền từ: I have lunch ___ twelve.",
+        "options": [
+          "at"
+        ],
+        "correct": 0,
+        "kind": "fill",
+        "explanation": "At đứng trước giờ cụ thể."
+      },
+      {
+        "prompt": "Sắp xếp: six / at / up / wake / I",
+        "options": [
+          "I wake up at six."
+        ],
+        "correct": 0,
+        "kind": "reorder",
+        "explanation": "I + wake up + at six."
+      },
+      {
+        "prompt": "Sửa câu: I go to bed in ten.",
+        "options": [
+          "I go to bed at ten."
+        ],
+        "correct": 0,
+        "kind": "correct",
+        "explanation": "At ten là lúc mười giờ; không dùng in ten."
+      },
+      {
+        "prompt": "Dịch sang tiếng Anh: Tôi học tiếng Anh mỗi ngày.",
+        "options": [
+          "I study English every day."
+        ],
+        "correct": 0,
+        "kind": "translate",
+        "explanation": "Every day có nghĩa là mỗi ngày."
+      },
+      {
+        "prompt": "We go to school ___ Monday.",
+        "options": [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        "correct": 2,
+        "explanation": "On đứng trước ngày trong tuần."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Thức dậy”",
+        "options": [
+          "Go to school",
+          "Go to bed",
+          "Wake up",
+          "Every day"
+        ],
+        "correct": 2,
+        "explanation": "“Thức dậy” là “Wake up”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Ăn sáng”",
+        "options": [
+          "Go to bed",
+          "Every day",
+          "Have breakfast",
+          "Brush my teeth"
+        ],
+        "correct": 2,
+        "explanation": "“Ăn sáng” là “Have breakfast”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đi học”",
+        "options": [
+          "Every day",
+          "Brush my teeth",
+          "Go to school",
+          "Have lunch"
+        ],
+        "correct": 2,
+        "explanation": "“Đi học” là “Go to school”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Đi ngủ”",
+        "options": [
+          "Brush my teeth",
+          "Have lunch",
+          "Go to bed",
+          "Have dinner"
+        ],
+        "correct": 2,
+        "explanation": "“Đi ngủ” là “Go to bed”."
+      },
+      {
+        "prompt": "Chọn cách nói tiếng Anh: “Mỗi ngày”",
+        "options": [
+          "Have lunch",
+          "Have dinner",
+          "Every day",
+          "Take a shower"
+        ],
+        "correct": 2,
+        "explanation": "“Mỗi ngày” là “Every day”."
+      }
+    ]
+  }
+]

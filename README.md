@@ -1,5 +1,9 @@
 # Vexon — Soloworks primary app
 
+## English Quest companion source
+
+The separate English Quest application from `soloworks.pro.zip` is now available under [`english-quest/`](./english-quest/README-GITHUB.md). It includes the supplied static frontend and PHP backend with identified credentials removed. See its import notes and runtime limitations before deployment. Vexon remains unchanged.
+
 This repository is now centered on the Vexon web application. The complete Vexon source is packaged in [vexon-source-public-20261112.zip](./vexon-source-public-20261112.zip).
 
 - Stack: Next.js 16, React, TypeScript, Prisma, SQLite.

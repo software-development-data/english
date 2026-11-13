@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[8985,[],""]
+3:I[765,[],""]
+7:I[4912,[],"ClientPageRoot"]
+8:"static/chunks/app/home/page-5b487ed312df31aa.js"
+9:I[3875,["620","$8"],"default"]
+c:I[1644,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[1644,[],"$f"]
+12:"MetadataBoundary"
+13:I[1644,[],"$12"]
+15:I[4827,[],"default",1]
+:HL["/_next/static/css/e8385dad9333afa5.css","style"]
+:HL["/brand/english-book.webp","image"]
+:HL["/pets/mochi-lost.webp","image",{"fetchPriority":"high"}]
+:HL["/_next/static/css/1d2cd524196931ad.css","style"]
+5:X
+6:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L7",null,{"Component":"$9","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@a","$@b"]}}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+4:[["children",{"s":"home","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q6"}]]
+0:{"P":null,"c":["","home"],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e8385dad9333afa5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"quest-error","children":[["$","a",null,{"className":"qe-brand","href":"/","aria-label":"English Quest — trang chủ","children":[["$","img",null,{"src":"/brand/english-book.webp","width":"42","height":"42","alt":""}],["$","span",null,{"children":["ENGLISH ",["$","b",null,{"children":"QUEST"}],["$","small",null,{"children":"LEARN · PLAY · CONNECT"}]]}],["$","span",null,{"className":"qe-brand-star","aria-hidden":"true","children":"✦"}]]}],["$","section",null,{"className":"qe-card","aria-labelledby":"qe-title","children":[["$","div",null,{"className":"qe-copy","children":[["$","span",null,{"className":"qe-eyebrow","children":[["$","i",null,{"aria-hidden":"true"}]," BẠN ĐANG Ở NGOÀI BẢN ĐỒ"]}],["$","h1",null,{"id":"qe-title","children":"Ối! Mochi rẽ nhầm đường rồi!"}],["$","p",null,{"children":"Trang này chưa có trong học viện. Cùng Mochi quay về nhé — hành trình của bạn vẫn đang chờ đó."}],["$","nav",null,{"aria-label":"Điều hướng","children":[["$","a",null,{"className":"qe-primary","href":"/","children":["Về trang chủ ",["$","span",null,{"aria-hidden":"true","children":"➜"}]]}],["$","a",null,{"className":"qe-secondary","href":"/home.html","children":"Mở bản đồ học tập"}]]}],["$","small",null,{"className":"qe-code-label","children":[["$","span",null,{"children":"404"}]," · KHÔNG TÌM THẤY TRANG"]}]]}],["$","div",null,{"className":"qe-scene","aria-label":"Mochi đang tìm đường về học viện","children":[["$","span",null,{"className":"qe-orbit qe-orbit-one","aria-hidden":"true"}],["$","span",null,{"className":"qe-orbit qe-orbit-two","aria-hidden":"true"}],["$","span",null,{"className":"qe-spark qe-spark-one","aria-hidden":"true","children":"✦"}],["$","span",null,{"className":"qe-spark qe-spark-two","aria-hidden":"true","children":"✧"}],["$","span",null,{"className":"qe-cloud qe-cloud-one","aria-hidden":"true"}],["$","span",null,{"className":"qe-cloud qe-cloud-two","aria-hidden":"true"}],["$","span",null,{"className":"qe-number","aria-hidden":"true","children":"404"}],["$","img",null,{"src":"/pets/mochi-lost.webp","width":"340","height":"340","alt":"Mochi, bạn đồng hành nhỏ, đang cầm bản đồ tìm đường về","fetchPriority":"high"}],["$","span",null,{"className":"qe-map-note","aria-hidden":"true","children":["Học viện ở hướng này! ",["$","b",null,{"children":"↗"}]]}]]}]]}],["$","footer",null,{"children":["Đi lạc một chút thôi — Mochi sẽ đưa bạn về nhà. ",["$","span",null,{"aria-hidden":"true","children":"♥"}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1d2cd524196931ad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q4"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ua3UbYZTUtI6Ozoy98x0l"}
+5:C
+a:{}
+b:"$6:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[5517,[],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"ENGLISH QUEST · Hành trình tiếng Anh của bạn"}],["$","meta","1",{"name":"description","content":"Học tiếng Anh qua những nhiệm vụ nhỏ. Flashcard, ngữ pháp, luyện nghe và kiểm tra dành cho người Việt."}],["$","link","2",{"rel":"icon","href":"/brand/english-book-32.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/brand/english-book-180.png"}],["$","$L16","4",{}]]

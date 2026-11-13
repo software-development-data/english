@@ -1,0 +1,404 @@
+path,exists,format,size,mode,alpha,note
+asset-library/achievement-icons.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/culture-accessories-01.webp,YES,WEBP,1536x1024,RGBA,True,
+asset-library/culture-accessories-02.webp,YES,WEBP,1536x1024,RGBA,True,
+asset-library/frames-01.webp,YES,WEBP,1536x1024,RGBA,True,
+asset-library/frames-02.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/frames-03.webp,YES,WEBP,1536x1024,RGBA,True,
+asset-library/learning-rewards.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/lesson-controls.webp,YES,WEBP,1448x1086,RGBA,True,
+asset-library/mochi-cheer.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-emotes-01.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-expressions.webp,YES,WEBP,1273x1236,RGBA,True,
+asset-library/mochi-reading-01.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-reading-02.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-reading-group.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-thinking.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/mochi-wardrobe.webp,YES,WEBP,1254x1254,RGBA,True,
+asset-library/pet-pair.webp,YES,WEBP,1536x768,RGBA,True,
+asset-library/pet-rewards.webp,YES,WEBP,1254x1254,RGBA,True,
+awards/coin-first.webp,YES,WEBP,512x512,RGBA,True,
+awards/coin-hundred.webp,YES,WEBP,512x512,RGBA,True,
+awards/coin-master.webp,YES,WEBP,512x512,RGBA,True,
+awards/coin-scholar.webp,YES,WEBP,512x512,RGBA,True,
+awards/explorer.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/explorer.webp,YES,WEBP,512x512,RGBA,True,
+awards/first.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/first.webp,YES,WEBP,384x384,RGBA,True,
+awards/master.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/master.webp,YES,WEBP,512x512,RGBA,True,
+awards/streak.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/streak.webp,YES,WEBP,512x512,RGBA,True,
+awards/words.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/words.webp,YES,WEBP,512x512,RGBA,True,
+awards/xp.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+awards/xp.webp,YES,WEBP,512x512,RGBA,True,
+brand/puppy-180.png,YES,PNG,180x180,RGBA,True,
+brand/puppy-192.png,YES,PNG,192x192,RGBA,True,
+brand/puppy-32.png,YES,PNG,32x32,RGBA,True,
+brand/puppy.webp,YES,WEBP,640x640,RGBA,True,
+currency/star-coin.gif,YES,GIF,128x128,P,False,
+currency/star-coin.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+eggs/star-shell.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+eggs/star.png,YES,PNG,1254x1254,RGBA,True,
+emotes/angry.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/angry.webp,YES,WEBP,512x512,RGBA,True,
+emotes/blush.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/blush.webp,YES,WEBP,512x512,RGBA,True,
+emotes/cheer.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/cheer.webp,YES,WEBP,512x512,RGBA,True,
+emotes/cool.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/cool.webp,YES,WEBP,512x512,RGBA,True,
+emotes/cry.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/cry.webp,YES,WEBP,512x512,RGBA,True,
+emotes/kiss.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/kiss.webp,YES,WEBP,512x512,RGBA,True,
+emotes/laugh.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/laugh.webp,YES,WEBP,512x512,RGBA,True,
+emotes/love.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/love.webp,YES,WEBP,512x512,RGBA,True,
+emotes/sad.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/sad.webp,YES,WEBP,512x512,RGBA,True,
+emotes/sleep.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/sleep.webp,YES,WEBP,512x512,RGBA,True,
+emotes/smile.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/smile.webp,YES,WEBP,512x512,RGBA,True,
+emotes/star.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/star.webp,YES,WEBP,512x512,RGBA,True,
+emotes/think.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/think.webp,YES,WEBP,512x512,RGBA,True,
+emotes/tired.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/tired.webp,YES,WEBP,512x512,RGBA,True,
+emotes/wink.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/wink.webp,YES,WEBP,512x512,RGBA,True,
+emotes/wow.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+emotes/wow.webp,YES,WEBP,512x512,RGBA,True,
+errors/peach-lost.png,YES,PNG,1254x1254,RGBA,True,
+fashion/cultural/cn-changshan-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/cn-hanfu-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/cn-hanfu-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/cn-ruqun-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/cn-style-001.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-002.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-003.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-004.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-005.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-006.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-007.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-008.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-009.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-010.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-011.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-012.webp,YES,WEBP,350x259,RGBA,True,
+fashion/cultural/cn-style-013.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-014.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-015.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-016.webp,YES,WEBP,350x260,RGBA,True,
+fashion/cultural/cn-style-017.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-018.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-019.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-020.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-021.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-022.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-023.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-024.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-025.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-026.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-027.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-028.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-029.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-030.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-031.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-032.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-033.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-034.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-035.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-036.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-037.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-038.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-039.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-040.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-041.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-042.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-043.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-044.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-045.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-046.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-047.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/cn-style-048.webp,YES,WEBP,372x244,RGBA,True,
+fashion/cultural/collection.png,YES,PNG,1448x1086,RGBA,True,
+fashion/cultural/fantasy-scholar-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/fantasy-scholar-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ao-dai-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ao-dai-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ba-ba-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ba-ba-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ngu-than-female.webp,YES,WEBP,420x420,RGBA,True,
+fashion/cultural/vn-ngu-than-male.webp,YES,WEBP,420x420,RGBA,True,
+fashion/hair-blue.webp,YES,WEBP,512x512,RGBA,True,
+fashion/hair-pink.webp,YES,WEBP,512x512,RGBA,True,
+fashion/outfit-academy.webp,YES,WEBP,512x512,RGBA,True,
+fashion/outfit-flower.webp,YES,WEBP,512x512,RGBA,True,
+fashion/outfit-sky.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-bag.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-beret.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-bow.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-cape.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-crown.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-glasses.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-scarf.webp,YES,WEBP,512x512,RGBA,True,
+fashion/pet-sweater.webp,YES,WEBP,512x512,RGBA,True,
+fashion/shoes-blue.webp,YES,WEBP,512x512,RGBA,True,
+fashion/shoes-gold.webp,YES,WEBP,512x512,RGBA,True,
+fashion/shoes-pink.webp,YES,WEBP,512x512,RGBA,True,
+food/berry.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+food/berry.webp,YES,WEBP,512x512,RGBA,True,
+food/cookie.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+food/cookie.webp,YES,WEBP,512x512,RGBA,True,
+food/milk.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+food/milk.webp,YES,WEBP,512x512,RGBA,True,
+frames/bronze-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/crown-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/diamond-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/egg-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/egg.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/gold-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/gold.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/silver-label.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+frames/silver.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/close.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/close.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/help.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/help.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/home.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/home.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/mute.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/mute.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/next.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/next.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/pause.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/pause.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/play.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/play.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/previous.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/previous.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/retry.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/retry.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/settings.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/settings.webp,YES,WEBP,512x512,RGBA,True,
+game-controls/sound.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+game-controls/sound.webp,YES,WEBP,512x512,RGBA,True,
+gifts/coffee.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/coffee.webp,YES,WEBP,512x512,RGBA,True,
+gifts/flower.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/flower.webp,YES,WEBP,512x512,RGBA,True,
+gifts/heart.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/heart.webp,YES,WEBP,512x512,RGBA,True,
+gifts/rainbow.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/rainbow.webp,YES,WEBP,512x512,RGBA,True,
+gifts/star.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/star.webp,YES,WEBP,512x512,RGBA,True,
+gifts/trophy.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+gifts/trophy.webp,YES,WEBP,512x512,RGBA,True,
+icon.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/languages/chinese-world.png,YES,PNG,1024x1024,RGBA,True,
+icons/languages/chinese-world.webp,YES,WEBP,1024x1024,RGBA,True,
+icons/languages/english-world.png,YES,PNG,1024x1024,RGBA,True,
+icons/languages/english-world.webp,YES,WEBP,1024x1024,RGBA,True,
+icons/quest/drive.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/drive.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/egg.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/egg.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/environment.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/environment.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/family.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/family.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/flame.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/flame.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/flower.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/flower.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/food.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/food.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/friends.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/friends.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/game.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/game.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/globe.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/globe.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/gold.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/gold.webp,YES,WEBP,384x384,RGBA,True,
+icons/quest/grammar.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/grammar.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/health.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/health.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/heart.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/heart.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/hello.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/hello.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/hobby.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/hobby.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/home.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/home.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/hotel.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/hotel.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/hourglass.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/hourglass.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/listening.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/listening.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/location.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/location.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/message.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/message.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/microphone.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/microphone.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/practice.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/practice.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/profile.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/profile.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/school.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/school.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/settings.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/settings.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/shopping.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/shopping.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/silver.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/silver.webp,YES,WEBP,384x384,RGBA,True,
+icons/quest/spark.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/spark.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/star.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/star.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/technology.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/technology.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/transport.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/transport.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/travel.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/travel.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/trophy.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/trophy.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/video.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/video.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/weather.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/weather.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/weekend.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/weekend.webp,YES,WEBP,512x512,RGBA,True,
+icons/quest/work.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+icons/quest/work.webp,YES,WEBP,512x512,RGBA,True,
+items/balloon.webp,YES,WEBP,512x512,RGBA,True,
+items/berry.webp,YES,WEBP,512x512,RGBA,True,
+items/coin.webp,YES,WEBP,512x512,RGBA,True,
+items/cookie.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-cloud.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-crystal.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-flame.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-flower.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-leaf.webp,YES,WEBP,512x512,RGBA,True,
+items/egg-star.webp,YES,WEBP,512x512,RGBA,True,
+items/flower.webp,YES,WEBP,512x512,RGBA,True,
+items/heart.webp,YES,WEBP,512x512,RGBA,True,
+items/milk.webp,YES,WEBP,512x512,RGBA,True,
+items/rainbow.webp,YES,WEBP,512x512,RGBA,True,
+items/spirit.webp,YES,WEBP,512x512,RGBA,True,
+items/treasure.webp,YES,WEBP,512x512,RGBA,True,
+loading/peach-spirit.png,YES,PNG,1254x1254,RGBA,True,
+personas/connector.png,YES,PNG,1024x1024,RGBA,True,
+personas/connector.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/explorer.png,YES,PNG,1024x1024,RGBA,True,
+personas/explorer.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/guardian.png,YES,PNG,1024x1024,RGBA,True,
+personas/guardian.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/scholar.png,YES,PNG,1024x1024,RGBA,True,
+personas/scholar.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-01.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-01.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-02.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-02.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-03.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-03.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-04.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-04.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-05.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-05.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-06.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-06.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-07.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-07.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-08.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-08.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-09.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-09.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-10.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-10.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-11.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-11.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-12.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-12.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-13.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-13.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-14.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-14.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-15.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-15.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-16.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-16.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-17.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-17.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-18.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-18.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-19.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-19.webp,YES,WEBP,1024x1024,RGBA,True,
+personas/vn-20.png,YES,PNG,1024x1024,RGBA,True,
+personas/vn-20.webp,YES,WEBP,1024x1024,RGBA,True,
+pets/eagle-idle.webp,YES,WEBP,512x512,RGBA,True,
+pets/lion-idle.webp,YES,WEBP,512x512,RGBA,True,
+pets/mochi-eat.png,YES,PNG,1377x1142,RGBA,True,
+pets/mochi-eat.webp,YES,WEBP,640x531,RGBA,True,
+pets/mochi-idle.png,YES,PNG,1254x1254,RGBA,True,
+pets/mochi-lost.png,YES,PNG,1254x1254,RGBA,True,
+pets/mochi-lost.webp,YES,WEBP,640x640,RGBA,True,
+pets/mochi-rest.png,YES,PNG,1536x1024,RGBA,True,
+pets/mochi-rest.webp,YES,WEBP,640x427,RGBA,True,
+pets/mochi-study.png,YES,PNG,1254x1254,RGBA,True,
+pets/mochi-study.webp,YES,WEBP,640x640,RGBA,True,
+pets/peach-painted.webp,YES,WEBP,640x640,RGBA,True,
+quest-team.png,YES,PNG,1672x941,RGB,False,
+quest-world.png,YES,PNG,1672x941,RGB,False,
+rank-badges.png,YES,PNG,1536x1024,RGBA,True,
+titles/egg.gif,YES,GIF,330x100,P,False,
+titles/egg.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+titles/gold.gif,YES,GIF,330x100,P,False,
+titles/gold.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+titles/silver.gif,YES,GIF,330x100,P,False,
+titles/silver.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+topics/environment.webp,YES,WEBP,900x600,RGB,False,
+topics/family.webp,YES,WEBP,900x600,RGB,False,
+topics/food.webp,YES,WEBP,900x600,RGB,False,
+topics/health.webp,YES,WEBP,900x600,RGB,False,
+topics/hello.webp,YES,WEBP,900x600,RGB,False,
+topics/hobby.webp,YES,WEBP,900x600,RGB,False,
+topics/hotel.webp,YES,WEBP,900x600,RGB,False,
+topics/school.webp,YES,WEBP,900x600,RGB,False,
+topics/shopping.webp,YES,WEBP,900x600,RGB,False,
+topics/technology.webp,YES,WEBP,900x600,RGB,False,
+topics/transport.webp,YES,WEBP,900x600,RGB,False,
+topics/travel.webp,YES,WEBP,900x600,RGB,False,
+topics/weather.webp,YES,WEBP,900x600,RGB,False,
+topics/weekend.webp,YES,WEBP,900x600,RGB,False,
+topics/work.webp,YES,WEBP,900x600,RGB,False,
+utility/break.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+utility/encourage.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+utility/goal.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+utility/reward.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/base.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hair-blue.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hair-pink.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hair-silver.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hat-crown.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hat-none.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/hat-star.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/outfit-academy.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/outfit-flower.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/outfit-sky.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/shoes-blue.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/shoes-gold.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wardrobe/shoes-pink.svg,YES,SVG,vector,RGBA-capable,vector,readable SVG
+wheel/frame.webp,YES,WEBP,640x640,RGBA,True,

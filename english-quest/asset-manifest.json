@@ -1,0 +1,3390 @@
+{
+  "version": "1.0.0-phase17",
+  "standalone": true,
+  "assets": [
+    {
+      "id": "hanfu-ivory-blue",
+      "name": "Ivory and blue floral hanfu set",
+      "src_png": "/fashion/redrawn/hanfu-ivory-blue.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/hanfu-ivory-blue.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-lotus-pink",
+      "name": "Pink lotus hanfu",
+      "src_png": "/fashion/redrawn/hanfu-lotus-pink.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/hanfu-lotus-pink.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-lotus-jade-coral",
+      "name": "Jade, coral and navy lotus hanfu",
+      "src_png": "/fashion/redrawn/hanfu-lotus-jade-coral.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/hanfu-lotus-jade-coral.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "lotus-conical-hat",
+      "name": "Lotus conical hat",
+      "src_png": "/fashion/redrawn/lotus-conical-hat.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/lotus-conical-hat.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "blue-lotus-cap",
+      "name": "Blue lotus cap",
+      "src_png": "/fashion/redrawn/blue-lotus-cap.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/blue-lotus-cap.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "lotus-shoes-pair",
+      "name": "Embroidered lotus shoes",
+      "src_png": "/fashion/redrawn/lotus-shoes-pair.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/lotus-shoes-pair.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "lotus-hairpin",
+      "name": "Lotus hairpin",
+      "src_png": "/fashion/redrawn/lotus-hairpin.png",
+      "width": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/fashion/redrawn/lotus-hairpin.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "cloud-puppy-happy",
+      "name": "Happy cloud puppy",
+      "src_png": "/pets/redrawn/cloud-puppy-happy.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/cloud-puppy-happy.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "cloud-chick-flying",
+      "name": "Cloud chick flying",
+      "src_png": "/pets/redrawn/cloud-chick-flying.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/cloud-chick-flying.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "category": "controls",
+      "id": "control-play",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_webp": "/icons/controls-redrawn/play.webp",
+      "height": 1024,
+      "status": "generated-and-visual-reviewed",
+      "src_png": "/icons/controls-redrawn/play.png",
+      "name": "Play control",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "width": 1024
+    },
+    {
+      "category": "controls",
+      "id": "control-pause",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_webp": "/icons/controls-redrawn/pause.webp",
+      "height": 1024,
+      "status": "generated-and-visual-reviewed",
+      "src_png": "/icons/controls-redrawn/pause.png",
+      "name": "Pause control",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "width": 1024
+    },
+    {
+      "category": "controls",
+      "id": "control-next",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_webp": "/icons/controls-redrawn/next.webp",
+      "height": 1024,
+      "status": "generated-and-visual-reviewed",
+      "src_png": "/icons/controls-redrawn/next.png",
+      "name": "Next control",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "width": 1024
+    },
+    {
+      "category": "controls",
+      "id": "control-previous",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_webp": "/icons/controls-redrawn/previous.webp",
+      "height": 1024,
+      "status": "generated-and-visual-reviewed",
+      "src_png": "/icons/controls-redrawn/previous.png",
+      "name": "Previous control",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "width": 1024
+    },
+    {
+      "id": "english-book",
+      "name": "English Quest book mark",
+      "category": "brand",
+      "src_png": "/brand/english-book.png",
+      "src_webp": "/brand/english-book.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "english-world",
+      "name": "English learning portal",
+      "category": "worlds",
+      "src_png": "/icons/worlds/english-world.png",
+      "src_webp": "/icons/worlds/english-world.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "chinese-world",
+      "name": "Chinese learning portal",
+      "category": "worlds",
+      "src_png": "/icons/worlds/chinese-world.png",
+      "src_webp": "/icons/worlds/chinese-world.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "vietnamese-world",
+      "name": "Vietnamese learning portal",
+      "category": "worlds",
+      "src_png": "/icons/worlds/vietnamese-world.png",
+      "src_webp": "/icons/worlds/vietnamese-world.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "math-world",
+      "name": "Math learning portal",
+      "category": "worlds",
+      "src_png": "/icons/worlds/math-world.png",
+      "src_webp": "/icons/worlds/math-world.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "puppy-idle",
+      "name": "Puppy idle",
+      "category": "pets",
+      "src_png": "/pets/puppy-idle.png",
+      "src_webp": "/pets/puppy-idle.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "puppy-eat",
+      "name": "Puppy eat",
+      "category": "pets",
+      "src_png": "/pets/puppy-eat.png",
+      "src_webp": "/pets/puppy-eat.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "puppy-rest",
+      "name": "Puppy rest",
+      "category": "pets",
+      "src_png": "/pets/puppy-rest.png",
+      "src_webp": "/pets/puppy-rest.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "puppy-study",
+      "name": "Puppy study",
+      "category": "pets",
+      "src_png": "/pets/puppy-study.png",
+      "src_webp": "/pets/puppy-study.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "puppy-lost",
+      "name": "Puppy lost",
+      "category": "pets",
+      "src_png": "/pets/puppy-lost.png",
+      "src_webp": "/pets/puppy-lost.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-egg",
+      "name": "Egg rank frame",
+      "category": "frames",
+      "src_png": "/frames/egg.png",
+      "src_webp": "/frames/egg.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-bronze",
+      "name": "Bronze rank frame",
+      "category": "frames",
+      "src_png": "/frames/bronze.png",
+      "src_webp": "/frames/bronze.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-silver",
+      "name": "Silver rank frame",
+      "category": "frames",
+      "src_png": "/frames/silver.png",
+      "src_webp": "/frames/silver.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-gold",
+      "name": "Gold rank frame",
+      "category": "frames",
+      "src_png": "/frames/gold.png",
+      "src_webp": "/frames/gold.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-diamond",
+      "name": "Diamond rank frame",
+      "category": "frames",
+      "src_png": "/frames/diamond.png",
+      "src_webp": "/frames/diamond.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "rank-frame-crown",
+      "name": "Crown rank frame",
+      "category": "frames",
+      "src_png": "/frames/crown.png",
+      "src_webp": "/frames/crown.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-backpack",
+      "name": "Backpack",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/backpack.png",
+      "src_webp": "/icons/study-world-redrawn/backpack.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-schoolhouse",
+      "name": "Schoolhouse",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/schoolhouse.png",
+      "src_webp": "/icons/study-world-redrawn/schoolhouse.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-paint-palette",
+      "name": "Paint Palette",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/paint-palette.png",
+      "src_webp": "/icons/study-world-redrawn/paint-palette.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-travel-suitcase",
+      "name": "Travel Suitcase",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/travel-suitcase.png",
+      "src_webp": "/icons/study-world-redrawn/travel-suitcase.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-study-globe",
+      "name": "Study Globe",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/study-globe.png",
+      "src_webp": "/icons/study-world-redrawn/study-globe.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "study-academy-bus",
+      "name": "Academy Bus",
+      "category": "study-world",
+      "src_png": "/icons/study-world-redrawn/academy-bus.png",
+      "src_webp": "/icons/study-world-redrawn/academy-bus.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-home",
+      "name": "Home lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/home.png",
+      "src_webp": "/icons/controls-redrawn/home.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-retry",
+      "name": "Retry lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/retry.png",
+      "src_webp": "/icons/controls-redrawn/retry.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-sound",
+      "name": "Sound lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/sound.png",
+      "src_webp": "/icons/controls-redrawn/sound.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-mute",
+      "name": "Mute lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/mute.png",
+      "src_webp": "/icons/controls-redrawn/mute.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-settings",
+      "name": "Settings lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/settings.png",
+      "src_webp": "/icons/controls-redrawn/settings.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-help",
+      "name": "Help lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/help.png",
+      "src_webp": "/icons/controls-redrawn/help.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-close",
+      "name": "Close lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/close.png",
+      "src_webp": "/icons/controls-redrawn/close.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "control-check",
+      "name": "Check lesson control",
+      "category": "controls",
+      "source_sheet": "asset-library/lesson-controls.webp",
+      "src_png": "/icons/controls-redrawn/check.png",
+      "src_webp": "/icons/controls-redrawn/check.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed"
+    },
+    {
+      "id": "hanfu-white-lotus-earband",
+      "name": "Hanfu White Lotus Earband",
+      "src_png": "/fashion/redrawn/hanfu-white-lotus-earband.png",
+      "src_webp": "/fashion/redrawn/hanfu-white-lotus-earband.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "petal-bell-bow",
+      "name": "Petal Bell Bow",
+      "src_png": "/fashion/redrawn/petal-bell-bow.png",
+      "src_webp": "/fashion/redrawn/petal-bell-bow.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-mint-lotus-skirt",
+      "name": "Hanfu Mint Lotus Skirt",
+      "src_png": "/fashion/redrawn/hanfu-mint-lotus-skirt.png",
+      "src_webp": "/fashion/redrawn/hanfu-mint-lotus-skirt.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "lotus-shoes-pink",
+      "name": "Lotus Shoes Pink",
+      "src_png": "/fashion/redrawn/lotus-shoes-pink.png",
+      "src_webp": "/fashion/redrawn/lotus-shoes-pink.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-forest-green",
+      "name": "Hanfu Forest Green",
+      "src_png": "/fashion/redrawn/hanfu-forest-green.png",
+      "src_webp": "/fashion/redrawn/hanfu-forest-green.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-lavender-lotus",
+      "name": "Hanfu Lavender Lotus",
+      "src_png": "/fashion/redrawn/hanfu-lavender-lotus.png",
+      "src_webp": "/fashion/redrawn/hanfu-lavender-lotus.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-flowing-blue",
+      "name": "Hanfu Flowing Blue",
+      "src_png": "/fashion/redrawn/hanfu-flowing-blue.png",
+      "src_webp": "/fashion/redrawn/hanfu-flowing-blue.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-mint-trousers",
+      "name": "Hanfu Mint Trousers",
+      "src_png": "/fashion/redrawn/hanfu-mint-trousers.png",
+      "src_webp": "/fashion/redrawn/hanfu-mint-trousers.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "hanfu-burgundy-crane",
+      "name": "Hanfu Burgundy Crane",
+      "src_png": "/fashion/redrawn/hanfu-burgundy-crane.png",
+      "src_webp": "/fashion/redrawn/hanfu-burgundy-crane.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062544).png"
+    },
+    {
+      "id": "pet-puppy-hatch",
+      "name": "Pet Puppy Hatch",
+      "src_png": "/pets/redrawn/pet-puppy-hatch.png",
+      "src_webp": "/pets/redrawn/pet-puppy-hatch.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-kitten-hatch",
+      "name": "Pet Kitten Hatch",
+      "src_png": "/pets/redrawn/pet-kitten-hatch.png",
+      "src_webp": "/pets/redrawn/pet-kitten-hatch.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-bear-hatch",
+      "name": "Pet Bear Hatch",
+      "src_png": "/pets/redrawn/pet-bear-hatch.png",
+      "src_webp": "/pets/redrawn/pet-bear-hatch.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-puppy-rest-cloud",
+      "name": "Pet Puppy Rest Cloud",
+      "src_png": "/pets/redrawn/pet-puppy-rest-cloud.png",
+      "src_webp": "/pets/redrawn/pet-puppy-rest-cloud.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-puppy-idle",
+      "name": "Pet Puppy Idle",
+      "src_png": "/pets/redrawn/pet-puppy-idle.png",
+      "src_webp": "/pets/redrawn/pet-puppy-idle.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-kitten-wave",
+      "name": "Pet Kitten Wave",
+      "src_png": "/pets/redrawn/pet-kitten-wave.png",
+      "src_webp": "/pets/redrawn/pet-kitten-wave.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-chick-hatch",
+      "name": "Pet Chick Hatch",
+      "src_png": "/pets/redrawn/pet-chick-hatch.png",
+      "src_webp": "/pets/redrawn/pet-chick-hatch.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-bear-wave",
+      "name": "Pet Bear Wave",
+      "src_png": "/pets/redrawn/pet-bear-wave.png",
+      "src_webp": "/pets/redrawn/pet-bear-wave.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "study-paw",
+      "name": "Study Paw",
+      "src_png": "/icons/study-world-redrawn/study-paw.png",
+      "src_webp": "/icons/study-world-redrawn/study-paw.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-tea-cup",
+      "name": "Study Tea Cup",
+      "src_png": "/icons/study-world-redrawn/study-tea-cup.png",
+      "src_webp": "/icons/study-world-redrawn/study-tea-cup.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-sunrise",
+      "name": "Study Sunrise",
+      "src_png": "/icons/study-world-redrawn/study-sunrise.png",
+      "src_webp": "/icons/study-world-redrawn/study-sunrise.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-cloud-house",
+      "name": "Study Cloud House",
+      "src_png": "/icons/study-world-redrawn/study-cloud-house.png",
+      "src_webp": "/icons/study-world-redrawn/study-cloud-house.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-shopping-bag",
+      "name": "Study Shopping Bag",
+      "src_png": "/icons/study-world-redrawn/study-shopping-bag.png",
+      "src_webp": "/icons/study-world-redrawn/study-shopping-bag.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-direction-sign",
+      "name": "Study Direction Sign",
+      "src_png": "/icons/study-world-redrawn/study-direction-sign.png",
+      "src_webp": "/icons/study-world-redrawn/study-direction-sign.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-raincloud",
+      "name": "Study Raincloud",
+      "src_png": "/icons/study-world-redrawn/study-raincloud.png",
+      "src_webp": "/icons/study-world-redrawn/study-raincloud.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-first-aid-kit",
+      "name": "Study First Aid Kit",
+      "src_png": "/icons/study-world-redrawn/study-first-aid-kit.png",
+      "src_webp": "/icons/study-world-redrawn/study-first-aid-kit.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-desk-book",
+      "name": "Study Desk Book",
+      "src_png": "/icons/study-world-redrawn/study-desk-book.png",
+      "src_webp": "/icons/study-world-redrawn/study-desk-book.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "study-laptop",
+      "name": "Study Laptop",
+      "src_png": "/icons/study-world-redrawn/study-laptop.png",
+      "src_webp": "/icons/study-world-redrawn/study-laptop.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "study-world",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062720).png"
+    },
+    {
+      "id": "persona-cn-lantern-boy",
+      "name": "Cn Lantern Boy",
+      "src_png": "/personas/redrawn/persona-cn-lantern-boy.png",
+      "src_webp": "/personas/redrawn/persona-cn-lantern-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-cn-flute-boy",
+      "name": "Cn Flute Boy",
+      "src_png": "/personas/redrawn/persona-cn-flute-boy.png",
+      "src_webp": "/personas/redrawn/persona-cn-flute-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-cn-scroll-scholar",
+      "name": "Cn Scroll Scholar",
+      "src_png": "/personas/redrawn/persona-cn-scroll-scholar.png",
+      "src_webp": "/personas/redrawn/persona-cn-scroll-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-cn-harvest-boy",
+      "name": "Cn Harvest Boy",
+      "src_png": "/personas/redrawn/persona-cn-harvest-boy.png",
+      "src_webp": "/personas/redrawn/persona-cn-harvest-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-modern-green-boy",
+      "name": "Modern Green Boy",
+      "src_png": "/personas/redrawn/persona-modern-green-boy.png",
+      "src_webp": "/personas/redrawn/persona-modern-green-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-vn-teal-fan-girl",
+      "name": "Vn Teal Fan Girl",
+      "src_png": "/personas/redrawn/persona-vn-teal-fan-girl.png",
+      "src_webp": "/personas/redrawn/persona-vn-teal-fan-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-vn-red-aodai-girl",
+      "name": "Vn Red Aodai Girl",
+      "src_png": "/personas/redrawn/persona-vn-red-aodai-girl.png",
+      "src_webp": "/personas/redrawn/persona-vn-red-aodai-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-vn-yellow-flower-girl",
+      "name": "Vn Yellow Flower Girl",
+      "src_png": "/personas/redrawn/persona-vn-yellow-flower-girl.png",
+      "src_webp": "/personas/redrawn/persona-vn-yellow-flower-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-modern-lilac-girl",
+      "name": "Modern Lilac Girl",
+      "src_png": "/personas/redrawn/persona-modern-lilac-girl.png",
+      "src_webp": "/personas/redrawn/persona-modern-lilac-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-modern-schoolgirl",
+      "name": "Modern Schoolgirl",
+      "src_png": "/personas/redrawn/persona-modern-schoolgirl.png",
+      "src_webp": "/personas/redrawn/persona-modern-schoolgirl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540).png"
+    },
+    {
+      "id": "persona-ink-blue-scholar",
+      "name": "Ink Blue Scholar",
+      "src_png": "/personas/redrawn/persona-ink-blue-scholar.png",
+      "src_webp": "/personas/redrawn/persona-ink-blue-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-olive-cap-boy",
+      "name": "Olive Cap Boy",
+      "src_png": "/personas/redrawn/persona-olive-cap-boy.png",
+      "src_webp": "/personas/redrawn/persona-olive-cap-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-lotus-brown-boy",
+      "name": "Lotus Brown Boy",
+      "src_png": "/personas/redrawn/persona-lotus-brown-boy.png",
+      "src_webp": "/personas/redrawn/persona-lotus-brown-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-modern-backpack-boy",
+      "name": "Modern Backpack Boy",
+      "src_png": "/personas/redrawn/persona-modern-backpack-boy.png",
+      "src_webp": "/personas/redrawn/persona-modern-backpack-boy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-blue-gold-scholar",
+      "name": "Blue Gold Scholar",
+      "src_png": "/personas/redrawn/persona-blue-gold-scholar.png",
+      "src_webp": "/personas/redrawn/persona-blue-gold-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-pink-lotus-girl",
+      "name": "Pink Lotus Girl",
+      "src_png": "/personas/redrawn/persona-pink-lotus-girl.png",
+      "src_webp": "/personas/redrawn/persona-pink-lotus-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-lavender-hat-girl",
+      "name": "Lavender Hat Girl",
+      "src_png": "/personas/redrawn/persona-lavender-hat-girl.png",
+      "src_webp": "/personas/redrawn/persona-lavender-hat-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-brown-ribbon-girl",
+      "name": "Brown Ribbon Girl",
+      "src_png": "/personas/redrawn/persona-brown-ribbon-girl.png",
+      "src_webp": "/personas/redrawn/persona-brown-ribbon-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-white-blue-book-girl",
+      "name": "White Blue Book Girl",
+      "src_png": "/personas/redrawn/persona-white-blue-book-girl.png",
+      "src_webp": "/personas/redrawn/persona-white-blue-book-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "persona-mint-basket-girl",
+      "name": "Mint Basket Girl",
+      "src_png": "/personas/redrawn/persona-mint-basket-girl.png",
+      "src_webp": "/personas/redrawn/persona-mint-basket-girl.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "personas",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "source_sheet": "image(20261027-062540-1).png"
+    },
+    {
+      "id": "robe-midnight-scholar",
+      "name": "Midnight scholar robe",
+      "src_png": "/fashion/redrawn/robe-midnight-scholar.png",
+      "src_webp": "/fashion/redrawn/robe-midnight-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-peach-lotus",
+      "name": "Peach lotus robe",
+      "src_png": "/fashion/redrawn/robe-peach-lotus.png",
+      "src_webp": "/fashion/redrawn/robe-peach-lotus.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-slate-scholar",
+      "name": "Slate scholar robe",
+      "src_png": "/fashion/redrawn/robe-slate-scholar.png",
+      "src_webp": "/fashion/redrawn/robe-slate-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "hanfu-lavender-female",
+      "name": "Lavender floral hanfu",
+      "src_png": "/fashion/redrawn/hanfu-lavender-female.png",
+      "src_webp": "/fashion/redrawn/hanfu-lavender-female.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-olive-scholar",
+      "name": "Olive scholar robe",
+      "src_png": "/fashion/redrawn/robe-olive-scholar.png",
+      "src_webp": "/fashion/redrawn/robe-olive-scholar.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-ivory-coral",
+      "name": "Ivory coral robe",
+      "src_png": "/fashion/redrawn/robe-ivory-coral.png",
+      "src_webp": "/fashion/redrawn/robe-ivory-coral.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-jade-cross",
+      "name": "Jade cross-collar robe",
+      "src_png": "/fashion/redrawn/robe-jade-cross.png",
+      "src_webp": "/fashion/redrawn/robe-jade-cross.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "hanfu-coral-lotus",
+      "name": "Coral lotus hanfu",
+      "src_png": "/fashion/redrawn/hanfu-coral-lotus.png",
+      "src_webp": "/fashion/redrawn/hanfu-coral-lotus.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-russet-traveler",
+      "name": "Russet traveler robe",
+      "src_png": "/fashion/redrawn/robe-russet-traveler.png",
+      "src_webp": "/fashion/redrawn/robe-russet-traveler.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "robe-plum-traveler",
+      "name": "Plum traveler robe",
+      "src_png": "/fashion/redrawn/robe-plum-traveler.png",
+      "src_webp": "/fashion/redrawn/robe-plum-traveler.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "armor-ivory-sapphire",
+      "name": "Ivory sapphire ceremonial armor",
+      "src_png": "/fashion/redrawn/armor-ivory-sapphire.png",
+      "src_webp": "/fashion/redrawn/armor-ivory-sapphire.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "hanfu-mint-brocade",
+      "name": "Mint brocade hanfu",
+      "src_png": "/fashion/redrawn/hanfu-mint-brocade.png",
+      "src_webp": "/fashion/redrawn/hanfu-mint-brocade.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062540-2).png"
+    },
+    {
+      "id": "pet-puppy-sleep-cloud",
+      "name": "Sleeping puppy on cloud",
+      "src_png": "/pets/redrawn/pet-puppy-sleep-cloud.png",
+      "src_webp": "/pets/redrawn/pet-puppy-sleep-cloud.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-puppy-eat-star",
+      "name": "Puppy eating star biscuit",
+      "src_png": "/pets/redrawn/pet-puppy-eat-star.png",
+      "src_webp": "/pets/redrawn/pet-puppy-eat-star.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-kitten-wave-joy",
+      "name": "Waving kitten",
+      "src_png": "/pets/redrawn/pet-kitten-wave-joy.png",
+      "src_webp": "/pets/redrawn/pet-kitten-wave-joy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-bear-celebrate",
+      "name": "Celebrating bear cub",
+      "src_png": "/pets/redrawn/pet-bear-celebrate.png",
+      "src_webp": "/pets/redrawn/pet-bear-celebrate.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-chick-cheer",
+      "name": "Cheerful golden chick",
+      "src_png": "/pets/redrawn/pet-chick-cheer.png",
+      "src_webp": "/pets/redrawn/pet-chick-cheer.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "pet-puppy-read",
+      "name": "Puppy reading a storybook",
+      "src_png": "/pets/redrawn/pet-puppy-read.png",
+      "src_webp": "/pets/redrawn/pet-puppy-read.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062556).png"
+    },
+    {
+      "id": "academy-star-jacket",
+      "name": "Academy star jacket",
+      "src_png": "/fashion/redrawn/academy-star-jacket.png",
+      "src_webp": "/fashion/redrawn/academy-star-jacket.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "peach-flower-gown",
+      "name": "Peach flower gown",
+      "src_png": "/fashion/redrawn/peach-flower-gown.png",
+      "src_webp": "/fashion/redrawn/peach-flower-gown.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "sapphire-star-capelet",
+      "name": "Sapphire star capelet",
+      "src_png": "/fashion/redrawn/sapphire-star-capelet.png",
+      "src_webp": "/fashion/redrawn/sapphire-star-capelet.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "ivory-sapphire-boots",
+      "name": "Ivory sapphire boots",
+      "src_png": "/fashion/redrawn/ivory-sapphire-boots.png",
+      "src_webp": "/fashion/redrawn/ivory-sapphire-boots.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "peach-lotus-boots",
+      "name": "Peach lotus boots",
+      "src_png": "/fashion/redrawn/peach-lotus-boots.png",
+      "src_webp": "/fashion/redrawn/peach-lotus-boots.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "ivory-star-boots",
+      "name": "Ivory star boots",
+      "src_png": "/fashion/redrawn/ivory-star-boots.png",
+      "src_webp": "/fashion/redrawn/ivory-star-boots.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "sapphire-braid-wig",
+      "name": "Sapphire braid wig",
+      "src_png": "/fashion/redrawn/sapphire-braid-wig.png",
+      "src_webp": "/fashion/redrawn/sapphire-braid-wig.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "peach-flower-wig",
+      "name": "Peach flower wig",
+      "src_png": "/fashion/redrawn/peach-flower-wig.png",
+      "src_webp": "/fashion/redrawn/peach-flower-wig.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "sapphire-star-scarf",
+      "name": "Sapphire star scarf",
+      "src_png": "/fashion/redrawn/sapphire-star-scarf.png",
+      "src_webp": "/fashion/redrawn/sapphire-star-scarf.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "peach-lotus-bow",
+      "name": "Peach lotus bow",
+      "src_png": "/fashion/redrawn/peach-lotus-bow.png",
+      "src_webp": "/fashion/redrawn/peach-lotus-bow.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "cloud-bear-hood",
+      "name": "Cloud bear hood",
+      "src_png": "/fashion/redrawn/cloud-bear-hood.png",
+      "src_webp": "/fashion/redrawn/cloud-bear-hood.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "sapphire-star-crown-cap",
+      "name": "Sapphire star crown cap",
+      "src_png": "/fashion/redrawn/sapphire-star-crown-cap.png",
+      "src_webp": "/fashion/redrawn/sapphire-star-crown-cap.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "sapphire-cloud-cape",
+      "name": "Sapphire cloud cape",
+      "src_png": "/fashion/redrawn/sapphire-cloud-cape.png",
+      "src_webp": "/fashion/redrawn/sapphire-cloud-cape.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "peach-paw-sweater",
+      "name": "Peach paw sweater",
+      "src_png": "/fashion/redrawn/peach-paw-sweater.png",
+      "src_webp": "/fashion/redrawn/peach-paw-sweater.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "ivory-star-satchel",
+      "name": "Ivory star satchel",
+      "src_png": "/fashion/redrawn/ivory-star-satchel.png",
+      "src_webp": "/fashion/redrawn/ivory-star-satchel.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "gold-star-glasses",
+      "name": "Gold star glasses",
+      "src_png": "/fashion/redrawn/gold-star-glasses.png",
+      "src_webp": "/fashion/redrawn/gold-star-glasses.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "fashion",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062603).png"
+    },
+    {
+      "id": "frame-cloud-star",
+      "name": "Cloud star frame",
+      "src_png": "/frames/redrawn/frame-cloud-star.png",
+      "src_webp": "/frames/redrawn/frame-cloud-star.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "frame-peach-ribbon",
+      "name": "Peach ribbon frame",
+      "src_png": "/frames/redrawn/frame-peach-ribbon.png",
+      "src_webp": "/frames/redrawn/frame-peach-ribbon.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "frame-moonwing-sapphire",
+      "name": "Sapphire moonwing frame",
+      "src_png": "/frames/redrawn/frame-moonwing-sapphire.png",
+      "src_webp": "/frames/redrawn/frame-moonwing-sapphire.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "frame-golden-blossom",
+      "name": "Golden blossom frame",
+      "src_png": "/frames/redrawn/frame-golden-blossom.png",
+      "src_webp": "/frames/redrawn/frame-golden-blossom.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "frame-crystal-wing",
+      "name": "Crystal wing frame",
+      "src_png": "/frames/redrawn/frame-crystal-wing.png",
+      "src_webp": "/frames/redrawn/frame-crystal-wing.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "frame-royal-rosewing",
+      "name": "Royal rosewing frame",
+      "src_png": "/frames/redrawn/frame-royal-rosewing.png",
+      "src_webp": "/frames/redrawn/frame-royal-rosewing.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "frame",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062621).png"
+    },
+    {
+      "id": "pet-bear-wave-star",
+      "name": "Bear cub waving",
+      "src_png": "/pets/redrawn/pet-bear-wave-star.png",
+      "src_webp": "/pets/redrawn/pet-bear-wave-star.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062622).png"
+    },
+    {
+      "id": "pet-chick-flight-star",
+      "name": "Flying star chick",
+      "src_png": "/pets/redrawn/pet-chick-flight-star.png",
+      "src_webp": "/pets/redrawn/pet-chick-flight-star.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062622).png"
+    },
+    {
+      "id": "mochi-read-book",
+      "name": "Mochi reading a book",
+      "src_png": "/pets/redrawn/mochi-read-book.png",
+      "src_webp": "/pets/redrawn/mochi-read-book.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062624).png"
+    },
+    {
+      "id": "mochi-eat-star",
+      "name": "Mochi eating star treats",
+      "src_png": "/pets/redrawn/mochi-eat-star.png",
+      "src_webp": "/pets/redrawn/mochi-eat-star.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062624).png"
+    },
+    {
+      "id": "mochi-sleep-cloud",
+      "name": "Mochi sleeping on a cloud",
+      "src_png": "/pets/redrawn/mochi-sleep-cloud.png",
+      "src_webp": "/pets/redrawn/mochi-sleep-cloud.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062624).png"
+    },
+    {
+      "id": "mochi-study-map",
+      "name": "Mochi studying a map",
+      "src_png": "/pets/redrawn/mochi-study-map.png",
+      "src_webp": "/pets/redrawn/mochi-study-map.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062624).png"
+    },
+    {
+      "id": "mochi-wave",
+      "name": "Mochi waving",
+      "src_png": "/pets/redrawn/mochi-wave.png",
+      "src_webp": "/pets/redrawn/mochi-wave.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "pet",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062637).png"
+    },
+    {
+      "id": "mochi-emote-calm",
+      "name": "Mochi emote: Calm",
+      "src_png": "/emotes/redrawn/mochi-emote-calm.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-calm.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-happy",
+      "name": "Mochi emote: Happy",
+      "src_png": "/emotes/redrawn/mochi-emote-happy.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-happy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-love",
+      "name": "Mochi emote: Love",
+      "src_png": "/emotes/redrawn/mochi-emote-love.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-love.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-surprised",
+      "name": "Mochi emote: Surprised",
+      "src_png": "/emotes/redrawn/mochi-emote-surprised.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-surprised.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-sad",
+      "name": "Mochi emote: Sad",
+      "src_png": "/emotes/redrawn/mochi-emote-sad.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-sad.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-angry",
+      "name": "Mochi emote: Angry",
+      "src_png": "/emotes/redrawn/mochi-emote-angry.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-angry.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-sleepy",
+      "name": "Mochi emote: Sleepy",
+      "src_png": "/emotes/redrawn/mochi-emote-sleepy.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-sleepy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-cool",
+      "name": "Mochi emote: Cool",
+      "src_png": "/emotes/redrawn/mochi-emote-cool.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-cool.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-wink",
+      "name": "Mochi emote: Wink",
+      "src_png": "/emotes/redrawn/mochi-emote-wink.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-wink.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-shy",
+      "name": "Mochi emote: Shy",
+      "src_png": "/emotes/redrawn/mochi-emote-shy.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-shy.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-cry",
+      "name": "Mochi emote: Crying",
+      "src_png": "/emotes/redrawn/mochi-emote-cry.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-cry.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-celebrate",
+      "name": "Mochi emote: Celebrating",
+      "src_png": "/emotes/redrawn/mochi-emote-celebrate.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-celebrate.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-confused",
+      "name": "Mochi emote: Confused",
+      "src_png": "/emotes/redrawn/mochi-emote-confused.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-confused.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-kiss",
+      "name": "Mochi emote: Kiss",
+      "src_png": "/emotes/redrawn/mochi-emote-kiss.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-kiss.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-tired",
+      "name": "Mochi emote: Tired",
+      "src_png": "/emotes/redrawn/mochi-emote-tired.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-tired.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "mochi-emote-amazed",
+      "name": "Mochi emote: Amazed",
+      "src_png": "/emotes/redrawn/mochi-emote-amazed.png",
+      "src_webp": "/emotes/redrawn/mochi-emote-amazed.webp",
+      "width": 1024,
+      "height": 1024,
+      "category": "emote",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "status": "generated-and-visual-reviewed",
+      "source_sheet": "image(20261027-062642).png"
+    },
+    {
+      "id": "item-strawberry",
+      "name": "Item Strawberry",
+      "src_png": "/items/redrawn/item-strawberry.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-strawberry.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-milk",
+      "name": "Item Milk",
+      "src_png": "/items/redrawn/item-milk.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-milk.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-heart-cookie",
+      "name": "Item Heart Cookie",
+      "src_png": "/items/redrawn/item-heart-cookie.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-heart-cookie.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-lotus-bouquet",
+      "name": "Item Lotus Bouquet",
+      "src_png": "/items/redrawn/item-lotus-bouquet.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-lotus-bouquet.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-gift-box",
+      "name": "Item Gift Box",
+      "src_png": "/items/redrawn/item-gift-box.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-gift-box.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-rainbow",
+      "name": "Item Rainbow",
+      "src_png": "/items/redrawn/item-rainbow.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-rainbow.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-treasure-chest",
+      "name": "Item Treasure Chest",
+      "src_png": "/items/redrawn/item-treasure-chest.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-treasure-chest.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-heart-charm",
+      "name": "Item Heart Charm",
+      "src_png": "/items/redrawn/item-heart-charm.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-heart-charm.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-star-coin",
+      "name": "Item Star Coin",
+      "src_png": "/items/redrawn/item-star-coin.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-star-coin.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-star",
+      "name": "Item Egg Star",
+      "src_png": "/items/redrawn/item-egg-star.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-star.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-crystal",
+      "name": "Item Egg Crystal",
+      "src_png": "/items/redrawn/item-egg-crystal.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-crystal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-flower",
+      "name": "Item Egg Flower",
+      "src_png": "/items/redrawn/item-egg-flower.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-flower.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-prism",
+      "name": "Item Egg Prism",
+      "src_png": "/items/redrawn/item-egg-prism.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-prism.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-leaf",
+      "name": "Item Egg Leaf",
+      "src_png": "/items/redrawn/item-egg-leaf.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-leaf.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-egg-flame",
+      "name": "Item Egg Flame",
+      "src_png": "/items/redrawn/item-egg-flame.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-egg-flame.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "item-spirit-flower",
+      "name": "Item Spirit Flower",
+      "src_png": "/items/redrawn/item-spirit-flower.png",
+      "width": 1024,
+      "category": "items",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/items/redrawn/item-spirit-flower.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659-1).png"
+    },
+    {
+      "id": "study-castle",
+      "name": "Study Castle",
+      "src_png": "/study-icons/redrawn/study-castle.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-castle.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-mochi",
+      "name": "Study Mochi",
+      "src_png": "/study-icons/redrawn/study-mochi.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-mochi.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-avatar-orb",
+      "name": "Study Avatar Orb",
+      "src_png": "/study-icons/redrawn/study-avatar-orb.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-avatar-orb.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-cloud-bubble",
+      "name": "Study Cloud Bubble",
+      "src_png": "/study-icons/redrawn/study-cloud-bubble.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-cloud-bubble.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-crystal-pedestal",
+      "name": "Study Crystal Pedestal",
+      "src_png": "/study-icons/redrawn/study-crystal-pedestal.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-crystal-pedestal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-wand",
+      "name": "Study Wand",
+      "src_png": "/study-icons/redrawn/study-wand.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-wand.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-heart",
+      "name": "Study Heart",
+      "src_png": "/study-icons/redrawn/study-heart.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-heart.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-medal",
+      "name": "Study Medal",
+      "src_png": "/study-icons/redrawn/study-medal.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-medal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-chat",
+      "name": "Study Chat",
+      "src_png": "/study-icons/redrawn/study-chat.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-chat.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-star-badge",
+      "name": "Study Star Badge",
+      "src_png": "/study-icons/redrawn/study-star-badge.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-star-badge.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-video-camera",
+      "name": "Study Video Camera",
+      "src_png": "/study-icons/redrawn/study-video-camera.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-video-camera.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-drive-folder",
+      "name": "Study Drive Folder",
+      "src_png": "/study-icons/redrawn/study-drive-folder.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-drive-folder.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-globe",
+      "name": "Study Globe",
+      "src_png": "/study-icons/redrawn/study-globe.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-globe.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-check",
+      "name": "Study Check",
+      "src_png": "/study-icons/redrawn/study-check.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-check.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-clock",
+      "name": "Study Clock",
+      "src_png": "/study-icons/redrawn/study-clock.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-clock.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "study-teapot",
+      "name": "Study Teapot",
+      "src_png": "/study-icons/redrawn/study-teapot.png",
+      "width": 1024,
+      "category": "study-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/study-icons/redrawn/study-teapot.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062704).png"
+    },
+    {
+      "id": "lesson-book-stack",
+      "name": "Lesson Book Stack",
+      "src_png": "/lesson-icons/redrawn/lesson-book-stack.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-book-stack.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-open-book",
+      "name": "Lesson Open Book",
+      "src_png": "/lesson-icons/redrawn/lesson-open-book.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-open-book.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-lotus",
+      "name": "Lesson Lotus",
+      "src_png": "/lesson-icons/redrawn/lesson-lotus.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-lotus.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-hourglass",
+      "name": "Lesson Hourglass",
+      "src_png": "/lesson-icons/redrawn/lesson-hourglass.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-hourglass.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-flame",
+      "name": "Lesson Flame",
+      "src_png": "/lesson-icons/redrawn/lesson-flame.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-flame.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-moon-star",
+      "name": "Lesson Moon Star",
+      "src_png": "/lesson-icons/redrawn/lesson-moon-star.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-moon-star.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-bronze-medal",
+      "name": "Lesson Bronze Medal",
+      "src_png": "/lesson-icons/redrawn/lesson-bronze-medal.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-bronze-medal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-silver-medal",
+      "name": "Lesson Silver Medal",
+      "src_png": "/lesson-icons/redrawn/lesson-silver-medal.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-silver-medal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-gold-medal",
+      "name": "Lesson Gold Medal",
+      "src_png": "/lesson-icons/redrawn/lesson-gold-medal.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-gold-medal.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-diamond",
+      "name": "Lesson Diamond",
+      "src_png": "/lesson-icons/redrawn/lesson-diamond.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-diamond.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-crown",
+      "name": "Lesson Crown",
+      "src_png": "/lesson-icons/redrawn/lesson-crown.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-crown.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-star-pet",
+      "name": "Lesson Star Pet",
+      "src_png": "/lesson-icons/redrawn/lesson-star-pet.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-star-pet.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-wand",
+      "name": "Lesson Wand",
+      "src_png": "/lesson-icons/redrawn/lesson-wand.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-wand.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-headphones",
+      "name": "Lesson Headphones",
+      "src_png": "/lesson-icons/redrawn/lesson-headphones.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-headphones.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-quill",
+      "name": "Lesson Quill",
+      "src_png": "/lesson-icons/redrawn/lesson-quill.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-quill.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "lesson-planner",
+      "name": "Lesson Planner",
+      "src_png": "/lesson-icons/redrawn/lesson-planner.png",
+      "width": 1024,
+      "category": "lesson-icons",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/lesson-icons/redrawn/lesson-planner.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062715).png"
+    },
+    {
+      "id": "avatar-frame-cloud-lotus",
+      "name": "Avatar Frame Cloud Lotus",
+      "src_png": "/frames/redrawn/avatar-frame-cloud-lotus.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-cloud-lotus.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062710).png"
+    },
+    {
+      "id": "avatar-frame-coral-gold",
+      "name": "Avatar Frame Coral Gold",
+      "src_png": "/frames/redrawn/avatar-frame-coral-gold.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-coral-gold.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062710).png"
+    },
+    {
+      "id": "avatar-frame-sapphire-pearl",
+      "name": "Avatar Frame Sapphire Pearl",
+      "src_png": "/frames/redrawn/avatar-frame-sapphire-pearl.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-sapphire-pearl.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062659).png"
+    },
+    {
+      "id": "avatar-frame-golden-lotus",
+      "name": "Avatar Frame Golden Lotus",
+      "src_png": "/frames/redrawn/avatar-frame-golden-lotus.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-golden-lotus.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062710).png"
+    },
+    {
+      "id": "avatar-frame-crystal-wing",
+      "name": "Avatar Frame Crystal Wing",
+      "src_png": "/frames/redrawn/avatar-frame-crystal-wing.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-crystal-wing.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062710).png"
+    },
+    {
+      "id": "avatar-frame-royal-blossom",
+      "name": "Avatar Frame Royal Blossom",
+      "src_png": "/frames/redrawn/avatar-frame-royal-blossom.png",
+      "width": 1024,
+      "category": "frames",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/frames/redrawn/avatar-frame-royal-blossom.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062710).png"
+    },
+    {
+      "id": "pet-mochi-portrait",
+      "name": "Pet Mochi Portrait",
+      "src_png": "/pets/redrawn/pet-mochi-portrait.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/pet-mochi-portrait.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062630).png"
+    },
+    {
+      "id": "pet-mochi-thinking-reader",
+      "name": "Pet Mochi Thinking Reader",
+      "src_png": "/pets/redrawn/pet-mochi-thinking-reader.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/pet-mochi-thinking-reader.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062630).png"
+    },
+    {
+      "id": "pet-cloud-puppy-wave",
+      "name": "Pet Cloud Puppy Wave",
+      "src_png": "/pets/redrawn/pet-cloud-puppy-wave.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/pet-cloud-puppy-wave.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062630).png"
+    },
+    {
+      "id": "pet-mochi-reading",
+      "name": "Pet Mochi Reading",
+      "src_png": "/pets/redrawn/pet-mochi-reading.png",
+      "width": 1024,
+      "category": "pets",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/pets/redrawn/pet-mochi-reading.webp",
+      "height": 1024,
+      "source_sheet": "image(20261027-062630).png"
+    },
+    {
+      "id": "quest-badge-first",
+      "name": "Badge First",
+      "src_png": "/icons/quest/redrawn/quest-badge-first.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-badge-first.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/badge-first"
+    },
+    {
+      "id": "quest-badge-speaking",
+      "name": "Badge Speaking",
+      "src_png": "/icons/quest/redrawn/quest-badge-speaking.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-badge-speaking.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/badge-speaking"
+    },
+    {
+      "id": "quest-badge-streak",
+      "name": "Badge Streak",
+      "src_png": "/icons/quest/redrawn/quest-badge-streak.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-badge-streak.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/badge-streak"
+    },
+    {
+      "id": "quest-badge-vocabulary",
+      "name": "Badge Vocabulary",
+      "src_png": "/icons/quest/redrawn/quest-badge-vocabulary.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-badge-vocabulary.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/badge-vocabulary"
+    },
+    {
+      "id": "quest-bank",
+      "name": "Bank",
+      "src_png": "/icons/quest/redrawn/quest-bank.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-bank.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/bank"
+    },
+    {
+      "id": "quest-books",
+      "name": "Books",
+      "src_png": "/icons/quest/redrawn/quest-books.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-books.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/books"
+    },
+    {
+      "id": "quest-bronze-rank",
+      "name": "Bronze Rank",
+      "src_png": "/icons/quest/redrawn/quest-bronze-rank.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-bronze-rank.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/bronze"
+    },
+    {
+      "id": "quest-check",
+      "name": "Check",
+      "src_png": "/icons/quest/redrawn/quest-check.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-check.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/check"
+    },
+    {
+      "id": "quest-clock",
+      "name": "Clock",
+      "src_png": "/icons/quest/redrawn/quest-clock.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-clock.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/clock"
+    },
+    {
+      "id": "quest-community",
+      "name": "Community",
+      "src_png": "/icons/quest/redrawn/quest-community.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-community.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/community-orbit"
+    },
+    {
+      "id": "quest-cooking",
+      "name": "Cooking",
+      "src_png": "/icons/quest/redrawn/quest-cooking.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-cooking.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/cooking"
+    },
+    {
+      "id": "quest-course",
+      "name": "Course",
+      "src_png": "/icons/quest/redrawn/quest-course.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-course.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/course"
+    },
+    {
+      "id": "quest-crown",
+      "name": "Crown",
+      "src_png": "/icons/quest/redrawn/quest-crown.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-crown.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/crown"
+    },
+    {
+      "id": "quest-day",
+      "name": "Day",
+      "src_png": "/icons/quest/redrawn/quest-day.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "generated-and-visual-reviewed",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-day.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/day"
+    },
+    {
+      "id": "quest-diamond",
+      "name": "Diamond",
+      "src_png": "/icons/quest/redrawn/quest-diamond.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "custom-vector-reviewed-needs-art-review",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-diamond.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/diamond"
+    },
+    {
+      "id": "quest-directions",
+      "name": "Directions",
+      "src_png": "/icons/quest/redrawn/quest-directions.png",
+      "width": 1024,
+      "category": "icons/quest",
+      "status": "custom-vector-reviewed-needs-art-review",
+      "format": [
+        "PNG RGBA",
+        "WebP"
+      ],
+      "src_webp": "/icons/quest/redrawn/quest-directions.webp",
+      "height": 1024,
+      "source_sheet": "catalog/icons/quest/directions"
+    }
+  ],
+  "notes": "43 cumulative standalone master-style artworks. The lesson-controls sheet is now fully redrawn as 12 individual icons."
+}

@@ -1,0 +1,537 @@
+{
+  "title": "Mở tài khoản ngân hàng",
+  "subtitle": "Học cách giao dịch và hỏi về các dịch vụ tài chính tại ngân hàng bằng tiếng Anh",
+  "emoji": "✨",
+  "level": "B1",
+  "words": [
+    {
+      "en": "savings account",
+      "vi": "tài khoản tiết kiệm",
+      "example": "I want to open a savings account with a high interest rate.",
+      "translation": "Tôi muốn mở một tài khoản tiết kiệm với lãi suất cao.",
+      "ipa": ""
+    },
+    {
+      "en": "checking account",
+      "vi": "tài khoản thanh toán",
+      "example": "My salary is deposited directly into my checking account every month.",
+      "translation": "Lương của tôi được chuyển khoản trực tiếp vào tài khoản thanh toán mỗi tháng.",
+      "ipa": ""
+    },
+    {
+      "en": "minimum balance",
+      "vi": "số dư tối thiểu",
+      "example": "You need to maintain a minimum balance of 100 dollars to avoid fees.",
+      "translation": "Bạn cần duy trì số dư tối thiểu 100 đô la để tránh phí phát sinh.",
+      "ipa": ""
+    },
+    {
+      "en": "interest rate",
+      "vi": "lãi suất",
+      "example": "What is the current interest rate for this loan?",
+      "translation": "Lãi suất hiện tại cho khoản vay này là bao nhiêu?",
+      "ipa": ""
+    },
+    {
+      "en": "ATM card",
+      "vi": "thẻ ATM",
+      "example": "It takes about five business days to receive your new ATM card.",
+      "translation": "Mất khoảng năm ngày làm việc để nhận thẻ ATM mới của bạn.",
+      "ipa": ""
+    },
+    {
+      "en": "fee",
+      "vi": "phí",
+      "example": "Are there any monthly maintenance fees for this account?",
+      "translation": "Có bất kỳ khoản phí duy trì hàng tháng nào cho tài khoản này không?",
+      "ipa": ""
+    },
+    {
+      "en": "statement",
+      "vi": "sao kê tài khoản",
+      "example": "I receive my bank statement via email at the end of each month.",
+      "translation": "Tôi nhận sao kê tài khoản qua email vào cuối mỗi tháng.",
+      "ipa": ""
+    },
+    {
+      "en": "deposit",
+      "vi": "gửi tiền",
+      "example": "I would like to deposit five hundred dollars into my account.",
+      "translation": "Tôi muốn gửi năm trăm đô la vào tài khoản của mình.",
+      "ipa": ""
+    },
+    {
+      "en": "withdraw",
+      "vi": "rút tiền",
+      "example": "You can withdraw cash from any of our nationwide ATMs.",
+      "translation": "Bạn có thể rút tiền mặt từ bất kỳ cây ATM nào trên toàn quốc của chúng tôi.",
+      "ipa": ""
+    },
+    {
+      "en": "exchange rate",
+      "vi": "tỷ giá hối đoái",
+      "example": "The exchange rate for US dollars changes every single day.",
+      "translation": "Tỷ giá hối đoái cho đồng đô la Mỹ thay đổi mỗi ngày.",
+      "ipa": ""
+    }
+  ],
+  "dialogue": [
+    [
+      "Clerk",
+      "Good morning! How can I help you with your banking needs today?",
+      "Chào buổi sáng! Hôm nay tôi có thể hỗ trợ bạn giao dịch gì?"
+    ],
+    [
+      "Customer",
+      "Good morning. I would like to open a new checking account, please.",
+      "Chào buổi sáng. Tôi muốn mở một tài khoản thanh toán mới."
+    ],
+    [
+      "Clerk",
+      "Certainly. Please fill out this form and make sure you maintain a minimum balance of fifty dollars.",
+      "Chắc chắn rồi. Vui lòng điền vào mẫu này và đảm bảo bạn duy trì số dư tối thiểu năm mươi đô la."
+    ],
+    [
+      "Customer",
+      "That sounds fine. Also, when will my ATM card arrive in the mail?",
+      "Vậy được đấy. Khi nào tôi sẽ nhận được thẻ ATM qua bưu điện?"
+    ]
+  ],
+  "grammar": {
+    "title": "Câu điều kiện loại 1 (First Conditional)",
+    "rule": "Dùng để diễn tả một sự việc có thể xảy ra ở hiện tại hoặc tương lai nếu điều kiện được đáp ứng. Cấu trúc: If + hiện tại đơn, tương lai đơn (will + V-bare).",
+    "example": "If you maintain a minimum balance, you will not pay any monthly fees.",
+    "note": "Mệnh đề 'if' dùng thì hiện tại đơn dù diễn tả tương lai, và mệnh đề chính dùng 'will'."
+  },
+  "grammarPractice": [
+    {
+      "prompt": "If you _________ this form correctly, the clerk will process your request.",
+      "options": [
+        "fill out",
+        "filled out",
+        "will fill out",
+        "filling out"
+      ],
+      "correct": 0,
+      "explanation": "Trong câu điều kiện loại 1, mệnh đề 'if' sử dụng thì hiện tại đơn ('fill out' với chủ ngữ 'you')."
+    },
+    {
+      "prompt": "Chọn dạng tương lai đơn cho mệnh đề chính: If she deposits the money today, it ___ available tomorrow.",
+      "options": [
+        "is",
+        "will be",
+        "was",
+        "would be"
+      ],
+      "correct": 1,
+      "explanation": "Mệnh đề chính của câu điều kiện loại 1 dùng thì tương lai đơn (will + V-bare), do đó chọn 'will be'."
+    },
+    {
+      "prompt": "Điền để diễn đạt “nếu tôi không duy trì số dư tối thiểu”: What will happen if I ___ the minimum balance?",
+      "options": [
+        "exceed",
+        "don't maintain",
+        "will not maintain",
+        "maintained"
+      ],
+      "correct": 1,
+      "explanation": "Mệnh đề sau 'if' cần chia ở hiện tại đơn dạng phủ định với chủ ngữ 'I', nên dùng 'don't maintain'."
+    },
+    {
+      "prompt": "If you need cash immediately, you _________ use our ATM outside.",
+      "options": [
+        "can",
+        "cans",
+        "will can",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": "Có thể dùng động từ khuyết thiếu như 'can' ở mệnh đề chính để chỉ khả năng hoặc sự cho phép trong câu điều kiện."
+    },
+    {
+      "prompt": "If they _________ their account statement online, they will save time.",
+      "options": [
+        "check",
+        "checked",
+        "will check",
+        "checking"
+      ],
+      "correct": 0,
+      "explanation": "Chủ ngữ là 'they' (số nhiều) ở hiện tại đơn nên động từ giữ nguyên dạng nguyên thể không 'to' là 'check'."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "If you _________ this form correctly, the clerk will process your request.",
+      "options": [
+        "fill out",
+        "filled out",
+        "will fill out",
+        "filling out"
+      ],
+      "correct": 0,
+      "explanation": "Trong câu điều kiện loại 1, mệnh đề 'if' sử dụng thì hiện tại đơn ('fill out' với chủ ngữ 'you')."
+    },
+    {
+      "prompt": "Chọn dạng tương lai đơn cho mệnh đề chính: If she deposits the money today, it ___ available tomorrow.",
+      "options": [
+        "is",
+        "will be",
+        "was",
+        "would be"
+      ],
+      "correct": 1,
+      "explanation": "Mệnh đề chính của câu điều kiện loại 1 dùng thì tương lai đơn (will + V-bare), do đó chọn 'will be'."
+    },
+    {
+      "prompt": "What type of account does the customer want to open?",
+      "options": [
+        "A savings account",
+        "A checking account",
+        "A business loan account",
+        "A retirement account"
+      ],
+      "correct": 1,
+      "explanation": "Khách hàng đã nói rõ trong đoạn hội thoại rằng: 'I would like to open a new checking account, please.'"
+    }
+  ],
+  "practice": [
+    {
+      "prompt": "“savings account” có nghĩa là gì?",
+      "options": [
+        "tài khoản tiết kiệm",
+        "tài khoản thanh toán",
+        "số dư tối thiểu",
+        "lãi suất"
+      ],
+      "correct": 0,
+      "explanation": "I want to open a savings account with a high interest rate. — Tôi muốn mở một tài khoản tiết kiệm với lãi suất cao."
+    },
+    {
+      "prompt": "“checking account” có nghĩa là gì?",
+      "options": [
+        "số dư tối thiểu",
+        "lãi suất",
+        "thẻ ATM",
+        "tài khoản thanh toán"
+      ],
+      "correct": 3,
+      "explanation": "My salary is deposited directly into my checking account every month. — Lương của tôi được chuyển khoản trực tiếp vào tài khoản thanh toán mỗi tháng."
+    },
+    {
+      "prompt": "“minimum balance” có nghĩa là gì?",
+      "options": [
+        "thẻ ATM",
+        "phí",
+        "số dư tối thiểu",
+        "lãi suất"
+      ],
+      "correct": 2,
+      "explanation": "You need to maintain a minimum balance of 100 dollars to avoid fees. — Bạn cần duy trì số dư tối thiểu 100 đô la để tránh phí phát sinh."
+    },
+    {
+      "prompt": "“interest rate” có nghĩa là gì?",
+      "options": [
+        "sao kê tài khoản",
+        "lãi suất",
+        "thẻ ATM",
+        "phí"
+      ],
+      "correct": 1,
+      "explanation": "What is the current interest rate for this loan? — Lãi suất hiện tại cho khoản vay này là bao nhiêu?"
+    },
+    {
+      "prompt": "“ATM card” có nghĩa là gì?",
+      "options": [
+        "thẻ ATM",
+        "phí",
+        "sao kê tài khoản",
+        "gửi tiền"
+      ],
+      "correct": 0,
+      "explanation": "It takes about five business days to receive your new ATM card. — Mất khoảng năm ngày làm việc để nhận thẻ ATM mới của bạn."
+    },
+    {
+      "prompt": "“fee” có nghĩa là gì?",
+      "options": [
+        "sao kê tài khoản",
+        "gửi tiền",
+        "rút tiền",
+        "phí"
+      ],
+      "correct": 3,
+      "explanation": "Are there any monthly maintenance fees for this account? — Có bất kỳ khoản phí duy trì hàng tháng nào cho tài khoản này không?"
+    },
+    {
+      "prompt": "“statement” có nghĩa là gì?",
+      "options": [
+        "rút tiền",
+        "tỷ giá hối đoái",
+        "sao kê tài khoản",
+        "gửi tiền"
+      ],
+      "correct": 2,
+      "explanation": "I receive my bank statement via email at the end of each month. — Tôi nhận sao kê tài khoản qua email vào cuối mỗi tháng."
+    },
+    {
+      "prompt": "“deposit” có nghĩa là gì?",
+      "options": [
+        "tài khoản tiết kiệm",
+        "gửi tiền",
+        "rút tiền",
+        "tỷ giá hối đoái"
+      ],
+      "correct": 1,
+      "explanation": "I would like to deposit five hundred dollars into my account. — Tôi muốn gửi năm trăm đô la vào tài khoản của mình."
+    },
+    {
+      "prompt": "“withdraw” có nghĩa là gì?",
+      "options": [
+        "rút tiền",
+        "tỷ giá hối đoái",
+        "tài khoản tiết kiệm",
+        "tài khoản thanh toán"
+      ],
+      "correct": 0,
+      "explanation": "You can withdraw cash from any of our nationwide ATMs. — Bạn có thể rút tiền mặt từ bất kỳ cây ATM nào trên toàn quốc của chúng tôi."
+    },
+    {
+      "prompt": "“exchange rate” có nghĩa là gì?",
+      "options": [
+        "tài khoản tiết kiệm",
+        "tài khoản thanh toán",
+        "số dư tối thiểu",
+        "tỷ giá hối đoái"
+      ],
+      "correct": 3,
+      "explanation": "The exchange rate for US dollars changes every single day. — Tỷ giá hối đoái cho đồng đô la Mỹ thay đổi mỗi ngày."
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “tài khoản tiết kiệm”.",
+      "options": [
+        "minimum balance",
+        "savings account",
+        "interest rate",
+        "ATM card"
+      ],
+      "correct": 1,
+      "explanation": "tài khoản tiết kiệm = savings account"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “tài khoản thanh toán”.",
+      "options": [
+        "interest rate",
+        "checking account",
+        "ATM card",
+        "fee"
+      ],
+      "correct": 1,
+      "explanation": "tài khoản thanh toán = checking account"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “số dư tối thiểu”.",
+      "options": [
+        "ATM card",
+        "minimum balance",
+        "fee",
+        "statement"
+      ],
+      "correct": 1,
+      "explanation": "số dư tối thiểu = minimum balance"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “lãi suất”.",
+      "options": [
+        "fee",
+        "interest rate",
+        "statement",
+        "deposit"
+      ],
+      "correct": 1,
+      "explanation": "lãi suất = interest rate"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “thẻ ATM”.",
+      "options": [
+        "statement",
+        "ATM card",
+        "deposit",
+        "withdraw"
+      ],
+      "correct": 1,
+      "explanation": "thẻ ATM = ATM card"
+    }
+  ],
+  "test": [
+    {
+      "prompt": "“savings account” có nghĩa là gì?",
+      "options": [
+        "tài khoản tiết kiệm",
+        "tài khoản thanh toán",
+        "số dư tối thiểu",
+        "lãi suất"
+      ],
+      "correct": 0,
+      "explanation": "I want to open a savings account with a high interest rate. — Tôi muốn mở một tài khoản tiết kiệm với lãi suất cao."
+    },
+    {
+      "prompt": "“checking account” có nghĩa là gì?",
+      "options": [
+        "số dư tối thiểu",
+        "lãi suất",
+        "thẻ ATM",
+        "tài khoản thanh toán"
+      ],
+      "correct": 3,
+      "explanation": "My salary is deposited directly into my checking account every month. — Lương của tôi được chuyển khoản trực tiếp vào tài khoản thanh toán mỗi tháng."
+    },
+    {
+      "prompt": "“minimum balance” có nghĩa là gì?",
+      "options": [
+        "thẻ ATM",
+        "phí",
+        "số dư tối thiểu",
+        "lãi suất"
+      ],
+      "correct": 2,
+      "explanation": "You need to maintain a minimum balance of 100 dollars to avoid fees. — Bạn cần duy trì số dư tối thiểu 100 đô la để tránh phí phát sinh."
+    },
+    {
+      "prompt": "“interest rate” có nghĩa là gì?",
+      "options": [
+        "sao kê tài khoản",
+        "lãi suất",
+        "thẻ ATM",
+        "phí"
+      ],
+      "correct": 1,
+      "explanation": "What is the current interest rate for this loan? — Lãi suất hiện tại cho khoản vay này là bao nhiêu?"
+    },
+    {
+      "prompt": "“ATM card” có nghĩa là gì?",
+      "options": [
+        "thẻ ATM",
+        "phí",
+        "sao kê tài khoản",
+        "gửi tiền"
+      ],
+      "correct": 0,
+      "explanation": "It takes about five business days to receive your new ATM card. — Mất khoảng năm ngày làm việc để nhận thẻ ATM mới của bạn."
+    },
+    {
+      "prompt": "If you _________ this form correctly, the clerk will process your request.",
+      "options": [
+        "fill out",
+        "filled out",
+        "will fill out",
+        "filling out"
+      ],
+      "correct": 0,
+      "explanation": "Trong câu điều kiện loại 1, mệnh đề 'if' sử dụng thì hiện tại đơn ('fill out' với chủ ngữ 'you')."
+    },
+    {
+      "prompt": "Chọn dạng tương lai đơn cho mệnh đề chính: If she deposits the money today, it ___ available tomorrow.",
+      "options": [
+        "is",
+        "will be",
+        "was",
+        "would be"
+      ],
+      "correct": 1,
+      "explanation": "Mệnh đề chính của câu điều kiện loại 1 dùng thì tương lai đơn (will + V-bare), do đó chọn 'will be'."
+    },
+    {
+      "prompt": "Điền để diễn đạt “nếu tôi không duy trì số dư tối thiểu”: What will happen if I ___ the minimum balance?",
+      "options": [
+        "exceed",
+        "don't maintain",
+        "will not maintain",
+        "maintained"
+      ],
+      "correct": 1,
+      "explanation": "Mệnh đề sau 'if' cần chia ở hiện tại đơn dạng phủ định với chủ ngữ 'I', nên dùng 'don't maintain'."
+    },
+    {
+      "prompt": "If you need cash immediately, you _________ use our ATM outside.",
+      "options": [
+        "can",
+        "cans",
+        "will can",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": "Có thể dùng động từ khuyết thiếu như 'can' ở mệnh đề chính để chỉ khả năng hoặc sự cho phép trong câu điều kiện."
+    },
+    {
+      "prompt": "If they _________ their account statement online, they will save time.",
+      "options": [
+        "check",
+        "checked",
+        "will check",
+        "checking"
+      ],
+      "correct": 0,
+      "explanation": "Chủ ngữ là 'they' (số nhiều) ở hiện tại đơn nên động từ giữ nguyên dạng nguyên thể không 'to' là 'check'."
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “tài khoản tiết kiệm”.",
+      "options": [
+        "minimum balance",
+        "savings account",
+        "interest rate",
+        "ATM card"
+      ],
+      "correct": 1,
+      "explanation": "tài khoản tiết kiệm = savings account"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “tài khoản thanh toán”.",
+      "options": [
+        "interest rate",
+        "checking account",
+        "ATM card",
+        "fee"
+      ],
+      "correct": 1,
+      "explanation": "tài khoản thanh toán = checking account"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “số dư tối thiểu”.",
+      "options": [
+        "ATM card",
+        "minimum balance",
+        "fee",
+        "statement"
+      ],
+      "correct": 1,
+      "explanation": "số dư tối thiểu = minimum balance"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “lãi suất”.",
+      "options": [
+        "fee",
+        "interest rate",
+        "statement",
+        "deposit"
+      ],
+      "correct": 1,
+      "explanation": "lãi suất = interest rate"
+    },
+    {
+      "prompt": "Chọn tiếng Anh cho “thẻ ATM”.",
+      "options": [
+        "statement",
+        "ATM card",
+        "deposit",
+        "withdraw"
+      ],
+      "correct": 1,
+      "explanation": "thẻ ATM = ATM card"
+    }
+  ],
+  "id": "ai-ee6f62bc61f462dfcf24",
+  "source": "gemini",
+  "created_at": "2026-10-26T13:37:06+00:00",
+  "reviewed_at": "2026-10-26",
+  "review_note": "Vietnamese wording and ambiguous grammar distractors edited before packaging."
+}

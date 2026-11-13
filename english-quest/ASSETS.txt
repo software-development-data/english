@@ -1,0 +1,20 @@
+Tài sản dùng trong sản phẩm: public/quest-team.png
+Công cụ: ImageGen tích hợp (không dùng API key hay CLI).
+Prompt tạo hình cuối:
+Original 16:9 wide banner illustration for ENGLISH QUEST. Japanese anime chibi
+kawaii pastel, delicate handdrawn linework. Four original friends on right 55%:
+LUNA: blue-haired blue-eyed girl, white-blue outfit, cloud headphones.
+MIMI: coral pink-haired pink-eyed girl, peach pastel dress, pencil.
+YUKI: silver white-haired blue-eyed girl, white dress, pink bow, open book.
+MOCHI: golden-yellow round fluffy star creature, tiny ears and feet,
+sparkling eyes and pink cheeks, original star spirit, not an octopus or fox.
+Pale blue fantasy classroom garden, floating bubbles, stars and open books.
+Left 45% almost empty pale blue #eff8ff for text overlay.
+Luna upper right, Mimi far right, Yuki lower center right, Mochi lower right.
+No text, watermark, logos or existing franchise characters.
+
+Avatar trong app là các khung CSS lấy cùng bộ hình gốc để giữ nhất quán.
+public/quest-world.png là ý tưởng Mia/cáo ban đầu trước khi nhận master prompt;
+giữ lại như tài sản nguồn, không được tham chiếu bởi giao diện cuối.
+Không sao chép logo hay nhân vật từ 8 ảnh tham chiếu của người dùng.
+Hình tạo riêng cho dự án; không khẳng định độc quyền pháp lý hoặc đăng ký bản quyền.

@@ -1,0 +1,31 @@
+ENGLISH QUEST PRO — PHASE 15 ASSET QA
+
+Manifest entries: 153; checked 306 PNG/WebP files. PASS: each exists, decodes as 1024 x 1024 RGBA, and contains alpha transparency. 16 expression images visually reviewed. TypeScript check: PASS. Production build: PASS.
+
+Completed sheets: 062540, 062540-1, 062540-2, 062544, 062556, 062603, 062620, 062621, 062622, 062624, 062637, 062642, 062720. Total 13 complete, 11 not started of 24. Config is included at private/config.php outside public_html.
+
+PHASE 16
+58 standalone assets generated and visually inspected in a contact sheet. PNG and WebP files are 1024x1024 RGBA with transparent safe margins. Per-file size, alpha and decoding checks passed for all 58 pairs.
+Assets: 16 inventory items, 16 utility/study icons, 16 lesson icons, 6 avatar frames, 4 pet illustrations.
+Source-sheet reuse: 062550 reuses completed outfit redraws; 062827 is an exact duplicate of 062823.
+
+PHASE 17 — QUEST CATALOG ICONS
+16 separate quest icons added with PNG RGBA and WebP 1024x1024 transparent exports. 14 were image-generated and visually reviewed. quest-diamond and quest-directions were drawn as custom layered vector-style raster art after image-generation quota was reached; flagged for art review rather than marked as generated. Catalog rows for the 16 corresponding icon IDs were updated.
+
+PHASE 17 QA SUMMARY
+TypeScript: PASS (pnpm check). Next production build: PASS (pnpm build).
+Catalog manifest: 227 entries; 0 missing PNG/WebP references; 0 incorrect dimensions/mode/alpha.
+Source sheets: 24/24 accounted for (22 redraw, 2 reused).
+Catalog audit: 475 paths, 403 still pending redraw; 9 marked NEEDS ART REVIEW.
+Config: private/config.php present outside public_html. No deployment.
+
+RESUMPTION QUEUE
+288 unique catalog assets remain across 403 pending source paths. Priority queue: asset-redraw-queue.csv. Image generation was retried and still reports usage_limit_reached; no pending assets were marked complete without actual artwork.
+
+
+SOURCE PREFLIGHT — RESUMPTION QUEUE
+403 pending catalog paths were checked against source/public: all 403 exist and decode successfully (0 missing files, 0 decode errors). The queue now contains 288 unique design entries, preserves original file references and provides category-specific redraw prompts. Pending status remains unchanged until artwork is created and reviewed.
+
+PHASE 17 PACKAGE REPAIR
+The package now includes the complete static export at public_html root (index.html, home.html, hub.html, 404.html), custom cute 404 design, and Apache .htaccess routing. All 227 manifest PNG/WebP references exist; private/config.php remains outside public_html. Extract the archive at the hosting account root, not inside public_html.
+
