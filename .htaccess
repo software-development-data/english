@@ -1,0 +1,8 @@
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+Options -MultiViews
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^home/?$ home.html [L]
+  RewriteRule ^hub/?$ hub.html [L]
+</IfModule>
